@@ -1,0 +1,15 @@
+# Remove stories from the feed (and keep matching items from ever being published).
+# Takes effect on the next run. Matching is case-insensitive.
+
+# Exact story URLs (the published link)
+urls: []
+#  - https://example.com/some-story
+
+# Any URL on these domains (subdomains included)
+domains: []
+#  - example.com
+
+# Regex matched against the headline
+title_patterns: []
+#  - 'webinar'
+#  - 'sponsored'

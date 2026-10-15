@@ -1,0 +1,13 @@
+# Force stories into the feed regardless of score, caps or age.
+# Required: url, title, category (Advisory | Incidents | Research | Technology | Policy)
+# Optional: source (defaults to the domain), summary (written by the editor if
+#           omitted), published (ISO 8601, defaults to when it was added).
+# To unpin, delete the entry; the story stays in the feed unless also blocklisted.
+
+pinned: []
+#  - url: https://www.cisa.gov/news-events/alerts/2026/10/15/example
+#    title: CISA releases new guidance for securing OT
+#    category: Policy
+#    source: CISA
+#    summary: CISA published guidance on ...
+#    published: 2026-10-15T14:00:00Z

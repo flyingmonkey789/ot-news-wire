@@ -1,0 +1,209 @@
+# Direct RSS/Atom sources.
+#
+# Fields
+#   id         unique slug (used in logs and the weekly review)
+#   name       display name shown on the site as the story source
+#   url        feed URL
+#   type       gov | research | media | vendor
+#   org        organization, used for the per-vendor daily cap (defaults to name)
+#   ot_native  true = every item is OT-relevant, skip the keyword prefilter
+#   enabled    false to pause a source without deleting it
+#
+# Run `python scripts/check_feeds.py` after editing to confirm every URL parses.
+# Feeds marked "# verify" are best-known URLs that should be confirmed on first run.
+
+sources:
+  # ---------------- Government ----------------
+  - id: cisa-ics
+    name: CISA
+    url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+    type: gov
+    ot_native: true
+  - id: cisa-advisories
+    name: CISA
+    url: https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml
+    type: gov
+  - id: cisa-alerts
+    name: CISA
+    url: https://www.cisa.gov/cybersecurity-advisories/alerts.xml
+    type: gov
+  - id: cisa-news
+    name: CISA
+    url: https://www.cisa.gov/news.xml
+    type: gov
+  - id: ncsc-uk
+    name: NCSC (UK)
+    url: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+    type: gov
+  - id: cccs
+    name: Canadian Centre for Cyber Security
+    url: https://www.cyber.gc.ca/api/cccs/atom/v1/get?feed=alerts_advisories&lang=en
+    type: gov
+  - id: acsc-alerts
+    name: ASD's ACSC (Australia)
+    url: https://www.cyber.gov.au/rss/alerts
+    type: gov
+  - id: acsc-advisories
+    name: ASD's ACSC (Australia)
+    url: https://www.cyber.gov.au/rss/advisories
+    type: gov
+  - id: cert-eu
+    name: CERT-EU
+    url: https://cert.europa.eu/publications/security-advisories-rss
+    type: gov
+  - id: ms-isac
+    name: CIS / MS-ISAC
+    url: https://www.cisecurity.org/feed/advisories
+    type: gov
+
+  # ---------------- OT research teams ----------------
+  - id: dragos
+    name: Dragos
+    url: https://www.dragos.com/feed/
+    type: research
+    ot_native: true
+  - id: claroty
+    name: Claroty Team82
+    org: Claroty
+    url: https://claroty.com/team82/research/rss   # verify
+    type: research
+    ot_native: true
+  - id: nozomi
+    name: Nozomi Networks Labs
+    org: Nozomi Networks
+    url: https://www.nozominetworks.com/blog/rss.xml   # verify
+    type: research
+    ot_native: true
+  - id: forescout
+    name: Forescout Vedere Labs
+    org: Forescout
+    url: https://www.forescout.com/feed/   # verify
+    type: research
+  - id: txone
+    name: TXOne Networks
+    org: TXOne
+    url: https://www.txone.com/feed/   # verify
+    type: research
+    ot_native: true
+  - id: kaspersky-ics
+    name: Kaspersky ICS CERT
+    org: Kaspersky
+    url: https://ics-cert.kaspersky.com/feed/   # verify
+    type: research
+    ot_native: true
+  - id: waterfall
+    name: Waterfall Security
+    url: https://waterfall-security.com/feed/   # verify
+    type: vendor
+    ot_native: true
+
+  # General threat-intel teams (prefiltered for OT relevance)
+  - id: talos
+    name: Cisco Talos
+    org: Cisco
+    url: https://blog.talosintelligence.com/rss/
+    type: research
+  - id: unit42
+    name: Unit 42
+    org: Palo Alto Networks
+    url: https://unit42.paloaltonetworks.com/feed/
+    type: research
+  - id: microsoft-security
+    name: Microsoft Security
+    org: Microsoft
+    url: https://www.microsoft.com/en-us/security/blog/feed/
+    type: research
+  - id: eset
+    name: ESET WeLiveSecurity
+    org: ESET
+    url: https://www.welivesecurity.com/en/rss/feed/
+    type: research
+  - id: rapid7
+    name: Rapid7
+    url: https://blog.rapid7.com/rss/
+    type: research
+
+  # ---------------- OT-focused media ----------------
+  - id: industrial-cyber
+    name: Industrial Cyber
+    url: https://industrialcyber.co/feed/
+    type: media
+    ot_native: true
+  - id: securityweek-ics
+    name: SecurityWeek
+    url: https://www.securityweek.com/category/ics-ot/feed/
+    type: media
+    ot_native: true
+
+  # ---------------- General security & trade media (prefiltered) ----------------
+  - id: the-record
+    name: The Record
+    url: https://therecord.media/feed
+    type: media
+  - id: bleepingcomputer
+    name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+    type: media
+  - id: dark-reading
+    name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+    type: media
+  - id: cybersecurity-dive
+    name: Cybersecurity Dive
+    url: https://www.cybersecuritydive.com/feeds/news/
+    type: media
+  - id: utility-dive
+    name: Utility Dive
+    url: https://www.utilitydive.com/feeds/news/
+    type: media
+  - id: helpnetsecurity
+    name: Help Net Security
+    url: https://www.helpnetsecurity.com/feed/
+    type: media
+  - id: the-hacker-news
+    name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    type: media
+  - id: security-affairs
+    name: Security Affairs
+    url: https://securityaffairs.com/feed
+    type: media
+
+# Google News results come from many publishers. These domains get a source
+# type (and org, for the vendor cap) instead of the default "media".
+domains:
+  cisa.gov:              {type: gov, org: CISA}
+  ncsc.gov.uk:           {type: gov, org: NCSC (UK)}
+  cyber.gov.au:          {type: gov, org: ACSC}
+  cyber.gc.ca:           {type: gov, org: CCCS}
+  enisa.europa.eu:       {type: gov, org: ENISA}
+  bsi.bund.de:           {type: gov, org: BSI}
+  energy.gov:            {type: gov, org: DOE}
+  epa.gov:               {type: gov, org: EPA}
+  tsa.gov:               {type: gov, org: TSA}
+  nerc.com:              {type: gov, org: NERC}
+  whitehouse.gov:        {type: gov, org: White House}
+  dragos.com:            {type: research, org: Dragos}
+  claroty.com:           {type: research, org: Claroty}
+  nozominetworks.com:    {type: research, org: Nozomi Networks}
+  forescout.com:         {type: research, org: Forescout}
+  txone.com:             {type: research, org: TXOne}
+  ics-cert.kaspersky.com: {type: research, org: Kaspersky}
+  armis.com:             {type: vendor, org: Armis}
+  industrialdefender.com: {type: vendor, org: Industrial Defender}
+  waterfall-security.com: {type: vendor, org: Waterfall Security}
+  shift5.io:             {type: vendor, org: Shift5}
+  radiflow.com:          {type: vendor, org: Radiflow}
+  otorio.com:            {type: vendor, org: OTORIO}
+  fortinet.com:          {type: vendor, org: Fortinet}
+  paloaltonetworks.com:  {type: vendor, org: Palo Alto Networks}
+  tenable.com:           {type: vendor, org: Tenable}
+  rockwellautomation.com: {type: vendor, org: Rockwell Automation}
+  siemens.com:           {type: vendor, org: Siemens}
+  se.com:                {type: vendor, org: Schneider Electric}
+  honeywell.com:         {type: vendor, org: Honeywell}
+  axonius.com:           {type: vendor, org: Axonius}
+  prnewswire.com:        {type: vendor}
+  businesswire.com:      {type: vendor}
+  globenewswire.com:     {type: vendor}
+  accessnewswire.com:    {type: vendor}

@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OT Wire — OT Security News Feed</title>
+<meta name="description" content="Advisories, threat intel, incidents and research on OT/ICS security, aggregated into one filterable feed.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+  :root {
+    --bg: #F5F5F7;
+    --surface: #FFFFFF;
+    --ink: #1D1D1F;
+    --ink-2: #424245;
+    --ink-3: #515154;
+    --muted: #6E6E73;
+    --line: rgba(0,0,0,0.08);
+    --black: #0A0A0A;
+    --link: #0066CC;
+    --yellow: #FFD60A;
+    --tag-advisory: #FFD60A;
+    --tag-tech: #FF9F5A;
+    --tag-incident: #FF8FAB;
+    --tag-research: #8AD4FF;
+    --tag-policy: #B6F09C;
+    --sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", system-ui, sans-serif;
+    --grotesk: "Space Grotesk", var(--sans);
+    --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    --wrap: 1360px;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; scroll-padding-top: 140px; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 24px; }
+  .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  :focus-visible { outline: 3px solid var(--link); outline-offset: 2px; }
+
+  /* Ticker */
+  .ticker { background: var(--black); color: var(--bg); overflow: hidden; }
+  .ticker .wrap { display: flex; align-items: center; gap: 16px; padding-top: 10px; padding-bottom: 10px; font-family: var(--mono); font-size: 12px; letter-spacing: .04em; white-space: nowrap; }
+  .live { background: var(--yellow); color: var(--black); padding: 3px 8px; font-weight: 700; flex: none; }
+  .live::before { content: "●"; margin-right: 6px; animation: blink 1.6s steps(2, start) infinite; }
+  @keyframes blink { to { visibility: hidden; } }
+  .ticker-track { overflow: hidden; flex: 1; mask-image: linear-gradient(90deg, #000 90%, transparent); }
+  .ticker-inner { display: inline-block; padding-left: 0; animation: scroll 60s linear infinite; }
+  @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+  /* Nav */
+  .nav { position: sticky; top: 0; z-index: 10; background: rgba(245,245,247,.82); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid var(--line); }
+  .nav .wrap { height: 56px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+  .brand-mark { width: 26px; height: 26px; background: var(--yellow); border: 2px solid var(--black); box-shadow: 2px 2px 0 var(--black); display: inline-flex; align-items: center; justify-content: center; }
+  .brand-name { font-family: var(--grotesk); font-weight: 700; font-size: 18px; letter-spacing: -.02em; }
+  .nav-links { display: flex; align-items: center; gap: 24px; font-size: 14px; }
+  .nav-links a { text-decoration: none; }
+  .nav-links a:hover { color: var(--link); }
+  .pill { background: var(--ink); color: #fff !important; padding: 7px 14px; border-radius: 980px; font-weight: 500; }
+  .pill:hover { background: #000; }
+
+  /* Hero */
+  .hero { padding: 56px 0 40px; display: flex; flex-wrap: wrap; gap: 48px; align-items: center; justify-content: space-between; }
+  .hero-copy { flex: 1 1 520px; min-width: 0; max-width: 660px; }
+  .hero-actions { margin-top: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
+
+  /* Hero graphic */
+  .hero-art { flex: 0 1 520px; min-width: 0; position: relative; align-self: stretch; min-height: 240px; }
+  .art-card { position: absolute; background: var(--surface); border: 3px solid var(--black); box-shadow: 6px 6px 0 var(--black); padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
+  .art-card { height: calc(56% - 6px); overflow: hidden; box-sizing: border-box; }
+  .art-back  { top: 0;   left: 22%; width: 66%; background: var(--yellow); }
+  .art-mid   { top: 22%; left: 11%; width: 70%; }
+  .art-front { top: 44%; left: 0;   width: 76%; }
+  .art-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 600; }
+  .art-meta .d { color: var(--muted); font-weight: 400; }
+  .art-tag { font-family: var(--mono); font-size: 10px; font-weight: 700; letter-spacing: .06em; padding: 2px 6px; border: 2px solid var(--black); }
+  .bar { height: 10px; background: var(--ink); border-radius: 2px; }
+  .bar.soft { height: 8px; background: #D2D2D7; }
+  .art-sticker { position: absolute; top: 18px; right: 0; width: 84px; height: 84px; background: var(--black); color: var(--yellow); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; font-family: var(--mono); font-size: 10px; font-weight: 700; letter-spacing: .08em; box-shadow: 6px 6px 0 var(--yellow), 6px 6px 0 3px var(--black); }
+  .art-count { position: absolute; right: 4%; bottom: 0; background: var(--surface); border: 3px solid var(--black); box-shadow: 5px 5px 0 var(--black); padding: 10px 14px; font-family: var(--mono); font-size: 11px; font-weight: 700; letter-spacing: .06em; display: flex; align-items: center; gap: 10px; }
+  .art-count .dot { width: 10px; height: 10px; background: #34C759; border: 2px solid var(--black); border-radius: 50%; }
+  @media (max-width: 900px) { .hero-art { display: none; } }
+
+  .eyebrow { margin: 0 0 12px; font-size: 13px; font-weight: 600; color: var(--muted); letter-spacing: -.01em; }
+  .hero h1 { margin: 0; font-size: clamp(32px, 3.8vw, 52px); line-height: 1.08; letter-spacing: -.04em; font-weight: 700; }
+  .hilite { background: var(--yellow); color: inherit; padding: 0 .12em; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+  .lede { margin: 18px 0 0; max-width: 620px; font-size: 17px; line-height: 1.5; color: var(--ink-2); letter-spacing: -.01em; }
+
+  .promises { display: flex; }
+  .promises a { display: inline-flex; align-items: center; height: 44px; box-sizing: border-box; font-family: var(--mono); font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; padding: 8px 12px; border: 2px solid var(--black); background: var(--surface); color: var(--black); transition: transform .12s, box-shadow .12s; }
+  .promises a:hover { transform: translate(-1px,-1px); box-shadow: 3px 3px 0 var(--black); color: var(--black); }
+
+  .card-brut { background: var(--surface); border: 3px solid var(--black); box-shadow: 8px 8px 0 var(--black); }
+  .btn-brut.sources-btn { height: 44px; padding: 0 18px; font-size: 14px; box-sizing: border-box; }
+
+  .modal { width: min(520px, calc(100vw - 32px)); padding: 28px; color: var(--ink); }
+  .modal::backdrop { background: rgba(245,245,247,.6); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+  .modal[open] { animation: pop .18s ease-out; }
+  @keyframes pop { from { transform: translate(4px,4px); box-shadow: 0 0 0 var(--black); } }
+  .modal-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+  .modal-head h2 { margin: 0; font-size: 26px; letter-spacing: -.03em; line-height: 1.15; }
+  .modal-close { flex: none; width: 44px; height: 44px; display: inline-flex; align-items: center; justify-content: center; background: var(--yellow); color: var(--black); border: 2px solid var(--black); box-shadow: 3px 3px 0 var(--black); cursor: pointer; }
+  .modal-close:hover { transform: translate(-1px,-1px); box-shadow: 4px 4px 0 var(--black); }
+  .modal-sub { margin: 10px 0 22px; font-size: 15px; color: var(--ink-3); }
+  .source-list { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; border-top: 2px solid var(--black); }
+  .source-list li { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 2px; border-bottom: 1px solid var(--line); font-size: 16px; font-weight: 600; }
+  .source-list li span { font-family: var(--mono); font-size: 11px; font-weight: 700; color: var(--muted); letter-spacing: .06em; }
+
+  /* Filter bar */
+  .filters { position: sticky; top: 56px; z-index: 9; padding: 16px 0; background: var(--bg); }
+  .filter-box { background: var(--surface); border: 3px solid var(--black); box-shadow: 6px 6px 0 var(--black); padding: 14px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; flex: 999 1 520px; min-width: 0; }
+  .chip {
+    font-family: var(--grotesk); font-size: 14px; font-weight: 700;
+    height: 44px; padding: 0 14px; display: inline-flex; align-items: center; gap: 8px;
+    background: var(--surface); color: var(--black);
+    border: 2px solid var(--black); border-radius: 0; cursor: pointer;
+    transition: transform .12s, box-shadow .12s;
+  }
+  .chip:hover { transform: translate(-1px,-1px); box-shadow: 2px 2px 0 var(--black); }
+  .chip[aria-pressed="true"] { background: var(--chip-fill, var(--black)); color: var(--chip-ink, #fff); box-shadow: 3px 3px 0 var(--black); }
+  .chip .count { font-family: var(--mono); font-size: 11px; opacity: .7; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; flex: 1 1 300px; min-width: 0; }
+  .field { flex: 1 1 140px; min-width: 0; height: 44px; padding: 0 14px; font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 2px solid var(--black); border-radius: 0; }
+  select.field { cursor: pointer; font-weight: 500; appearance: none; padding-right: 36px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%230A0A0A' stroke-width='2.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 12px center; }
+  .field::placeholder { color: var(--muted); }
+  .field:focus { outline: none; background: #fff; box-shadow: 3px 3px 0 var(--black); }
+
+  /* Feed */
+  .feed-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; padding: 28px 4px 12px; }
+  .feed-meta h2 { margin: 0; font-size: 28px; letter-spacing: -.03em; }
+  .feed-meta span { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+  .feed { background: var(--surface); border-radius: 22px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.04); list-style: none; margin: 0; padding: 0; }
+  .feed li + li .row { border-top: 1px solid var(--line); }
+  .row { display: flex; flex-wrap: wrap; gap: 8px 28px; padding: 26px 28px; text-decoration: none; transition: background .15s; }
+  .row:hover { background: #FAFAFC; }
+  .row:hover .hl { color: var(--link); }
+  .when { flex: 0 0 96px; display: flex; flex-direction: column; gap: 4px; padding-top: 3px; }
+  .when b { font-family: var(--mono); font-size: 12px; }
+  .when span { font-size: 12px; color: var(--muted); }
+  .body { flex: 999 1 420px; min-width: 0; display: flex; flex-direction: column; gap: 10px; }
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; font-size: 13px; }
+  .meta .src { font-weight: 600; }
+  .meta .sector { color: var(--muted); }
+  .tag { font-family: var(--mono); font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 3px 8px; border: 2px solid var(--black); color: var(--black); }
+  .cvss { font-family: var(--mono); font-size: 11px; font-weight: 700; padding: 2px 6px; border: 2px solid var(--black); background: var(--black); color: var(--yellow); }
+  .hl { margin: 0; font-size: 21px; line-height: 1.3; letter-spacing: -.02em; font-weight: 600; transition: color .15s; }
+  .sum { margin: 0; font-size: 15px; line-height: 1.5; color: var(--ink-3); }
+  .chev { flex: none; align-self: center; font-size: 22px; color: var(--link); transition: transform .15s; }
+  .row:hover .chev { transform: translateX(3px); }
+
+  .empty { padding: 72px 28px; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 16px; }
+  .empty p { margin: 0; font-size: 19px; font-weight: 600; }
+  .btn-brut { font: inherit; font-size: 14px; font-weight: 700; height: 44px; padding: 0 18px; background: var(--yellow); color: var(--black); border: 2px solid var(--black); box-shadow: 4px 4px 0 var(--black); cursor: pointer; transition: transform .12s, box-shadow .12s; }
+  .btn-brut:hover { transform: translate(-2px,-2px); box-shadow: 6px 6px 0 var(--black); }
+
+  .more { display: flex; justify-content: center; padding: 40px 0 24px; }
+  .btn-apple { font: inherit; font-size: 15px; font-weight: 600; height: 48px; padding: 0 28px; background: var(--ink); color: #fff; border: none; border-radius: 980px; cursor: pointer; }
+  .btn-apple:hover { background: #000; }
+  .btn-apple[hidden] { display: none; }
+
+  /* RSS */
+  .rss { margin: 72px 0 96px; background: var(--yellow); border: 3px solid var(--black); box-shadow: 10px 10px 0 var(--black); padding: 48px 40px; display: flex; flex-wrap: wrap; gap: 24px; align-items: center; justify-content: space-between; }
+  .rss h2 { margin: 0; font-family: var(--grotesk); font-size: clamp(32px, 4.5vw, 52px); line-height: 1; letter-spacing: -.04em; color: var(--black); }
+  .rss p { margin: 14px 0 0; font-size: 17px; color: var(--black); }
+  .rss-btn { display: inline-flex; align-items: center; gap: 10px; height: 52px; padding: 0 24px; background: var(--black); color: var(--yellow); font-family: var(--mono); font-weight: 700; font-size: 14px; letter-spacing: .04em; border: 3px solid var(--black); cursor: pointer; transition: transform .12s, box-shadow .12s; }
+  .rss-btn:hover { transform: translate(-2px,-2px); box-shadow: 4px 4px 0 #fff; }
+
+  footer { border-top: 1px solid rgba(0,0,0,.1); }
+  footer .wrap { padding-top: 24px; padding-bottom: 24px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; font-size: 12px; color: var(--muted); }
+  footer .mono { font-family: var(--mono); }
+
+  @media (max-width: 640px) {
+    .nav-links a:not(.pill) { display: none; }
+    .hero { padding: 56px 0 40px; }
+    .lede { font-size: 18px; }
+    .row { padding: 22px 20px; }
+    .when { flex-direction: row; gap: 8px; flex-basis: 100%; }
+    .chev { display: none; }
+    .rss { padding: 32px 24px; box-shadow: 6px 6px 0 var(--black); }
+    .filters { position: static; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before { animation: none !important; transition: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <nav class="wrap" aria-label="Primary">
+    <a href="#top" class="brand">
+      <span class="brand-mark">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0A0A0A" stroke-width="3" stroke-linecap="square" aria-hidden="true"><path d="M3 12h4l3-8 4 16 3-8h4"/></svg>
+      </span>
+      <span class="brand-name">OT Wire</span>
+    </a>
+    <div class="nav-links">
+      <a href="#feed">Feed</a>
+      <a href="#sources" id="navSources">Sources</a>
+      <a href="#rss" class="pill">Get RSS</a>
+    </div>
+  </nav>
+</header>
+
+<main id="top" class="wrap">
+
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">OT SECURITY NEWSWIRE</p>
+      <h1>The <mark class="hilite">OT security</mark><br>news aggregator</h1>
+      <p class="lede">OT Wire aggregates OT and ICS security news from government advisories, researchers, media, and vendors, covering emerging threats, vulnerabilities, breaking news, and product updates.</p>
+      <div class="hero-actions">
+        <button type="button" class="btn-brut sources-btn" id="openSources">See all <span id="sourceCount"></span> sources →</button>
+        <div class="promises">
+          <a href="https://www.linkedin.com/in/kschewitz/" target="_blank" rel="noopener">Maintained by Kamden Schewitz ↗</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-art" aria-hidden="true">
+      <div class="art-card art-back">
+        <div class="art-meta"><span class="art-tag" style="background:var(--tag-research)">RESEARCH</span></div>
+        <div class="bar" style="width:72%"></div>
+        <div class="bar" style="width:50%"></div>
+        <div class="bar soft" style="width:80%; background:rgba(0,0,0,.18)"></div>
+        <div class="bar soft" style="width:62%; background:rgba(0,0,0,.18)"></div>
+      </div>
+      <div class="art-card art-mid">
+        <div class="art-meta"><span class="art-tag" style="background:var(--tag-tech)">TECHNOLOGY</span><span>SecurityWeek</span></div>
+        <div class="bar" style="width:84%"></div>
+        <div class="bar" style="width:58%"></div>
+        <div class="bar soft" style="width:86%"></div>
+        <div class="bar soft" style="width:60%"></div>
+      </div>
+      <div class="art-card art-front">
+        <div class="art-meta"><span class="art-tag" style="background:var(--tag-advisory)">ADVISORY</span><span>CISA ICS</span><span class="d">· Oct 15</span></div>
+        <div class="bar" style="width:92%"></div>
+        <div class="bar" style="width:64%"></div>
+        <div class="bar soft" style="width:88%"></div>
+        <div class="bar soft" style="width:70%"></div>
+      </div>
+    </div>
+  </section>
+
+  <dialog id="sourcesModal" class="modal card-brut" aria-labelledby="modalTitle">
+    <div class="modal-head">
+      <h2 id="modalTitle">Where the news comes from</h2>
+      <button type="button" class="modal-close" id="closeSources" aria-label="Close">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>
+      </button>
+    </div>
+    <p class="modal-sub">Every story in the feed links back to one of these publishers.</p>
+    <ul class="source-list" id="sourceList"></ul>
+  </dialog>
+
+  <section id="feed" class="filters" aria-label="Filter the feed">
+    <div class="filter-box">
+      <div class="chips" id="chips" role="group" aria-label="Category"></div>
+      <div class="controls">
+        <label for="src" class="sr-only">Source</label>
+        <select id="src" class="field"></select>
+        <label for="q" class="sr-only">Search headlines</label>
+        <input id="q" class="field" type="search" placeholder="Search" autocomplete="off">
+      </div>
+    </div>
+  </section>
+
+  <div class="feed-meta">
+    <h2>Latest</h2>
+  </div>
+
+  <ul class="feed" id="feedList"></ul>
+
+  <div class="more"><button type="button" class="btn-apple" id="loadMore">Load more</button></div>
+
+  <section id="rss" class="rss">
+    <div style="flex: 999 1 420px; min-width: 0">
+      <h2>TAKE THE FEED WITH YOU.</h2>
+      <p>One RSS URL. Every source. Drop it in your reader of choice.</p>
+    </div>
+    <button type="button" class="rss-btn" id="copyRss">COPY RSS URL →</button>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>OT Wire is a free public resource. Every headline links to its original publisher.</span>
+    <span class="mono">Maintained by <a href="https://www.linkedin.com/in/kschewitz" target="_blank" rel="noopener">Kamden Schewitz</a></span>
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   CONFIG — swap these when the real feed is ready
+   ============================================================ */
+const CONFIG = {
+  rssUrl: new URL("feed.xml", location.href).href,   // outbound RSS, published by the pipeline
+  feedUrl: "feed.json",                               // written hourly by the pipeline
+  pageSize: 8,                              // stories shown before "Load more"
+  // Each item: { url, published (ISO), category, source, sector, title, summary }
+};
+
+const CATEGORIES = [
+  { name: "Advisory",     color: "var(--tag-advisory)" },
+  { name: "Incidents",    color: "var(--tag-incident)" },
+  { name: "Research",     color: "var(--tag-research)" },
+  { name: "Technology",   color: "var(--tag-tech)" },
+  { name: "Policy",       color: "var(--tag-policy)" },
+];
+
+async function loadFeed() {
+  try {
+    // Hour-bucketed cache-buster so visitors get the latest hourly run.
+    const bust = Math.floor(Date.now() / 3.6e6);
+    const res = await fetch(`${CONFIG.feedUrl}?v=${bust}`);
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    if (Array.isArray(data) && data.length) return data;
+  } catch (err) {
+    console.warn("OT Wire: feed.json unavailable, showing sample data", err);
+  }
+  return SAMPLE_DATA;
+}
+
+/* Sample data — invented headlines, shown only if feed.json fails to load */
+const SAMPLE_DATA = [
+  { url: "#", published: "2026-10-15T10:20:00-04:00", category: "Technology", source: "SecurityWeek", sector: "Cross-sector", title: "Passive OT monitoring platform adds native support for legacy serial protocols", summary: "The update extends asset discovery to older fieldbus networks without active scanning, a long-standing gap in brownfield plants." },
+  { url: "#", published: "2026-10-14T10:05:00-04:00", category: "Technology", source: "Industrial Cyber", sector: "Manufacturing", title: "Open-source tool maps PLC logic changes across engineering workstations", summary: "The project diffs ladder logic between snapshots so operators can spot unauthorized edits before they reach production." },
+  { url: "#", published: "2026-10-15T14:52:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Energy", cvss: "9.8", title: "Authentication bypass in substation gateway firmware allows remote configuration changes", summary: "Affected versions expose a maintenance interface without credential checks. Vendor patch available; network segmentation advised in the interim." },
+  { url: "#", published: "2026-10-15T13:10:00-04:00", category: "Research", source: "Dragos", sector: "Oil & Gas", title: "New activity group observed staging access in midstream pipeline control networks", summary: "Reconnaissance targeting engineering workstations and historian servers, with living-off-the-land techniques to avoid detection." },
+  { url: "#", published: "2026-10-15T11:38:00-04:00", category: "Incidents", source: "The Record", sector: "Water", title: "Regional water utility shifts to manual operations after HMI compromise", summary: "Operators isolated SCADA systems as a precaution. No impact to water quality reported; investigation ongoing with state officials." },
+  { url: "#", published: "2026-10-15T09:05:00-04:00", category: "Research", source: "Claroty Team82", sector: "Manufacturing", cvss: "8.1", title: "Researchers chain three PLC flaws to achieve persistent code execution", summary: "The chain survives firmware reloads by abusing a legacy project-file loader. Coordinated disclosure completed with the vendor." },
+  { url: "#", published: "2026-10-14T17:44:00-04:00", category: "Policy", source: "SecurityWeek", sector: "Cross-sector", title: "Proposed rule would require 72-hour incident reporting for critical OT operators", summary: "The draft extends mandatory reporting to mid-size utilities and adds asset inventory obligations for control system environments." },
+  { url: "#", published: "2026-10-14T15:21:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Building Automation", cvss: "7.5", title: "Hard-coded credentials found in building management controllers", summary: "Attackers on the same network could read and modify HVAC and access-control setpoints. Firmware update resolves the issue." },
+  { url: "#", published: "2026-10-14T12:02:00-04:00", category: "Research", source: "Nozomi Networks Labs", sector: "Healthcare", cvss: "6.8", title: "Wireless sensor protocol weakness enables spoofed telemetry in clinical facilities", summary: "Replay of unsigned frames lets an attacker inject false readings. Mitigations include encrypted links and anomaly baselining." },
+  { url: "#", published: "2026-10-14T08:30:00-04:00", category: "Research", source: "Mandiant", sector: "Energy", title: "Ransomware affiliates increasingly target IT/OT boundary systems", summary: "Jump hosts and remote access appliances remain the most common pivot point into plant networks across observed cases." },
+  { url: "#", published: "2026-10-13T16:15:00-04:00", category: "Incidents", source: "Industrial Cyber", sector: "Transportation", title: "Rail operator confirms disruption to signaling scheduling systems", summary: "Services ran on reduced timetables for several hours. The operator says safety-critical interlocking systems were not affected." },
+  { url: "#", published: "2026-10-13T10:48:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Manufacturing", cvss: "9.1", title: "Path traversal in industrial historian web console exposes plant data", summary: "Unauthenticated users can read arbitrary files, including stored credentials. Upgrade or restrict console access to trusted hosts." },
+  { url: "#", published: "2026-10-13T09:12:00-04:00", category: "Policy", source: "The Record", sector: "Cross-sector", title: "International agencies publish joint guidance on securing OT remote access", summary: "Recommendations center on brokered access, session recording, and eliminating always-on vendor connections." },
+  { url: "#", published: "2026-10-12T18:30:00-04:00", category: "Research", source: "Dragos", sector: "Electric", title: "Field study: most utilities still lack complete OT asset inventories", summary: "Visibility gaps cluster around remote substations and third-party maintained equipment, slowing vulnerability response." },
+];
+
+/* ============================================================
+   APP
+   ============================================================ */
+const state = { cat: "All", source: "All", query: "", shown: CONFIG.pageSize, items: [] };
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const catColor = (name) => (CATEGORIES.find((c) => c.name === name) || {}).color || "#fff";
+
+const timeFmt = new Intl.DateTimeFormat("en-US", { hour: "2-digit", minute: "2-digit", hour12: false });
+const dateFmt = new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" });
+
+function matchesQuery(d) {
+  const q = state.query.trim().toLowerCase();
+  if (!q) return true;
+  return `${d.title} ${d.summary} ${d.sector || ""} ${d.source}`.toLowerCase().includes(q);
+}
+function matchesSource(d) { return state.source === "All" || d.source === state.source; }
+
+function renderChips() {
+  const base = state.items.filter((d) => matchesSource(d) && matchesQuery(d));
+  const all = [{ name: "All", color: "var(--black)" }, ...CATEGORIES];
+  $("chips").innerHTML = all.map((c) => {
+    const count = c.name === "All" ? base.length : base.filter((d) => d.category === c.name).length;
+    const pressed = state.cat === c.name;
+    const ink = c.name === "All" ? "#fff" : "var(--black)";
+    return `<button type="button" class="chip" data-cat="${esc(c.name)}" aria-pressed="${pressed}"
+      style="--chip-fill:${c.color};--chip-ink:${ink}">${esc(c.name)} <span class="count">${count}</span></button>`;
+  }).join("");
+}
+
+function renderFeed() {
+  const filtered = state.items.filter((d) =>
+    (state.cat === "All" || d.category === state.cat) && matchesSource(d) && matchesQuery(d));
+  const visible = filtered.slice(0, state.shown);
+
+
+  if (!filtered.length) {
+    $("feedList").innerHTML = `<li class="empty"><p>Nothing matches those filters.</p>
+      <button type="button" class="btn-brut" id="resetBtn">Clear filters</button></li>`;
+    $("resetBtn").onclick = resetFilters;
+  } else {
+    $("feedList").innerHTML = visible.map((d) => {
+      const dt = new Date(d.published);
+      const external = d.url && d.url !== "#";
+      return `<li><a class="row" href="${esc(d.url || "#")}" ${external ? 'target="_blank" rel="noopener"' : ""}>
+        <div class="body">
+          <div class="meta">
+            <span class="tag" style="background:${catColor(d.category)}">${esc(d.category)}</span>
+            <span class="src">${esc(d.source)}</span>
+            <time class="sector" datetime="${esc(d.published)}">· ${dateFmt.format(dt)}</time>
+          </div>
+          <h3 class="hl">${esc(d.title)}</h3>
+          <p class="sum">${esc(d.summary)}</p>
+        </div>
+        <span class="chev" aria-hidden="true">›</span>
+      </a></li>`;
+    }).join("");
+  }
+  $("loadMore").hidden = filtered.length <= state.shown;
+}
+
+function render() { renderChips(); renderFeed(); }
+
+function resetFilters() {
+  Object.assign(state, { cat: "All", source: "All", query: "", shown: CONFIG.pageSize });
+  $("src").value = "All"; $("q").value = "";
+  render();
+}
+
+function initStatic() {
+  const sources = [...new Set(state.items.map((d) => d.source))].sort();
+  $("sourceList").innerHTML = sources.map((s) => `<li>${esc(s)}</li>`).join("");
+  $("sourceCount").textContent = sources.length;
+  $("src").innerHTML = `<option value="All">All sources</option>` +
+    sources.map((s) => `<option value="${esc(s)}">${esc(s)}</option>`).join("");
+}
+
+$("chips").addEventListener("click", (e) => {
+  const btn = e.target.closest(".chip");
+  if (!btn) return;
+  state.cat = btn.dataset.cat; state.shown = CONFIG.pageSize; render();
+});
+$("src").addEventListener("change", (e) => { state.source = e.target.value; state.shown = CONFIG.pageSize; render(); });
+$("q").addEventListener("input", (e) => { state.query = e.target.value; state.shown = CONFIG.pageSize; render(); });
+const modal = $("sourcesModal");
+const openModal = (e) => { e.preventDefault(); modal.showModal(); };
+$("openSources").addEventListener("click", openModal);
+$("navSources").addEventListener("click", openModal);
+$("closeSources").addEventListener("click", () => modal.close());
+modal.addEventListener("click", (e) => { if (e.target === modal) modal.close(); }); // click backdrop to close
+$("loadMore").addEventListener("click", () => { state.shown += CONFIG.pageSize; renderFeed(); });
+$("copyRss").addEventListener("click", async (e) => {
+  const btn = e.currentTarget;
+  try { await navigator.clipboard.writeText(CONFIG.rssUrl); btn.textContent = "COPIED ✓"; }
+  catch { btn.textContent = CONFIG.rssUrl; }
+  setTimeout(() => (btn.textContent = "COPY RSS URL →"), 1800);
+});
+
+(async function init() {
+  const data = await loadFeed();
+  state.items = data.slice().sort((a, b) => new Date(b.published) - new Date(a.published));
+  initStatic();
+  render();
+})();
+</script>
+</body>
+</html>

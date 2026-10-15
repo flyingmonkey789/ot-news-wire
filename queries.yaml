@@ -1,0 +1,61 @@
+# Google News search queries (boolean syntax). The pipeline appends `when:1d`
+# and builds: https://news.google.com/rss/search?q=<query>&hl=en-US&gl=US&ceid=US:en
+#
+# Never use bare "OT" — it matches overtime and occupational therapy.
+# Fields: id (unique slug), q (query), enabled (optional, default true)
+#
+# The weekly review reports how many published stories each query produced,
+# so prune the ones that only add noise.
+
+defaults:
+  window: when:1d
+  hl: en-US
+  gl: US
+  ceid: US:en
+
+queries:
+  # --- Core OT security terms ---
+  - id: ot-security
+    q: '"OT security" OR "OT cybersecurity" OR "ICS security" OR "industrial cybersecurity"'
+  - id: operational-technology
+    q: '"operational technology" (cyberattack OR attack OR ransomware OR breach OR vulnerability OR malware OR hackers)'
+  - id: ics-scada
+    q: '(SCADA OR "industrial control system" OR "industrial control systems") (attack OR hack OR hackers OR vulnerability OR malware OR exploited)'
+  - id: plc
+    q: '(PLC OR PLCs) (Siemens OR Rockwell OR "Schneider Electric" OR Unitronics OR Mitsubishi OR CODESYS) (vulnerability OR attack OR malware OR hackers)'
+  - id: cyber-physical
+    q: '"cyber-physical" (security OR attack OR vulnerability)'
+
+  # --- Incidents by sector ---
+  - id: water
+    q: '("water utility" OR "water treatment" OR wastewater OR "water system") (cyberattack OR hack OR hackers OR ransomware)'
+  - id: energy
+    q: '("power grid" OR "electric utility" OR substation OR "power plant" OR "energy company") (cyberattack OR hackers OR ransomware OR malware)'
+  - id: oil-gas
+    q: '(pipeline OR refinery OR "oil and gas" OR LNG) (cyberattack OR hackers OR ransomware)'
+  - id: manufacturing
+    q: '(manufacturer OR factory OR plant) (cyberattack OR ransomware) (production OR operations OR halted OR shutdown)'
+  - id: transport
+    q: '(railway OR rail OR port OR maritime OR shipping OR airport) cyberattack (operations OR systems OR disrupted)'
+
+  # --- Threat actors & malware ---
+  - id: threat-actors
+    q: '"Volt Typhoon" OR Sandworm OR CyberAv3ngers OR Xenotime OR Chernovite OR Voltzite OR Bauxite OR Electrum'
+  - id: ot-malware
+    q: '(ICS OR OT OR SCADA) malware (new OR discovered OR targeting)'
+
+  # --- Policy & regulation ---
+  - id: ci-policy
+    q: '"critical infrastructure" cybersecurity (regulation OR rule OR directive OR law OR bill OR mandate OR guidance)'
+  - id: frameworks
+    q: '"NERC CIP" OR "IEC 62443" OR NIS2 OR "Cyber Resilience Act" OR "TSA security directive" OR CIRCIA'
+
+  # --- Vendors & market ---
+  - id: ot-vendors-business
+    q: '(Dragos OR Claroty OR "Nozomi Networks" OR TXOne OR Forescout OR Armis OR "Industrial Defender" OR "Waterfall Security" OR Shift5 OR Frenos) (acquires OR acquisition OR funding OR raises OR launches OR announces OR partnership)'
+  - id: ot-security-market
+    q: '("OT security" OR "industrial cybersecurity" OR "operational technology security") (acquisition OR funding OR "Series" OR launch)'
+
+  # --- Research ---
+  - id: ot-research
+    q: '(Team82 OR "Vedere Labs" OR "Nozomi Networks Labs" OR "Dragos" OR "Kaspersky ICS CERT") (research OR report OR vulnerabilities OR discovered)'

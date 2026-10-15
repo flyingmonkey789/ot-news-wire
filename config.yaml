@@ -1,0 +1,63 @@
+# OT Wire pipeline settings. Edit freely; no code changes needed.
+
+site:
+  title: OT Wire
+  description: The OT security news aggregator
+  # Public URL of the site (used in feed.xml). Change after enabling Pages.
+  url: https://YOUR-USERNAME.github.io/ot-wire/
+  # "Day" boundary for daily caps and the weekly review.
+  timezone: America/New_York
+
+editor:
+  model: claude-haiku-5-5
+  batch_size: 20            # items per API call
+  max_items_per_run: 150    # safety valve on spend; extras wait for next run
+  max_tokens: 4000
+
+publishing:
+  threshold: 7              # publish items scoring >= this
+  daily_cap: 20             # hard ceiling on new stories per day
+  vendor_daily_cap: 3       # max stories per vendor/org per day
+  feed_max_items: 500       # items kept in feed.json / feed.xml
+  max_age_hours: 48         # ignore items older than this (prevents backfill floods)
+  group_window_hours: 72    # how far back to look when merging coverage of the same event
+  # Preference order when picking the link for a grouped story.
+  source_type_priority: [gov, research, media, vendor]
+
+prefilter:
+  # Applied to sources NOT marked ot_native and to all Google News results.
+  # Case-insensitive regex. An item passes if it matches any include and no exclude.
+  include:
+    - 'operational technology'
+    - '\bOT (security|cyber|network|environment|system|asset|device|vendor|threat|risk)s?\b'
+    - '\b(ICS|SCADA|PLCs?|HMIs?|DCS|RTUs?|IIoT|XIoT|CPS)\b'
+    - 'industrial (control|cyber|automation|network|iot|security|sector|operations?)'
+    - 'cyber[- ]physical'
+    - 'critical infrastructure'
+    - '\b(Modbus|DNP3|PROFINET|OPC[ -]?UA|BACnet|EtherNet/IP|IEC 61850|IEC 104)\b'
+    - '\b(power grid|electric grid|substation|utilit(y|ies)|water (treatment|utility|utilities|system|facility|plant)|wastewater|pipeline|refiner(y|ies)|oil and gas|LNG|nuclear|dam)\b'
+    - '\b(manufactur\w*|factory|factories|production (halt|line|disrupt)\w*|plant operations)\b'
+    - '\b(halt\w*|shut\w*|disrupt\w*|stop\w*|paus\w*) (production|operations|output)\b'
+    - '\b(ransomware|cyberattack|cyber attack|hack\w*|malware)\b.{0,80}\b(plant|mill|smelter|mine|port|grid|utility)\b'
+    - '\b(rail(way)?|maritime|port operations|shipping|aviation|airport) (cyber|attack|hack|ransomware)'
+    - '\b(Siemens|Rockwell|Schneider Electric|Honeywell|ABB|Emerson|Yokogawa|Mitsubishi Electric|GE Vernova|Hitachi Energy|Unitronics|Moxa|Phoenix Contact|WAGO|CODESYS|Triconex|AVEVA|Inductive Automation|Ignition)\b'
+    - '\b(Dragos|Claroty|Team82|Nozomi|TXOne|Forescout|Armis|Industrial Defender|Waterfall Security|Shift5|Frenos|SCADAfence|Verve|Radiflow|Cylus|OTORIO|Mission Secure|Fortiphyd)\b'
+    - '\b(Volt Typhoon|Sandworm|CyberAv3ngers|Xenotime|Chernovite|Electrum|Voltzite|Bauxite|Pipedream|Incontroller|FrostyGoop|Fuxnet|Industroyer|Triton|IOCONTROL)\b'
+    - '\b(NERC CIP|IEC 62443|NIS ?2|Cyber Resilience Act|TSA security directive|CIRCIA|AWIA)\b'
+  exclude:
+    - 'occupational therap'
+    - '\bovertime (pay|rules|win|loss|goal|thriller|period)\b'
+    - '\b(NFL|NBA|NHL|MLB|Premier League)\b'
+
+health:
+  failing_after_hours: 24   # open a GitHub issue after a feed fails this long
+  issue_label: feed-health
+
+review:
+  issue_label: weekly-review
+  near_miss_scores: [5, 6]
+  max_near_misses: 60
+
+state:
+  seen_retention_days: 30
+  decisions_retention_days: 21
