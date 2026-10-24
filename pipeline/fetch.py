@@ -73,6 +73,8 @@ def _from_query(qry: dict, defaults: dict, domain_map: dict) -> list[dict]:
     for e in feed.entries:
         src = e.get("source") or {}
         publisher = clean_text(src.get("title")) or "Unknown"
+        if publisher.startswith("http") or publisher.startswith("www."):  # Google sometimes gives a URL
+            publisher = domain_of(publisher) or publisher
         pub_home = src.get("href") or ""
         title = clean_text(e.get("title"))
         # Google appends " - Publisher" to every headline.

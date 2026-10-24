@@ -26,6 +26,13 @@ RULES
 - Original reporting and official sources are preferable to rewrites, but score the EVENT, not the write-up.
 - Generic AI, cloud or enterprise security news scores 0-3 unless it is clearly about OT/ICS.
 
+CALIBRATION (examples of 7+)
+- A vulnerability in an industrial product added to CISA's Known Exploited Vulnerabilities catalog, or reported exploited in the wild: 7-8.
+- Sector-wide government guidance or requirements for operators (e.g. a Coast Guard NVIC for maritime, a TSA security directive, an EPA water rule, joint CISA/FBI advisories): 7-8.
+- A notable funding round, acquisition or multi-organization program dedicated to OT/ICS security (e.g. a $10M initiative to defend small utilities): 7.
+- New research from a recognized OT research team showing broad real-world exposure (e.g. thousands of internet-exposed controllers): 7-8.
+A typical weekday has roughly 5-15 items scoring 7 or higher across all sources. Most single-product CISA ICS advisories remain 4-5.
+
 CATEGORIES (choose exactly one)
 - Advisory: vulnerability advisories and patches, including government ICS advisories.
 - Incidents: attacks, breaches, ransomware or disruptions affecting industrial/critical-infrastructure organizations.

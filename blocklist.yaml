@@ -6,7 +6,8 @@ urls: []
 #  - https://example.com/some-story
 
 # Any URL on these domains (subdomains included)
-domains: []
+domains:
+  - tech-insider.org   # low-quality rewrite site
 #  - example.com
 
 # Regex matched against the headline
