@@ -69,7 +69,7 @@ Each feed item:
    permissions → Read and write permissions → Save.*
 4. **Turn on Pages.** *Settings → Pages → Build and deployment → Deploy from a branch
    → `main` / `/docs` → Save.* The site appears at
-   `https://flyingmonkey789.github.io/ot-news-wire/` within a minute or two.
+   `https://flyingmonkey789.github.io/ot-news-wire/` within a minute or two (custom domain: https://otnewswire.com).
 5. **Set the site URL** in `config.yaml` (`site.url`) so `feed.xml` has correct links.
    If you add a custom domain later (Settings → Pages → Custom domain), update it there too.
 6. **First run.** *Actions → Update feed → Run workflow.* Check the log, then open the
