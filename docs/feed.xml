@@ -2,10 +2,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>OT Wire</title>
-    <link>https://flyingmonkey789.github.io/ot-news-wire/</link>
+    <link>https://otnewswire.com/</link>
     <description>The OT security news aggregator</description>
     <language>en-us</language>
-    <atom:link href="https://flyingmonkey789.github.io/ot-news-wire/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Fri, 23 Oct 2026 12:15:21 +0000</lastBuildDate>
     <item>
       <title>US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments</title>
