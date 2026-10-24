@@ -41,7 +41,8 @@ queries:
 
   # --- Threat actors & malware ---
   - id: threat-actors
-    q: '"Volt Typhoon" OR Sandworm OR CyberAv3ngers OR Xenotime OR Chernovite OR Voltzite OR Bauxite OR Electrum'
+    q: '"Volt Typhoon" OR Sandworm OR CyberAv3ngers OR Xenotime OR Chernovite OR Voltzite OR "Salt Typhoon" OR FrostyGoop'
+    # Bauxite and Electrum (OT threat groups) are left out: they mostly match mining news and a bitcoin wallet.
   - id: ot-malware
     q: '(ICS OR OT OR SCADA) malware (new OR discovered OR targeting)'
 
