@@ -6,14 +6,14 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://flyingmonkey789.github.io/ot-news-wire/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 08:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:15:21 +0000</lastBuildDate>
     <item>
-      <title>2 APTs Wipe Ukraine Grain Firm: Sandworm, UAC-0099 [2026]</title>
-      <link>https://tech-insider.org/sandworm-uac-0099-ukraine-grain-logistics-wiper-2026/</link>
-      <guid isPermaLink="true">https://tech-insider.org/sandworm-uac-0099-ukraine-grain-logistics-wiper-2026/</guid>
-      <pubDate>Sat, 24 Oct 2026 08:36:48 +0000</pubDate>
-      <category>Incidents</category>
-      <description>Sandworm and UAC-0099 reportedly carried out destructive wiper attacks against a Ukrainian grain company, an operational disruption that highlights wartime threats to agricultural and industrial operators. (Source: https://tech-insider.org/)</description>
+      <title>US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments</title>
+      <link>https://industrialcyber.co/transport/us-coast-guard-releases-nvic-02-26-to-guide-maritime-operators-on-cybersecurity-plans-it-and-ot-risk-assessments/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/transport/us-coast-guard-releases-nvic-02-26-to-guide-maritime-operators-on-cybersecurity-plans-it-and-ot-risk-assessments/</guid>
+      <pubDate>Fri, 23 Oct 2026 12:15:21 +0000</pubDate>
+      <category>Policy</category>
+      <description>The US Coast Guard issued NVIC 02-26, guidance for maritime operators on cybersecurity plans and IT/OT risk assessments, relevant to compliance planning for regulated vessels and facilities. (Source: Industrial Cyber)</description>
     </item>
     <item>
       <title>MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration</title>
@@ -38,6 +38,14 @@
       <pubDate>Thu, 22 Oct 2026 09:03:54 +0000</pubDate>
       <category>Incidents</category>
       <description>CISA, FBI and partners warn that SafePay ransomware has compromised about 600 critical infrastructure organizations worldwide, urging patching and stronger network defenses. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Accenture, Dragos and SANS Institute launch $10 million initiative to strengthen cybersecurity at US utilities</title>
+      <link>https://industrialcyber.co/news/accenture-dragos-and-sans-institute-launch-10-million-initiative-to-strengthen-cybersecurity-at-us-utilities/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/accenture-dragos-and-sans-institute-launch-10-million-initiative-to-strengthen-cybersecurity-at-us-utilities/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:54:18 +0000</pubDate>
+      <category>Technology</category>
+      <description>Accenture, Dragos and SANS launched a $10M initiative to help under-resourced US utilities strengthen cyber defenses, with free tools, equipment, deployment help and training. (Source: Industrial Cyber)</description>
     </item>
     <item>
       <title>CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors</title>

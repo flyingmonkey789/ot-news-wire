@@ -1,12 +1,12 @@
 [
   {
-    "url": "https://tech-insider.org/sandworm-uac-0099-ukraine-grain-logistics-wiper-2026/",
-    "published": "2026-10-24T08:36:48Z",
-    "category": "Incidents",
-    "source": "https://tech-insider.org/",
-    "sector": "Chemical",
-    "title": "2 APTs Wipe Ukraine Grain Firm: Sandworm, UAC-0099 [2026]",
-    "summary": "Sandworm and UAC-0099 reportedly carried out destructive wiper attacks against a Ukrainian grain company, an operational disruption that highlights wartime threats to agricultural and industrial operators."
+    "url": "https://industrialcyber.co/transport/us-coast-guard-releases-nvic-02-26-to-guide-maritime-operators-on-cybersecurity-plans-it-and-ot-risk-assessments/",
+    "published": "2026-10-23T12:15:21Z",
+    "category": "Policy",
+    "source": "Industrial Cyber",
+    "sector": "Transportation",
+    "title": "US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments",
+    "summary": "The US Coast Guard issued NVIC 02-26, guidance for maritime operators on cybersecurity plans and IT/OT risk assessments, relevant to compliance planning for regulated vessels and facilities."
   },
   {
     "url": "https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/",
@@ -34,6 +34,15 @@
     "sector": "Cross-sector",
     "title": "SafePay ransomware compromised 600 critical organizations worldwide; urge patching and network defenses",
     "summary": "CISA, FBI and partners warn that SafePay ransomware has compromised about 600 critical infrastructure organizations worldwide, urging patching and stronger network defenses."
+  },
+  {
+    "url": "https://industrialcyber.co/news/accenture-dragos-and-sans-institute-launch-10-million-initiative-to-strengthen-cybersecurity-at-us-utilities/",
+    "published": "2026-10-21T15:54:18Z",
+    "category": "Technology",
+    "source": "Industrial Cyber",
+    "sector": "Electric",
+    "title": "Accenture, Dragos and SANS Institute launch $10 million initiative to strengthen cybersecurity at US utilities",
+    "summary": "Accenture, Dragos and SANS launched a $10M initiative to help under-resourced US utilities strengthen cyber defenses, with free tools, equipment, deployment help and training."
   },
   {
     "url": "https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical",
