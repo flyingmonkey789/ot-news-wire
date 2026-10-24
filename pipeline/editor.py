@@ -98,11 +98,15 @@ class Editor:
             import anthropic
             if not os.environ.get("ANTHROPIC_API_KEY"):
                 raise SystemExit("ANTHROPIC_API_KEY is not set (use --mock-editor for offline runs).")
-            self.client = anthropic.Anthropic(max_retries=4)
+            headers = {}
+            if os.environ.get("ANTHROPIC_WORKSPACE_ID"):  # only needed for org-level keys
+                headers["anthropic-workspace-id"] = os.environ["ANTHROPIC_WORKSPACE_ID"]
+            self.client = anthropic.Anthropic(max_retries=4, default_headers=headers)
 
     def review(self, items: list[dict], recent: list[dict]) -> dict[str, dict]:
         """Returns {bid: decision}. Items whose batch failed are absent."""
         out: dict[str, dict] = {}
+        errors: list[str] = []
         size = self.cfg.get("batch_size", 20)
         for i in range(0, len(items), size):
             batch = items[i:i + size]
@@ -116,6 +120,7 @@ class Editor:
                     raise SystemExit(f"Anthropic API rejected the request ({status}): {ex}\n"
                                      "Check the ANTHROPIC_API_KEY secret and editor.model in config.yaml.")
                 log(f"  ! editor batch failed, will retry next run: {type(ex).__name__}: {ex}")
+                errors.append(f"{type(ex).__name__}: {ex}")
                 continue
             valid = {it["bid"] for it in batch}
             for d in decisions:
@@ -126,6 +131,10 @@ class Editor:
                     if d.get("sector") not in SECTORS:
                         d["sector"] = "Cross-sector"
                     out[d["id"]] = d
+        if errors and not out:
+            # Nothing got through: almost certainly a key/account problem, not bad luck.
+            # Fail the run so GitHub sends a failure email instead of freezing the feed.
+            raise SystemExit("Every editor call failed. First error:\n" + errors[0])
         return out
 
     def _call(self, batch, recent):

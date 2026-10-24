@@ -326,30 +326,12 @@ async function loadFeed() {
     const res = await fetch(`${CONFIG.feedUrl}?v=${bust}`);
     if (!res.ok) throw new Error(res.status);
     const data = await res.json();
-    if (Array.isArray(data) && data.length) return data;
+    return Array.isArray(data) ? data : [];
   } catch (err) {
-    console.warn("OT Wire: feed.json unavailable, showing sample data", err);
+    console.warn("OT Wire: could not load feed.json", err);
+    return [];
   }
-  return SAMPLE_DATA;
 }
-
-/* Sample data — invented headlines, shown only if feed.json fails to load */
-const SAMPLE_DATA = [
-  { url: "#", published: "2026-10-15T10:20:00-04:00", category: "Technology", source: "SecurityWeek", sector: "Cross-sector", title: "Passive OT monitoring platform adds native support for legacy serial protocols", summary: "The update extends asset discovery to older fieldbus networks without active scanning, a long-standing gap in brownfield plants." },
-  { url: "#", published: "2026-10-14T10:05:00-04:00", category: "Technology", source: "Industrial Cyber", sector: "Manufacturing", title: "Open-source tool maps PLC logic changes across engineering workstations", summary: "The project diffs ladder logic between snapshots so operators can spot unauthorized edits before they reach production." },
-  { url: "#", published: "2026-10-15T14:52:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Energy", cvss: "9.8", title: "Authentication bypass in substation gateway firmware allows remote configuration changes", summary: "Affected versions expose a maintenance interface without credential checks. Vendor patch available; network segmentation advised in the interim." },
-  { url: "#", published: "2026-10-15T13:10:00-04:00", category: "Research", source: "Dragos", sector: "Oil & Gas", title: "New activity group observed staging access in midstream pipeline control networks", summary: "Reconnaissance targeting engineering workstations and historian servers, with living-off-the-land techniques to avoid detection." },
-  { url: "#", published: "2026-10-15T11:38:00-04:00", category: "Incidents", source: "The Record", sector: "Water", title: "Regional water utility shifts to manual operations after HMI compromise", summary: "Operators isolated SCADA systems as a precaution. No impact to water quality reported; investigation ongoing with state officials." },
-  { url: "#", published: "2026-10-15T09:05:00-04:00", category: "Research", source: "Claroty Team82", sector: "Manufacturing", cvss: "8.1", title: "Researchers chain three PLC flaws to achieve persistent code execution", summary: "The chain survives firmware reloads by abusing a legacy project-file loader. Coordinated disclosure completed with the vendor." },
-  { url: "#", published: "2026-10-14T17:44:00-04:00", category: "Policy", source: "SecurityWeek", sector: "Cross-sector", title: "Proposed rule would require 72-hour incident reporting for critical OT operators", summary: "The draft extends mandatory reporting to mid-size utilities and adds asset inventory obligations for control system environments." },
-  { url: "#", published: "2026-10-14T15:21:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Building Automation", cvss: "7.5", title: "Hard-coded credentials found in building management controllers", summary: "Attackers on the same network could read and modify HVAC and access-control setpoints. Firmware update resolves the issue." },
-  { url: "#", published: "2026-10-14T12:02:00-04:00", category: "Research", source: "Nozomi Networks Labs", sector: "Healthcare", cvss: "6.8", title: "Wireless sensor protocol weakness enables spoofed telemetry in clinical facilities", summary: "Replay of unsigned frames lets an attacker inject false readings. Mitigations include encrypted links and anomaly baselining." },
-  { url: "#", published: "2026-10-14T08:30:00-04:00", category: "Research", source: "Mandiant", sector: "Energy", title: "Ransomware affiliates increasingly target IT/OT boundary systems", summary: "Jump hosts and remote access appliances remain the most common pivot point into plant networks across observed cases." },
-  { url: "#", published: "2026-10-13T16:15:00-04:00", category: "Incidents", source: "Industrial Cyber", sector: "Transportation", title: "Rail operator confirms disruption to signaling scheduling systems", summary: "Services ran on reduced timetables for several hours. The operator says safety-critical interlocking systems were not affected." },
-  { url: "#", published: "2026-10-13T10:48:00-04:00", category: "Advisory", source: "CISA ICS", sector: "Manufacturing", cvss: "9.1", title: "Path traversal in industrial historian web console exposes plant data", summary: "Unauthenticated users can read arbitrary files, including stored credentials. Upgrade or restrict console access to trusted hosts." },
-  { url: "#", published: "2026-10-13T09:12:00-04:00", category: "Policy", source: "The Record", sector: "Cross-sector", title: "International agencies publish joint guidance on securing OT remote access", summary: "Recommendations center on brokered access, session recording, and eliminating always-on vendor connections." },
-  { url: "#", published: "2026-10-12T18:30:00-04:00", category: "Research", source: "Dragos", sector: "Electric", title: "Field study: most utilities still lack complete OT asset inventories", summary: "Visibility gaps cluster around remote substations and third-party maintained equipment, slowing vulnerability response." },
-];
 
 /* ============================================================
    APP
@@ -387,7 +369,9 @@ function renderFeed() {
   const visible = filtered.slice(0, state.shown);
 
 
-  if (!filtered.length) {
+  if (!state.items.length) {
+    $("feedList").innerHTML = `<li class="empty"><p>No stories yet. The feed updates every hour; check back soon.</p></li>`;
+  } else if (!filtered.length) {
     $("feedList").innerHTML = `<li class="empty"><p>Nothing matches those filters.</p>
       <button type="button" class="btn-brut" id="resetBtn">Clear filters</button></li>`;
     $("resetBtn").onclick = resetFilters;

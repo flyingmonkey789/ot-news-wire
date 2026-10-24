@@ -60,18 +60,21 @@ sources:
   - id: dragos
     name: Dragos
     url: https://www.dragos.com/feed/
+    enabled: false   # no RSS feed exists; covered by the 'ot-vendor-sites' query
     type: research
     ot_native: true
   - id: claroty
     name: Claroty Team82
     org: Claroty
-    url: https://claroty.com/team82/research/rss   # verify
+    url: https://claroty.com/team82/research/rss
+    enabled: false   # no RSS feed exists; covered by the 'ot-vendor-sites' query
     type: research
     ot_native: true
   - id: nozomi
     name: Nozomi Networks Labs
     org: Nozomi Networks
-    url: https://www.nozominetworks.com/blog/rss.xml   # verify
+    url: https://www.nozominetworks.com/blog/rss.xml
+    enabled: false   # no RSS feed exists; covered by the 'ot-vendor-sites' query
     type: research
     ot_native: true
   - id: forescout
@@ -82,7 +85,8 @@ sources:
   - id: txone
     name: TXOne Networks
     org: TXOne
-    url: https://www.txone.com/feed/   # verify
+    url: https://www.txone.com/feed/
+    enabled: false   # no RSS feed exists; covered by the 'ot-vendor-sites' query
     type: research
     ot_native: true
   - id: kaspersky-ics

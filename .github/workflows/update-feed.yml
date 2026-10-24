@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 * * * *"   # hourly, off the :00 rush
   workflow_dispatch:        # "Run workflow" button for manual runs
+  push:                     # re-run right away when you edit config or code
+    branches: [main]
+    paths:
+      - "*.yaml"
+      - "pipeline/**"
+      - ".github/workflows/update-feed.yml"
 
 permissions:
   contents: write
@@ -30,6 +36,7 @@ jobs:
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}   # optional
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m pipeline.run
 

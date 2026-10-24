@@ -2,7 +2,8 @@
 # and builds: https://news.google.com/rss/search?q=<query>&hl=en-US&gl=US&ceid=US:en
 #
 # Never use bare "OT" — it matches overtime and occupational therapy.
-# Fields: id (unique slug), q (query), enabled (optional, default true)
+# Fields: id (unique slug), q (query), enabled (optional, default true),
+#         ot_native (optional: skip the keyword prefilter for this query)
 #
 # The weekly review reports how many published stories each query produced,
 # so prune the ones that only add noise.
@@ -57,5 +58,9 @@ queries:
     q: '("OT security" OR "industrial cybersecurity" OR "operational technology security") (acquisition OR funding OR "Series" OR launch)'
 
   # --- Research ---
+  # OT research teams that publish no RSS feed. ot_native skips the keyword prefilter.
+  - id: ot-vendor-sites
+    q: 'site:dragos.com OR site:claroty.com OR site:nozominetworks.com OR site:txone.com'
+    ot_native: true
   - id: ot-research
     q: '(Team82 OR "Vedere Labs" OR "Nozomi Networks Labs" OR "Dragos" OR "Kaspersky ICS CERT") (research OR report OR vulnerabilities OR discovered)'

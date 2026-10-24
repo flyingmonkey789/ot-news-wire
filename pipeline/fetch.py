@@ -90,7 +90,7 @@ def _from_query(qry: dict, defaults: dict, domain_map: dict) -> list[dict]:
             "source": publisher,
             "source_type": meta.get("type", "media"),
             "org": meta.get("org", publisher),
-            "ot_native": False,
+            "ot_native": bool(qry.get("ot_native")),
             "origin": f"query:{qry['id']}",
             "gnews": True,
             "publisher_domain": dom,
