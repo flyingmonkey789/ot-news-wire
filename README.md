@@ -52,13 +52,13 @@ Each feed item:
 
 ## Setup (about 15 minutes)
 
-1. **Create the repo.** New public repository on GitHub (e.g. `ot-wire`), then push
+1. **Create the repo.** New public repository on GitHub (`ot-news-wire`), then push
    this folder:
    ```bash
    cd ot-wire
    git init && git add . && git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/ot-wire.git
+   git remote add origin https://github.com/flyingmonkey789/ot-news-wire.git
    git push -u origin main
    ```
 2. **Add your API key.** Get a key at console.anthropic.com. In the repo:
@@ -69,7 +69,7 @@ Each feed item:
    permissions → Read and write permissions → Save.*
 4. **Turn on Pages.** *Settings → Pages → Build and deployment → Deploy from a branch
    → `main` / `/docs` → Save.* The site appears at
-   `https://YOUR-USERNAME.github.io/ot-wire/` within a minute or two.
+   `https://flyingmonkey789.github.io/ot-news-wire/` within a minute or two.
 5. **Set the site URL** in `config.yaml` (`site.url`) so `feed.xml` has correct links.
    If you add a custom domain later (Settings → Pages → Custom domain), update it there too.
 6. **First run.** *Actions → Update feed → Run workflow.* Check the log, then open the

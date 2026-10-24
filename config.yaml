@@ -4,7 +4,7 @@ site:
   title: OT Wire
   description: The OT security news aggregator
   # Public URL of the site (used in feed.xml). Change after enabling Pages.
-  url: https://YOUR-USERNAME.github.io/ot-wire/
+  url: https://flyingmonkey789.github.io/ot-news-wire/
   # "Day" boundary for daily caps and the weekly review.
   timezone: America/New_York
 

@@ -109,6 +109,12 @@ class Editor:
             try:
                 decisions = self._mock(batch) if self.mock else self._call(batch, recent)
             except Exception as ex:  # noqa: BLE001
+                # Bad/expired key, no access, or wrong model name: fail the whole run
+                # so GitHub emails a failure, instead of silently freezing the feed.
+                status = getattr(ex, "status_code", None)
+                if status in (401, 403, 404):
+                    raise SystemExit(f"Anthropic API rejected the request ({status}): {ex}\n"
+                                     "Check the ANTHROPIC_API_KEY secret and editor.model in config.yaml.")
                 log(f"  ! editor batch failed, will retry next run: {type(ex).__name__}: {ex}")
                 continue
             valid = {it["bid"] for it in batch}
