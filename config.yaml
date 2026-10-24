@@ -19,7 +19,7 @@ publishing:
   daily_cap: 20             # hard ceiling on new stories per day
   vendor_daily_cap: 3       # max stories per vendor/org per day
   feed_max_items: 500       # items kept in feed.json / feed.xml
-  max_age_hours: 168        # TEMPORARY one-time backfill; set back to 48
+  max_age_hours: 48         # ignore items older than this (prevents backfill floods)
   group_window_hours: 72    # how far back to look when merging coverage of the same event
   # Preference order when picking the link for a grouped story.
   source_type_priority: [gov, research, media, vendor]

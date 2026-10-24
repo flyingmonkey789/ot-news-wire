@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import calendar
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from urllib.parse import quote_plus
@@ -122,12 +123,26 @@ def fetch_all(sources_cfg: dict, queries_cfg: dict) -> tuple[list[dict], dict]:
         except Exception as ex:  # noqa: BLE001 - any failure is a feed-health event
             return origin, label, [], f"{type(ex).__name__}: {ex}"[:300]
 
+    def collect(origin, label, got, err):
+        health[origin] = {"ok": err is None, "error": err, "count": len(got), "label": label}
+        if err:
+            log(f"  ! {origin}: {err}")
+        items.extend(got)
+
+    # Direct feeds in parallel; Google News one at a time, spaced out, because it
+    # throttles (503/429) bursts of requests from the same IP.
+    feeds = [j for j in jobs if j[0].startswith("feed:")]
+    queries = [j for j in jobs if j[0].startswith("query:")]
     with ThreadPoolExecutor(max_workers=8) as pool:
-        for origin, label, got, err in pool.map(run, jobs):
-            health[origin] = {"ok": err is None, "error": err, "count": len(got), "label": label}
-            if err:
-                log(f"  ! {origin}: {err}")
-            items.extend(got)
+        for result in pool.map(run, feeds):
+            collect(*result)
+    for job in queries:
+        result = run(job)
+        if result[3] and any(code in result[3] for code in ("503", "429")):
+            time.sleep(20)
+            result = run(job)
+        collect(*result)
+        time.sleep(2)
 
     fetched_at = now_utc()
     for it in items:
