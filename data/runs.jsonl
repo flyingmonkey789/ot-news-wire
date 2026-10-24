@@ -1,1 +1,2 @@
 {"ts": "2026-10-24T21:47:50Z", "fetched": 1222, "new": 140, "prefiltered_out": 116, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 6, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 0}
+{"ts": "2026-10-24T21:57:07Z", "fetched": 1221, "new": 25, "prefiltered_out": 1, "reviewed": 24, "published": 1, "regrouped": 0, "failing_feeds": 2, "api_calls": 2, "input_tokens": 6285, "output_tokens": 1556, "feed_size": 1}

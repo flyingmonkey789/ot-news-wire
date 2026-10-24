@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+    "published": "2026-10-23T11:11:23Z",
+    "category": "Incidents",
+    "source": "The Hacker News",
+    "sector": "Cross-sector",
+    "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+    "summary": "Sandworm and UAC-0099 carried out a destructive wiper attack on a Ukrainian logistics company in 2025, using a new mesh network backdoor, per ESET research. Shows state actors using OT-adjacent destructive tooling against critical infrastructure supply chains."
+  }
+]

@@ -6,5 +6,14 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://flyingmonkey789.github.io/ot-news-wire/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2026 11:11:23 +0000</lastBuildDate>
+    <item>
+      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+      <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</guid>
+      <pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Sandworm and UAC-0099 carried out a destructive wiper attack on a Ukrainian logistics company in 2025, using a new mesh network backdoor, per ESET research. Shows state actors using OT-adjacent destructive tooling against critical infrastructure supply chains. (Source: The Hacker News)</description>
+    </item>
   </channel>
 </rss>
