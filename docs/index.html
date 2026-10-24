@@ -303,7 +303,8 @@
 
   /* how it works */
   .how-btn { margin-top: 16px; height: 30px; padding: 0 10px; font-size: 10px; gap: 6px; }
-  .how-modal { width: min(560px, calc(100vw - 32px)); }
+  .how-modal { width: min(680px, calc(100vw - 32px)); max-width: none; }
+  .how-modal .modal-sub, .how-modal .agent p { max-width: none; }
   .how-modal .modal-sub { font-size: 16px; line-height: 1.5; color: var(--ink-2); margin-bottom: 20px; }
   .agents { border-top: 2px solid var(--black); }
   .agent { padding: 16px 0; border-bottom: 1px solid var(--line); }
@@ -342,6 +343,9 @@
     .how-modal .agent p { font-size: 13.5px; line-height: 1.45; }
     .how-close { margin-top: 10px; padding: 10px 12px; font-size: 13.5px; }
   }
+
+  /* avoid single-word last lines in modal copy */
+  .modal .modal-sub, .modal .agent p, .how-close { text-wrap: wrap; }
 </style>
 </head>
 <body>
