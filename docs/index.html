@@ -8,6 +8,10 @@
 <link rel="canonical" href="https://otnewswire.com/">
 <meta name="theme-color" content="#F5F5F7">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='28' height='28' fill='%23FFD60A' stroke='%230A0A0A' stroke-width='3'/%3E%3Cpath d='M6 16h5l3-8 4 16 3-8h5' fill='none' stroke='%230A0A0A' stroke-width='3' stroke-linecap='square'/%3E%3C/svg%3E">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="OT Wire">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="apple-touch-icon" href="https://otnewswire.com/apple-touch-icon.png">
 <link rel="alternate" type="application/rss+xml" title="OT Security News" href="https://otnewswire.com/feed.xml">
 
@@ -317,6 +321,27 @@
     .filter-row .chips { display: contents; }
     .search.open .search-input { width: min(180px, calc(100vw - 96px)); }
   }
+
+  /* phone & slack */
+  .mast-btns { margin-top: 16px; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+  .mast-btns .how-btn { margin-top: 0; }
+  .how-btn.ghost { border-color: rgba(0,0,0,.25); color: var(--ink-2); }
+  .how-btn.ghost:hover { border-color: var(--black); color: var(--black); }
+  .feed-url { margin: 12px 0 0 22px; display: flex; align-items: stretch; border: 2px solid var(--black); background: var(--bg); }
+  .feed-url code { flex: 1; min-width: 0; padding: 10px 12px; font-family: var(--mono); font-size: 13px; font-weight: 700; overflow-wrap: anywhere; }
+  .copy-btn { flex: none; padding: 0 14px; font-family: var(--mono); font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; background: var(--yellow); color: var(--black); border: none; border-left: 2px solid var(--black); cursor: pointer; }
+  .copy-btn:hover { background: #FFE34D; }
+
+  @media (max-width: 640px) {
+    .modal.how-modal { padding: 20px 18px; }
+    .how-modal .modal-head h2 { font-size: 22px; }
+    .how-modal .modal-close { width: 38px; height: 38px; }
+    .how-modal .modal-sub { font-size: 14px; margin: 8px 0 14px; }
+    .how-modal .agent { padding: 11px 0; }
+    .how-modal .agent h3 { font-size: 15px; margin-bottom: 4px; }
+    .how-modal .agent p { font-size: 13.5px; line-height: 1.45; }
+    .how-close { margin-top: 10px; padding: 10px 12px; font-size: 13.5px; }
+  }
 </style>
 </head>
 <body>
@@ -325,12 +350,41 @@
   <p class="dateline" id="dateline"></p>
   <h1 class="mast-tag">The daily <mark class="hilite">OT security</mark> wire</h1>
   <p class="byline">Maintained by <a href="https://www.linkedin.com/in/kschewitz/" target="_blank" rel="noopener">Kamden Schewitz</a></p>
+  <div class="mast-btns">
   <button type="button" class="mini-btn how-btn" id="openHow" aria-haspopup="dialog">
     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7v.5"/></svg>
     How it works
   </button>
+  <button type="button" class="mini-btn how-btn" id="openFollow" aria-haspopup="dialog">
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+    Take it with you
+  </button>
+  </div>
   <div class="mast-rule" role="presentation"></div>
 </header>
+
+<dialog id="followModal" class="modal card-brut how-modal" aria-labelledby="followTitle">
+  <div class="modal-head">
+    <h2 id="followTitle">Take it with you</h2>
+    <button type="button" class="modal-close" id="closeFollow" aria-label="Close">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="square" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19"/></svg>
+    </button>
+  </div>
+  <div class="agents">
+    <div class="agent">
+      <h3><span class="agent-mark" style="background:var(--tag-advisory)"></span>On your iPhone</h3>
+      <p>Open otnewswire.com in Safari, tap the Share button, then choose Add to Home Screen. Keep Open as Web App switched on and tap Add.</p>
+    </div>
+    <div class="agent">
+      <h3><span class="agent-mark" style="background:var(--tag-research)"></span>In Slack</h3>
+      <p>Open the RSS app in Slack, paste the feed URL below into Feed URL, and choose the channel new stories should post to.</p>
+      <div class="feed-url">
+        <code id="feedUrl">https://otnewswire.com/feed.xml</code>
+        <button type="button" class="copy-btn" id="copyFeed">Copy</button>
+      </div>
+    </div>
+  </div>
+</dialog>
 
 <dialog id="howModal" class="modal card-brut how-modal" aria-labelledby="howTitle">
   <div class="modal-head">
@@ -525,6 +579,16 @@ qInput.addEventListener("keydown", (e) => {
   if (e.key === "Escape") { qInput.value = ""; state.query = ""; render(); setSearch(false); sToggle.focus(); }
 });
 qInput.addEventListener("blur", (e) => { if (!qInput.value && e.relatedTarget !== sToggle) setSearch(false); });
+const followModal = $("followModal");
+$("openFollow").addEventListener("click", () => followModal.showModal());
+$("closeFollow").addEventListener("click", () => followModal.close());
+followModal.addEventListener("click", (e) => { if (e.target === followModal) followModal.close(); });
+$("copyFeed").addEventListener("click", async (e) => {
+  const btn = e.currentTarget;
+  try { await navigator.clipboard.writeText($("feedUrl").textContent); btn.textContent = "Copied"; }
+  catch { const r = document.createRange(); r.selectNodeContents($("feedUrl")); getSelection().removeAllRanges(); getSelection().addRange(r); btn.textContent = "Selected"; }
+  setTimeout(() => (btn.textContent = "Copy"), 1800);
+});
 const howModal = $("howModal");
 $("openHow").addEventListener("click", () => howModal.showModal());
 $("closeHow").addEventListener("click", () => howModal.close());
