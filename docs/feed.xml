@@ -6,14 +6,46 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://flyingmonkey789.github.io/ot-news-wire/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 11:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 08:36:48 +0000</lastBuildDate>
     <item>
-      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
-      <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</guid>
+      <title>2 APTs Wipe Ukraine Grain Firm: Sandworm, UAC-0099 [2026]</title>
+      <link>https://tech-insider.org/sandworm-uac-0099-ukraine-grain-logistics-wiper-2026/</link>
+      <guid isPermaLink="true">https://tech-insider.org/sandworm-uac-0099-ukraine-grain-logistics-wiper-2026/</guid>
+      <pubDate>Sat, 24 Oct 2026 08:36:48 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Sandworm and UAC-0099 reportedly carried out destructive wiper attacks against a Ukrainian grain company, an operational disruption that highlights wartime threats to agricultural and industrial operators. (Source: https://tech-insider.org/)</description>
+    </item>
+    <item>
+      <title>MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration</title>
+      <link>https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/</link>
+      <guid isPermaLink="true">https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/</guid>
       <pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
       <category>Incidents</category>
-      <description>Sandworm and UAC-0099 carried out a destructive wiper attack on a Ukrainian logistics company in 2025, using a new mesh network backdoor, per ESET research. Shows state actors using OT-adjacent destructive tooling against critical infrastructure supply chains. (Source: The Hacker News)</description>
+      <description>Sandworm and UAC-0099 carried out a destructive wiper attack on a Ukrainian logistics company in 2025, using a new mesh network backdoor, per ESET research. Shows state actors using OT-adjacent destructive tooling against critical infrastructure supply chains. (Source: ESET WeLiveSecurity)</description>
+    </item>
+    <item>
+      <title>Cold Chain, Open Control: Exposed Refrigeration Systems Reveal Global Risk</title>
+      <link>https://www.forescout.com/blog/cold-chain-open-control-exposed-refrigeration-systems-reveal-global-risk/</link>
+      <guid isPermaLink="true">https://www.forescout.com/blog/cold-chain-open-control-exposed-refrigeration-systems-reveal-global-risk/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:15 +0000</pubDate>
+      <category>Research</category>
+      <description>Forescout Vedere Labs analyzes recent physical and financial disruptions at French refrigeration control systems caused without malware, and flags exposed refrigeration controls as a global risk. (Source: Forescout Vedere Labs)</description>
+    </item>
+    <item>
+      <title>SafePay ransomware compromised 600 critical organizations worldwide; urge patching and network defenses</title>
+      <link>https://industrialcyber.co/threats-attacks/safepay-ransomware-compromised-600-critical-organizations-worldwide-urge-patching-and-network-defenses/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/threats-attacks/safepay-ransomware-compromised-600-critical-organizations-worldwide-urge-patching-and-network-defenses/</guid>
+      <pubDate>Thu, 22 Oct 2026 09:03:54 +0000</pubDate>
+      <category>Incidents</category>
+      <description>CISA, FBI and partners warn that SafePay ransomware has compromised about 600 critical infrastructure organizations worldwide, urging patching and stronger network defenses. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>CISA, FBI and Partners Warn Organizations of SafePay Ransomware Actors Targeting Multiple Critical Infrastructure Sectors</title>
+      <link>https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical</link>
+      <guid isPermaLink="true">https://www.cisa.gov/news-events/news/cisa-fbi-and-partners-warn-organizations-safepay-ransomware-actors-targeting-multiple-critical</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Advisory</category>
+      <description>CISA, FBI and partners issued a joint advisory on SafePay ransomware targeting multiple critical infrastructure sectors, with indicators and mitigations for defenders. (Source: CISA)</description>
     </item>
   </channel>
 </rss>
