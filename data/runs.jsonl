@@ -39,3 +39,4 @@
 {"ts": "2026-10-26T07:06:57Z", "fetched": 1187, "new": 9, "prefiltered_out": 7, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2871, "output_tokens": 151, "feed_size": 6}
 {"ts": "2026-10-26T08:03:49Z", "fetched": 1187, "new": 1, "prefiltered_out": 1, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 6}
 {"ts": "2026-10-26T08:59:30Z", "fetched": 1194, "new": 8, "prefiltered_out": 7, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2802, "output_tokens": 93, "feed_size": 6}
+{"ts": "2026-10-26T09:59:17Z", "fetched": 1197, "new": 12, "prefiltered_out": 8, "reviewed": 4, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3243, "output_tokens": 329, "feed_size": 6}
