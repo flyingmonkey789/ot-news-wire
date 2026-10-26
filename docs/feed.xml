@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 12:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security</title>
+      <link>https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security</link>
+      <guid isPermaLink="true">https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA released a new national strategy aimed at strengthening cyber defense and critical infrastructure security, setting direction for operators and federal partners. (Source: CISA)</description>
+    </item>
     <item>
       <title>US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments</title>
       <link>https://industrialcyber.co/transport/us-coast-guard-releases-nvic-02-26-to-guide-maritime-operators-on-cybersecurity-plans-it-and-ot-risk-assessments/</link>
