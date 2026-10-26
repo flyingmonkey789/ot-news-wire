@@ -49,3 +49,4 @@
 {"ts": "2026-10-26T19:53:26Z", "fetched": 1229, "new": 4, "prefiltered_out": 4, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
 {"ts": "2026-10-26T20:51:06Z", "fetched": 1179, "new": 3, "prefiltered_out": 2, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2873, "output_tokens": 88, "feed_size": 7}
 {"ts": "2026-10-26T21:47:19Z", "fetched": 1231, "new": 5, "prefiltered_out": 5, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
+{"ts": "2026-10-26T22:49:52Z", "fetched": 1184, "new": 5, "prefiltered_out": 4, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2853, "output_tokens": 96, "feed_size": 7}
