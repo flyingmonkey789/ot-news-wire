@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:04:08 +0000</lastBuildDate>
+    <item>
+      <title>Researchers uncover Volt Typhoon’s covert, ephemeral network</title>
+      <link>https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/</link>
+      <guid isPermaLink="true">https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/</guid>
+      <pubDate>Wed, 28 Oct 2026 16:04:08 +0000</pubDate>
+      <category>Research</category>
+      <description>Researchers describe a covert, ephemeral network built by the Volt Typhoon China-linked group after US law enforcement disruption, targeting critical infrastructure operators. (Source: CyberScoop)</description>
+    </item>
     <item>
       <title>CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security</title>
       <link>https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security</link>
