@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 16:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:06:00 +0000</lastBuildDate>
+    <item>
+      <title>Russia-linked hackers are exploiting poorly secured industrial systems to sabotage factories, utilities, and food production across the West, Bloomberg reports</title>
+      <link>https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports</link>
+      <guid isPermaLink="true">https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports</guid>
+      <pubDate>Wed, 28 Oct 2026 17:06:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Bloomberg reports Russia-linked hackers are exploiting poorly secured industrial control systems to disrupt factories, utilities and food production across Western countries. (Source: Meduza)</description>
+    </item>
     <item>
       <title>Researchers uncover Volt Typhoon’s covert, ephemeral network</title>
       <link>https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/</link>
