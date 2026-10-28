@@ -91,3 +91,4 @@
 {"ts": "2026-10-28T14:11:41Z", "fetched": 1263, "new": 15, "prefiltered_out": 12, "reviewed": 3, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2701, "output_tokens": 209, "feed_size": 7}
 {"ts": "2026-10-28T15:06:28Z", "fetched": 1202, "new": 18, "prefiltered_out": 15, "reviewed": 3, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2560, "output_tokens": 203, "feed_size": 7}
 {"ts": "2026-10-28T16:04:18Z", "fetched": 1219, "new": 25, "prefiltered_out": 20, "reviewed": 5, "published": 1, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2703, "output_tokens": 472, "feed_size": 8}
+{"ts": "2026-10-28T17:03:26Z", "fetched": 1216, "new": 13, "prefiltered_out": 11, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2624, "output_tokens": 197, "feed_size": 8}
