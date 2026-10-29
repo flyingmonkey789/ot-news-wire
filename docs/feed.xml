@@ -6,7 +6,31 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 17:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:40:35 +0000</lastBuildDate>
+    <item>
+      <title>OmniTrust launches GridAuth to strengthen device identity and trust management across connected energy grids</title>
+      <link>https://industrialcyber.co/news/omnitrust-launches-gridauth-to-strengthen-device-identity-and-trust-management-across-connected-energy-grids/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/omnitrust-launches-gridauth-to-strengthen-device-identity-and-trust-management-across-connected-energy-grids/</guid>
+      <pubDate>Thu, 29 Oct 2026 11:40:35 +0000</pubDate>
+      <category>Technology</category>
+      <description>OmniTrust launched GridAuth, a device identity and trust management platform aimed at energy utilities and grid equipment. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</title>
+      <link>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</guid>
+      <pubDate>Thu, 29 Oct 2026 08:24:22 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Attackers exploited a critical Cisco Catalyst SD-WAN flaw to deploy KeyDrift malware that steals traffic encryption keys, according to Cisco Talos. (Source: The Hacker News)</description>
+    </item>
+    <item>
+      <title>SSenStone wins 3 billion won in government R&amp;D funding for OT security</title>
+      <link>https://www.globalsources.com/sourcing-digest/ssenstone-wins-3-billion-won-in-government-r-d-funding-for-ot-security/?source=GSOLHP_SKC_2</link>
+      <guid isPermaLink="true">https://www.globalsources.com/sourcing-digest/ssenstone-wins-3-billion-won-in-government-r-d-funding-for-ot-security/?source=GSOLHP_SKC_2</guid>
+      <pubDate>Thu, 29 Oct 2026 05:17:49 +0000</pubDate>
+      <category>Technology</category>
+      <description>SSenStone won 3 billion won in government R&amp;D funding to develop OT security technology. (Source: Global Sources)</description>
+    </item>
     <item>
       <title>Russia-linked hackers are exploiting poorly secured industrial systems to sabotage factories, utilities, and food production across the West, Bloomberg reports</title>
       <link>https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports</link>
@@ -30,6 +54,14 @@
       <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
       <category>Incidents</category>
       <description>CISA warns that the SafePay ransomware group has breached over 600 critical infrastructure organizations, raising risk of operational disruption for OT-dependent sectors. (Source: CPO Magazine)</description>
+    </item>
+    <item>
+      <title>Long-Hidden Flaws Patched in EPICS Research Facility Control Software</title>
+      <link>https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</link>
+      <guid isPermaLink="true">https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:48:00 +0000</pubDate>
+      <category>Advisory</category>
+      <description>Four EPICS Base control software flaws, found by an autonomous system, were patched; they could let attackers crash processes at particle accelerators and fusion labs. (Source: SecurityWeek)</description>
     </item>
     <item>
       <title>CISA Unveils New Strategy to Strengthen National Cyber Defense and Critical Infrastructure Security</title>

@@ -1,5 +1,32 @@
 [
   {
+    "url": "https://industrialcyber.co/news/omnitrust-launches-gridauth-to-strengthen-device-identity-and-trust-management-across-connected-energy-grids/",
+    "published": "2026-10-29T11:40:35Z",
+    "category": "Technology",
+    "source": "Industrial Cyber",
+    "sector": "Electric",
+    "title": "OmniTrust launches GridAuth to strengthen device identity and trust management across connected energy grids",
+    "summary": "OmniTrust launched GridAuth, a device identity and trust management platform aimed at energy utilities and grid equipment."
+  },
+  {
+    "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+    "published": "2026-10-29T08:24:22Z",
+    "category": "Incidents",
+    "source": "The Hacker News",
+    "sector": "Cross-sector",
+    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+    "summary": "Attackers exploited a critical Cisco Catalyst SD-WAN flaw to deploy KeyDrift malware that steals traffic encryption keys, according to Cisco Talos."
+  },
+  {
+    "url": "https://www.globalsources.com/sourcing-digest/ssenstone-wins-3-billion-won-in-government-r-d-funding-for-ot-security/?source=GSOLHP_SKC_2",
+    "published": "2026-10-29T05:17:49Z",
+    "category": "Technology",
+    "source": "Global Sources",
+    "sector": "Manufacturing",
+    "title": "SSenStone wins 3 billion won in government R&D funding for OT security",
+    "summary": "SSenStone won 3 billion won in government R&D funding to develop OT security technology."
+  },
+  {
     "url": "https://meduza.io/en/feature/2026/10/28/russia-linked-hackers-are-exploiting-poorly-secured-industrial-systems-to-sabotage-factories-utilities-and-food-production-across-the-west-bloomberg-reports",
     "published": "2026-10-28T17:06:00Z",
     "category": "Incidents",
@@ -25,6 +52,15 @@
     "sector": "Cross-sector",
     "title": "SafePay Ransomware Breached Over 600 Critical Infrastructure Organizations, CISA Warns",
     "summary": "CISA warns that the SafePay ransomware group has breached over 600 critical infrastructure organizations, raising risk of operational disruption for OT-dependent sectors."
+  },
+  {
+    "url": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+    "published": "2026-10-28T10:48:00Z",
+    "category": "Advisory",
+    "source": "SecurityWeek",
+    "sector": "Government",
+    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+    "summary": "Four EPICS Base control software flaws, found by an autonomous system, were patched; they could let attackers crash processes at particle accelerators and fusion labs."
   },
   {
     "url": "https://www.cisa.gov/news-events/news/cisa-unveils-new-strategy-strengthen-national-cyber-defense-and-critical-infrastructure-security",
