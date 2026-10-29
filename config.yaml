@@ -15,7 +15,7 @@ editor:
   max_tokens: 4000
 
 publishing:
-  threshold: 7              # publish items scoring >= this
+  threshold: 6              # publish items scoring >= this (was 7 until Oct 29)
   daily_cap: 20             # hard ceiling on new stories per day
   vendor_daily_cap: 3       # max stories per vendor/org per day
   feed_max_items: 500       # items kept in feed.json / feed.xml

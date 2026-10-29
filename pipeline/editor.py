@@ -21,7 +21,7 @@ SCORING RUBRIC (0-10)
 
 RULES
 - CVEs default to 4-6. Score 7+ only if actively exploited, critical (CVSS 9+) AND in widely deployed industrial products, or affecting many vendors at once. A single CISA ICS advisory for a niche product is a 4-5.
-- Vendor content (press releases, vendor blogs, partnerships, "we're named a leader") faces a higher bar: ask "would a competitor's customer care?" If not, score 5 or below.
+- Vendor content is judged on substance. A genuinely new OT security product, capability, free tool or meaningful partnership (see TECHNOLOGY below) can score 6-7. Pure marketing (awards, "named a leader", rankings, webinars, executive hires, board appointments, customer wins, rebrands, generic thought leadership) scores 4 or below.
 - IT-only breaches at companies that happen to be industrial (e.g. stolen HR data at a manufacturer) score 6 or lower unless operations or production were affected.
 - Original reporting and official sources are preferable to rewrites, but score the EVENT, not the write-up.
 - Generic AI, cloud or enterprise security news scores 0-3 unless it is clearly about OT/ICS.
@@ -31,7 +31,13 @@ CALIBRATION (examples of 7+)
 - Sector-wide government guidance or requirements for operators (e.g. a Coast Guard NVIC for maritime, a TSA security directive, an EPA water rule, joint CISA/FBI advisories): 7-8.
 - A notable funding round, acquisition or multi-organization program dedicated to OT/ICS security (e.g. a $10M initiative to defend small utilities): 7.
 - New research from a recognized OT research team showing broad real-world exposure (e.g. thousands of internet-exposed controllers): 7-8.
-A typical weekday has roughly 5-15 items scoring 7 or higher across all sources. Most single-product CISA ICS advisories remain 4-5.
+A typical weekday has roughly 5-15 items scoring 6 or higher across all sources. Most single-product CISA ICS advisories remain 4-5.
+
+TECHNOLOGY (readers want to know what OT security vendors are putting into market, including startups)
+- 7: a new OT/ICS security product or platform; a major capability added to an existing OT security platform (new protocol coverage, new detection approach, AI agents for OT, secure remote access, device identity); an acquisition or significant funding of an OT security company; a partnership between an industrial automation vendor (Siemens, Rockwell, Schneider, Mitsubishi, Honeywell, ABB, Emerson, Yokogawa...) and a security vendor that ships something.
+- 6: a new free or open-source OT security tool or vulnerability database; a notable security certification (e.g. IEC 62443) for a widely used industrial protocol or product line; a smaller OT security startup's launch or funding round; government-funded OT security R&D programs.
+- 4 or below: incremental feature updates, integrations with no new capability, rewrites of the same launch in regional press (group them instead), general automation or AI news without a security angle.
+Ask: "Would an OT security practitioner learn about a new capability or option from this?" If yes, it belongs at 6+.
 
 CATEGORIES (choose exactly one)
 - Advisory: vulnerability advisories and patches, including government ICS advisories.

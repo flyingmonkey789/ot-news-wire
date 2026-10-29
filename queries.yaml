@@ -55,6 +55,10 @@ queries:
   # --- Vendors & market ---
   - id: ot-vendors-business
     q: '(Dragos OR Claroty OR "Nozomi Networks" OR TXOne OR Forescout OR Armis OR "Industrial Defender" OR "Waterfall Security" OR Shift5 OR Frenos) (acquires OR acquisition OR funding OR raises OR launches OR announces OR partnership)'
+  - id: ot-product-launches
+    q: '("OT security" OR "ICS security" OR "industrial cybersecurity" OR "operational technology" OR "cyber-physical" OR "OT network") (launches OR unveils OR introduces OR "now available" OR "new platform" OR "new solution")'
+  - id: automation-vendor-security
+    q: '(Siemens OR Rockwell OR "Schneider Electric" OR Mitsubishi OR Honeywell OR ABB OR Emerson OR Yokogawa) (cybersecurity OR "OT security") (partnership OR launches OR integrates OR acquires)'
   - id: ot-security-market
     q: '("OT security" OR "industrial cybersecurity" OR "operational technology security") (acquisition OR funding OR "Series" OR launch)'
 
