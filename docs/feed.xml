@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 11:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:04:46 +0000</lastBuildDate>
+    <item>
+      <title>Rockwell Automation Introduces SecureOT Capabilities to Help OEMs Address Emerging Cybersecurity Regulations</title>
+      <link>https://pressreleasehub.pa.media/article/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-87563.html</link>
+      <guid isPermaLink="true">https://pressreleasehub.pa.media/article/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-87563.html</guid>
+      <pubDate>Thu, 29 Oct 2026 14:04:46 +0000</pubDate>
+      <category>Technology</category>
+      <description>Rockwell Automation has introduced SecureOT capabilities aimed at helping equipment makers meet emerging OT cybersecurity regulations. (Source: Press Release Hub)</description>
+    </item>
     <item>
       <title>OmniTrust launches GridAuth to strengthen device identity and trust management across connected energy grids</title>
       <link>https://industrialcyber.co/news/omnitrust-launches-gridauth-to-strengthen-device-identity-and-trust-management-across-connected-energy-grids/</link>
