@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 14:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:13:34 +0000</lastBuildDate>
+    <item>
+      <title>South Korea begins cybersecurity inspections of 172 critical infrastructure facilities, including telecom networks</title>
+      <link>https://dig.watch/updates/south-korea-inspection-critical-infrastructure</link>
+      <guid isPermaLink="true">https://dig.watch/updates/south-korea-inspection-critical-infrastructure</guid>
+      <pubDate>Thu, 29 Oct 2026 17:13:34 +0000</pubDate>
+      <category>Policy</category>
+      <description>South Korea has begun cybersecurity inspections of 172 critical infrastructure facilities, including telecom networks, under government oversight. (Source: Digital Watch Observatory)</description>
+    </item>
     <item>
       <title>Rockwell Automation Introduces SecureOT Capabilities to Help OEMs Address Emerging Cybersecurity Regulations</title>
       <link>https://pressreleasehub.pa.media/article/rockwell-automation-introduces-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations-87563.html</link>
