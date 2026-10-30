@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 17:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:26:17 +0000</lastBuildDate>
+    <item>
+      <title>Chilean cyberattack keeps 103 MW solar plant and battery system offline, raising alarm for South African operators</title>
+      <link>https://www.greenbuildingafrica.co.za/chilean-cyberattack-keeps-103-mw-solar-plant-and-battery-system-offline-raising-alarm-for-south-african-operators/</link>
+      <guid isPermaLink="true">https://www.greenbuildingafrica.co.za/chilean-cyberattack-keeps-103-mw-solar-plant-and-battery-system-offline-raising-alarm-for-south-african-operators/</guid>
+      <pubDate>Fri, 30 Oct 2026 02:26:17 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A cyberattack in Chile has kept a 103 MW solar plant and battery storage system offline, prompting warnings for South African renewable energy operators. (Source: Green Building Africa)</description>
+    </item>
     <item>
       <title>South Korea begins cybersecurity inspections of 172 critical infrastructure facilities, including telecom networks</title>
       <link>https://dig.watch/updates/south-korea-inspection-critical-infrastructure</link>
