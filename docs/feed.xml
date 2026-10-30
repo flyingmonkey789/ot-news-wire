@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 02:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:25:30 +0000</lastBuildDate>
+    <item>
+      <title>CISA’s new cyber strategy puts America’s critical infrastructure in the spotlight</title>
+      <link>https://etedge-insights.com/technology/cyber-security/cisas-new-cyber-strategy-puts-americas-critical-infrastructure-in-the-spotlight/</link>
+      <guid isPermaLink="true">https://etedge-insights.com/technology/cyber-security/cisas-new-cyber-strategy-puts-americas-critical-infrastructure-in-the-spotlight/</guid>
+      <pubDate>Fri, 30 Oct 2026 07:25:30 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA's new cybersecurity strategy places critical infrastructure at the center of federal priorities, signaling likely shifts in operator expectations and government support. (Source: ET Edge Insights)</description>
+    </item>
     <item>
       <title>Chilean cyberattack keeps 103 MW solar plant and battery system offline, raising alarm for South African operators</title>
       <link>https://www.greenbuildingafrica.co.za/chilean-cyberattack-keeps-103-mw-solar-plant-and-battery-system-offline-raising-alarm-for-south-african-operators/</link>
