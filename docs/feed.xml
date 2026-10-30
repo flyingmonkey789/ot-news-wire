@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 07:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:01:01 +0000</lastBuildDate>
+    <item>
+      <title>CIP Security Gains TÜV Certification For EtherNet/IP | Security News</title>
+      <link>https://www.securityinformed.com/amp/news/odva-cip-security-achieves-iec-62443-co-1742534372-ga.1793361210.html</link>
+      <guid isPermaLink="true">https://www.securityinformed.com/amp/news/odva-cip-security-achieves-iec-62443-co-1742534372-ga.1793361210.html</guid>
+      <pubDate>Fri, 30 Oct 2026 13:01:01 +0000</pubDate>
+      <category>Technology</category>
+      <description>ODVA's CIP Security extension for EtherNet/IP received TÜV certification, providing independent validation of security capabilities for a widely used industrial protocol. (Source: Security Informed)</description>
+    </item>
     <item>
       <title>CISA’s new cyber strategy puts America’s critical infrastructure in the spotlight</title>
       <link>https://etedge-insights.com/technology/cyber-security/cisas-new-cyber-strategy-puts-americas-critical-infrastructure-in-the-spotlight/</link>
