@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Partners Group acquires minority stake in software provider Nozomi Networks</title>
+      <link>https://www.privateequityinternational.com/partners-group-acquires-minority-stake-in-software-provider-nozomi-networks/</link>
+      <guid isPermaLink="true">https://www.privateequityinternational.com/partners-group-acquires-minority-stake-in-software-provider-nozomi-networks/</guid>
+      <pubDate>Sat, 31 Oct 2026 04:23:32 +0000</pubDate>
+      <category>Technology</category>
+      <description>Private equity firm Partners Group has acquired a minority stake in Nozomi Networks, a leading OT and IoT security vendor, signaling continued investor interest in industrial cybersecurity. (Source: PEI Private Equity)</description>
+    </item>
     <item>
       <title>CIP Security Gains TÜV Certification For EtherNet/IP | Security News</title>
       <link>https://www.securityinformed.com/amp/news/odva-cip-security-achieves-iec-62443-co-1742534372-ga.1793361210.html</link>
