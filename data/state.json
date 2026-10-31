@@ -3597,35 +3597,46 @@
     "u:337113190b37883b": "2026-10-31T09:52:59Z",
     "t:f9dad790818e9762": "2026-10-31T09:52:59Z",
     "u:4a3beb5aa5ff5440": "2026-10-31T09:52:59Z",
-    "t:098a843ea681e004": "2026-10-31T09:52:59Z"
+    "t:098a843ea681e004": "2026-10-31T09:52:59Z",
+    "t:85b20cf82200831c": "2026-10-31T10:50:17Z",
+    "u:5a596203baebdb60": "2026-10-31T10:50:17Z",
+    "u:77a50ee71c25014a": "2026-10-31T10:50:17Z",
+    "t:17df7722add6520a": "2026-10-31T10:50:17Z",
+    "t:34182db9e81ae90e": "2026-10-31T10:50:17Z",
+    "u:53bc23e0e96afb95": "2026-10-31T10:50:17Z",
+    "u:b2462369dde2ac97": "2026-10-31T10:50:17Z",
+    "t:bd11143121ecff3b": "2026-10-31T10:50:17Z",
+    "u:f16b3ea10a5c39a6": "2026-10-31T10:50:17Z",
+    "t:ec80c40153b03a1f": "2026-10-31T10:50:17Z",
+    "t:839840e2ba575510": "2026-10-31T10:50:17Z",
+    "u:56bd483b8f39529f": "2026-10-31T10:50:17Z"
   },
   "gnews_cache": {
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlVERVV3SjhUOGRQVGVIWnlhc0VUNG9WcDlkVXNPRDh2VDN3bTVtSHF0Xzh6ZFRidXVuNUdJLW5lSWtqNHU1U21oM0w2SjZXd1JEeUZqNVJUX19XQ3FaTTlQWHZueWdBOUlDc1BMRzctOUM0X0V6WnRXMmtqVlByUVhHTnBrNmZ1UUhQUVhDZU1hSWswY1JUc05XUVQ3aThJVlYyQUNoNkc0bTNaU0NfdDFaYXVCNjF0ZE9jV1R0UFJGbk1JSDhNNU9WYnJMVGs?oc=5": "https://etedge-insights.com/technology/cyber-security/cisas-new-cyber-strategy-puts-americas-critical-infrastructure-in-the-spotlight/",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWEZjRVMzaUZ3Zms5bVhTRjVaSVhVejN0Ykw0azBYSXBrYnhuRUU1b3BySDlaTm5VamZXd0F2Vm5DVlhVNnpmcXlTUUQ4dC1MRGlzeTdSeWZTQUFrdkkxRDZSdjhRWjZUTTlCOXc4b0g5UkZQZ042WTJDU1lnVlY0LUowZDVWOFlHTmNQbm9mY1hSUEM5cFQ5cUwyOUJtdkJXeTMzOVpKWi1MOWw3eU42bQ?oc=5": "https://www.securityinformed.com/amp/news/odva-cip-security-achieves-iec-62443-co-1742534372-ga.1793361210.html"
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlVERVV3SjhUOGRQVGVIWnlhc0VUNG9WcDlkVXNPRDh2VDN3bTVtSHF0Xzh6ZFRidXVuNUdJLW5lSWtqNHU1U21oM0w2SjZXd1JEeUZqNVJUX19XQ3FaTTlQWHZueWdBOUlDc1BMRzctOUM0X0V6WnRXMmtqVlByUVhHTnBrNmZ1UUhQUVhDZU1hSWswY1JUc05XUVQ3aThJVlYyQUNoNkc0bTNaU0NfdDFaYXVCNjF0ZE9jV1R0UFJGbk1JSDhNNU9WYnJMVGs?oc=5": "https://etedge-insights.com/technology/cyber-security/cisas-new-cyber-strategy-puts-americas-critical-infrastructure-in-the-spotlight/"
   },
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -3639,164 +3650,164 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 473
     },
     "feed:waterfall": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 6
     },
     "query:operational-technology": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 6
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 7
     },
     "query:ics-scada": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 1
     },
     "query:plc": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 9
     },
     "query:water": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 1
     },
     "query:energy": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 4
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 3
     },
     "query:oil-gas": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 9
     },
     "query:manufacturing": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 1
     },
     "query:transport": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 12
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 9
     },
     "query:threat-actors": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 18
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 19
     },
     "query:ot-malware": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 0
     },
     "query:ci-policy": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 28
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 27
     },
     "query:frameworks": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 7
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 100
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 50
     },
     "query:ot-security-market": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 1
     },
     "query:ot-research": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 3
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 2
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 1
     },
     "query:ot-product-launches": {
-      "last_success": "2026-10-31T09:52:59Z",
+      "last_success": "2026-10-31T10:50:17Z",
       "last_count": 76
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-10-31T09:52:59Z",
-      "last_count": 1
+      "last_success": "2026-10-31T10:50:17Z",
+      "last_count": 2
     }
   },
   "next_id": 22
