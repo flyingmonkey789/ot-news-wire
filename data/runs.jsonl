@@ -187,3 +187,4 @@
 {"ts": "2026-11-01T14:51:18Z", "fetched": 1198, "new": 4, "prefiltered_out": 4, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
 {"ts": "2026-11-01T15:48:21Z", "fetched": 1172, "new": 4, "prefiltered_out": 2, "reviewed": 2, "published": 1, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3159, "output_tokens": 197, "feed_size": 21}
 {"ts": "2026-11-01T16:50:34Z", "fetched": 1172, "new": 2, "prefiltered_out": 2, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 21}
+{"ts": "2026-11-01T17:46:46Z", "fetched": 1251, "new": 1, "prefiltered_out": 0, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3164, "output_tokens": 91, "feed_size": 21}
