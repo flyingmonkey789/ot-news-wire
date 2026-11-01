@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 04:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:07:07 +0000</lastBuildDate>
+    <item>
+      <title>Korea Ranks 5th Globally in Exposed Industrial Control Systems</title>
+      <link>https://en.sedaily.com/technology/2026/11/01/korea-ranks-5th-globally-in-internet-exposed-industrial</link>
+      <guid isPermaLink="true">https://en.sedaily.com/technology/2026/11/01/korea-ranks-5th-globally-in-internet-exposed-industrial</guid>
+      <pubDate>Sun, 01 Nov 2026 09:07:07 +0000</pubDate>
+      <category>Research</category>
+      <description>A report ranks South Korea fifth globally for internet-exposed industrial control systems, highlighting real-world exposure of national OT assets to remote attack. (Source: Seoul Economic Daily)</description>
+    </item>
     <item>
       <title>Partners Group acquires minority stake in software provider Nozomi Networks</title>
       <link>https://www.privateequityinternational.com/partners-group-acquires-minority-stake-in-software-provider-nozomi-networks/</link>

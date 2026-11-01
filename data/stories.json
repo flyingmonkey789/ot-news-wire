@@ -1,5 +1,21 @@
 [
   {
+    "id": "S22",
+    "url": "https://en.sedaily.com/technology/2026/11/01/korea-ranks-5th-globally-in-internet-exposed-industrial",
+    "published": "2026-11-01T09:07:07Z",
+    "category": "Research",
+    "source": "Seoul Economic Daily",
+    "sector": "Cross-sector",
+    "title": "Korea Ranks 5th Globally in Exposed Industrial Control Systems",
+    "summary": "A report ranks South Korea fifth globally for internet-exposed industrial control systems, highlighting real-world exposure of national OT assets to remote attack.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:ics-scada",
+    "added_at": "2026-11-01T15:48:21Z"
+  },
+  {
     "id": "S21",
     "url": "https://www.privateequityinternational.com/partners-group-acquires-minority-stake-in-software-provider-nozomi-networks/",
     "published": "2026-10-31T04:23:32Z",
