@@ -9,12 +9,12 @@
     "summary": "Hackers reportedly compromised Ukrainian and Russian emergency alert apps to push fake air raid and nuclear warnings to citizens, a public safety disruption affecting government warning systems."
   },
   {
-    "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+    "url": "https://www.rapid7.com/blog/post/etr-additional-ivanti-connect-secure-zero-days-exploited-in-the-wild-cve-2026-111357-cve-2026-118527",
     "published": "2026-11-02T09:33:26Z",
     "category": "Advisory",
-    "source": "BleepingComputer",
+    "source": "Rapid7",
     "sector": "Cross-sector",
-    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+    "title": "Additional Ivanti Connect Secure zero-days exploited in the wild (CVE-2026-111357, CVE-2026-118527)",
     "summary": "Ivanti released patches for two more Connect Secure remote access gateway zero-days chained in attacks since October 1, expanding exposure for widely deployed edge devices used by industrial and critical infrastructure networks."
   },
   {
