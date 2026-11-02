@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 01 Nov 2026 09:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:50:00 +0000</lastBuildDate>
+    <item>
+      <title>Low-skill pro-Russian hackers sabotage Western plants, water utilities — Bloomberg</title>
+      <link>https://english.nv.ua/business/pro-russian-saboteurs-hack-western-plants-50655390.html</link>
+      <guid isPermaLink="true">https://english.nv.ua/business/pro-russian-saboteurs-hack-western-plants-50655390.html</guid>
+      <pubDate>Mon, 02 Nov 2026 07:50:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Bloomberg reports low-skill pro-Russian hacktivists have sabotaged Western industrial plants and water utilities, raising operational disruption risk for OT defenders. (Source: The New Voice of Ukraine)</description>
+    </item>
     <item>
       <title>Korea Ranks 5th Globally in Exposed Industrial Control Systems</title>
       <link>https://en.sedaily.com/technology/2026/11/01/korea-ranks-5th-globally-in-internet-exposed-industrial</link>
