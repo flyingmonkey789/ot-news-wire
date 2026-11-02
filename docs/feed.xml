@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 10:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:36:36 +0000</lastBuildDate>
+    <item>
+      <title>Hackers manipulate supermarket freezer temperatures across Europe, exposing weaknesses in connected OT systems</title>
+      <link>https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/</guid>
+      <pubDate>Mon, 02 Nov 2026 17:36:36 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Attackers repeatedly manipulated connected refrigeration controls at European supermarket chains, altering freezer temperatures and exposing weaknesses in networked OT systems. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens</title>
       <link>https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html</link>

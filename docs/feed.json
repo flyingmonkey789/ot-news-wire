@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/",
+    "published": "2026-11-02T17:36:36Z",
+    "category": "Incidents",
+    "source": "Industrial Cyber",
+    "sector": "Manufacturing",
+    "title": "Hackers manipulate supermarket freezer temperatures across Europe, exposing weaknesses in connected OT systems",
+    "summary": "Attackers repeatedly manipulated connected refrigeration controls at European supermarket chains, altering freezer temperatures and exposing weaknesses in networked OT systems."
+  },
+  {
     "url": "https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html",
     "published": "2026-11-02T10:20:46Z",
     "category": "Incidents",
