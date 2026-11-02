@@ -6,7 +6,47 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 07:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:20:46 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Send Fake Nuclear Threat Alerts to Ukrainian and Russian Citizens</title>
+      <link>https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html</link>
+      <guid isPermaLink="true">https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html</guid>
+      <pubDate>Mon, 02 Nov 2026 10:20:46 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Hackers reportedly compromised Ukrainian and Russian emergency alert apps to push fake air raid and nuclear warnings to citizens, a public safety disruption affecting government warning systems. (Source: Security Affairs)</description>
+    </item>
+    <item>
+      <title>Ivanti patches two more Connect Secure zero-days chained in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</link>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</guid>
+      <pubDate>Mon, 02 Nov 2026 09:33:26 +0000</pubDate>
+      <category>Advisory</category>
+      <description>Ivanti released patches for two more Connect Secure remote access gateway zero-days chained in attacks since October 1, expanding exposure for widely deployed edge devices used by industrial and critical infrastructure networks. (Source: BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Lumen details Volt Typhoon’s Silent Train framework exploiting zero-days to target US critical infrastructure sites</title>
+      <link>https://industrialcyber.co/critical-infrastructure/lumen-details-volt-typhoons-silent-train-framework-exploiting-zero-days-to-target-us-critical-infrastructure-sites/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/critical-infrastructure/lumen-details-volt-typhoons-silent-train-framework-exploiting-zero-days-to-target-us-critical-infrastructure-sites/</guid>
+      <pubDate>Mon, 02 Nov 2026 09:02:37 +0000</pubDate>
+      <category>Research</category>
+      <description>Lumen Black Lotus Labs published research on Volt Typhoon's Silent Train framework, which exploits zero-days to target US critical infrastructure sites. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Axonius expands asset intelligence platform to IoT and OT devices, addressing cyber-physical security visibility gaps</title>
+      <link>https://industrialcyber.co/news/axonius-expands-asset-intelligence-platform-to-iot-and-ot-devices-addressing-cyber-physical-security-visibility-gaps/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/axonius-expands-asset-intelligence-platform-to-iot-and-ot-devices-addressing-cyber-physical-security-visibility-gaps/</guid>
+      <pubDate>Mon, 02 Nov 2026 08:51:56 +0000</pubDate>
+      <category>Technology</category>
+      <description>Axonius made general availability of its Cyber-Physical platform extending asset visibility to IoT and OT devices. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Rockwell Automation expands SecureOT capabilities to help OEMs address emerging cybersecurity regulations</title>
+      <link>https://industrialcyber.co/news/rockwell-automation-expands-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/rockwell-automation-expands-secureot-capabilities-to-help-oems-address-emerging-cybersecurity-regulations/</guid>
+      <pubDate>Mon, 02 Nov 2026 08:48:09 +0000</pubDate>
+      <category>Technology</category>
+      <description>Rockwell Automation added SecureOT capabilities aimed at helping OEMs meet emerging cybersecurity regulations for industrial equipment. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Low-skill pro-Russian hackers sabotage Western plants, water utilities — Bloomberg</title>
       <link>https://english.nv.ua/business/pro-russian-saboteurs-hack-western-plants-50655390.html</link>
