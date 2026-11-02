@@ -1,5 +1,21 @@
 [
   {
+    "id": "S30",
+    "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/industrial-defender-introduces-a-unified-approach-to-nis2-compliance-and-cyber-res-1245399",
+    "published": "2026-11-02T21:42:00Z",
+    "category": "Technology",
+    "source": "ACCESS Newswire",
+    "sector": "Cross-sector",
+    "title": "Industrial Defender Introduces a Unified Approach to NIS2 Compliance and Cyber Resilience Across Industrial Environments",
+    "summary": "Industrial Defender introduces a unified approach to NIS2 compliance and cyber resilience for industrial environments, combining OT security and regulatory readiness capabilities.",
+    "score": 6,
+    "source_type": "vendor",
+    "is_primary": true,
+    "vendor_key": "industrial defender",
+    "origin": "query:operational-technology",
+    "added_at": "2026-11-02T21:54:48Z"
+  },
+  {
     "id": "S29",
     "url": "https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/",
     "published": "2026-11-02T17:36:36Z",

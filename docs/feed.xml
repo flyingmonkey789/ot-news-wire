@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 17:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Industrial Defender Introduces a Unified Approach to NIS2 Compliance and Cyber Resilience Across Industrial Environments</title>
+      <link>https://www.accessnewswire.com/newsroom/en/clean-technology/industrial-defender-introduces-a-unified-approach-to-nis2-compliance-and-cyber-res-1245399</link>
+      <guid isPermaLink="true">https://www.accessnewswire.com/newsroom/en/clean-technology/industrial-defender-introduces-a-unified-approach-to-nis2-compliance-and-cyber-res-1245399</guid>
+      <pubDate>Mon, 02 Nov 2026 21:42:00 +0000</pubDate>
+      <category>Technology</category>
+      <description>Industrial Defender introduces a unified approach to NIS2 compliance and cyber resilience for industrial environments, combining OT security and regulatory readiness capabilities. (Source: ACCESS Newswire)</description>
+    </item>
     <item>
       <title>Hackers manipulate supermarket freezer temperatures across Europe, exposing weaknesses in connected OT systems</title>
       <link>https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/</link>
