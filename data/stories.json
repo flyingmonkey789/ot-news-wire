@@ -1,5 +1,21 @@
 [
   {
+    "id": "S31",
+    "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+    "published": "2026-11-03T05:34:41Z",
+    "category": "Advisory",
+    "source": "The Hacker News",
+    "sector": "Manufacturing",
+    "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+    "summary": "A CVSS 10.0 missing-authentication flaw in Siemens SIMATIC IoT2050 Advanced devices is being actively exploited to run remote code, according to VulnCheck.",
+    "score": 8,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": "siemens",
+    "origin": "feed:the-hacker-news",
+    "added_at": "2026-11-03T06:06:31Z"
+  },
+  {
     "id": "S30",
     "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/industrial-defender-introduces-a-unified-approach-to-nis2-compliance-and-cyber-res-1245399",
     "published": "2026-11-02T21:42:00Z",

@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 21:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:34:41 +0000</lastBuildDate>
+    <item>
+      <title>Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
+      <link>https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</guid>
+      <pubDate>Tue, 03 Nov 2026 05:34:41 +0000</pubDate>
+      <category>Advisory</category>
+      <description>A CVSS 10.0 missing-authentication flaw in Siemens SIMATIC IoT2050 Advanced devices is being actively exploited to run remote code, according to VulnCheck. (Source: The Hacker News)</description>
+    </item>
     <item>
       <title>Industrial Defender Introduces a Unified Approach to NIS2 Compliance and Cyber Resilience Across Industrial Environments</title>
       <link>https://www.accessnewswire.com/newsroom/en/clean-technology/industrial-defender-introduces-a-unified-approach-to-nis2-compliance-and-cyber-res-1245399</link>
