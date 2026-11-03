@@ -1,5 +1,21 @@
 [
   {
+    "id": "S32",
+    "url": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
+    "published": "2026-11-03T11:45:00Z",
+    "category": "Policy",
+    "source": "Infosecurity Magazine",
+    "sector": "Cross-sector",
+    "title": "NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure",
+    "summary": "UK NCSC chief warns that AI-enabled ransomware could imminently threaten UK critical infrastructure, urging operators to prepare for accelerated attacks.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "query:ci-policy",
+    "added_at": "2026-11-03T11:58:53Z"
+  },
+  {
     "id": "S31",
     "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
     "published": "2026-11-03T05:34:41Z",
