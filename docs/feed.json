@@ -45,12 +45,12 @@
     "summary": "Industrial Defender introduces a unified approach to NIS2 compliance and cyber resilience for industrial environments, combining OT security and regulatory readiness capabilities."
   },
   {
-    "url": "https://industrialcyber.co/critical-infrastructure/hackers-manipulate-supermarket-freezer-temperatures-across-europe-exposing-weaknesses-in-connected-ot-systems/",
+    "url": "https://www.forescout.com/blog/from-supermarkets-to-military-bases-the-cold-chain-cyber-risk-is-heating-up/",
     "published": "2026-11-02T17:36:36Z",
     "category": "Incidents",
-    "source": "Industrial Cyber",
+    "source": "Forescout Vedere Labs",
     "sector": "Manufacturing",
-    "title": "Hackers manipulate supermarket freezer temperatures across Europe, exposing weaknesses in connected OT systems",
+    "title": "From Supermarkets to Military Bases: the Cold Chain Cyber Risk Is Heating Up",
     "summary": "Attackers repeatedly manipulated connected refrigeration controls at European supermarket chains, altering freezer temperatures and exposing weaknesses in networked OT systems."
   },
   {
