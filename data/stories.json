@@ -1,5 +1,37 @@
 [
   {
+    "id": "S34",
+    "url": "https://industrialcyber.co/cisa/cisa-urges-critical-infrastructure-owners-to-prioritize-ot-security-operational-continuity-recovery-planning-in-2026-campaign/",
+    "published": "2026-11-03T13:09:58Z",
+    "category": "Policy",
+    "source": "Industrial Cyber",
+    "sector": "Government",
+    "title": "CISA urges critical infrastructure owners to prioritize OT security, operational continuity, recovery planning in 2026 campaign",
+    "summary": "CISA launched its 2026 Critical Infrastructure Security and Resilience campaign, urging owners to prioritize OT security, operational continuity and recovery planning.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "feed:industrial-cyber",
+    "added_at": "2026-11-03T13:21:19Z"
+  },
+  {
+    "id": "S33",
+    "url": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/",
+    "published": "2026-11-03T12:59:51Z",
+    "category": "Advisory",
+    "source": "Help Net Security",
+    "sector": "Manufacturing",
+    "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)",
+    "summary": "Attackers are actively exploiting critical authentication flaw CVE-2026-58115 in Node-RED, a tool built into some industrial control products, to deploy Linux bots and backdoors.",
+    "score": 7,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:helpnetsecurity",
+    "added_at": "2026-11-03T13:21:19Z"
+  },
+  {
     "id": "S32",
     "url": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
     "published": "2026-11-03T11:45:00Z",

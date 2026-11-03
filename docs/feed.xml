@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Nov 2026 11:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:09:58 +0000</lastBuildDate>
+    <item>
+      <title>CISA urges critical infrastructure owners to prioritize OT security, operational continuity, recovery planning in 2026 campaign</title>
+      <link>https://industrialcyber.co/cisa/cisa-urges-critical-infrastructure-owners-to-prioritize-ot-security-operational-continuity-recovery-planning-in-2026-campaign/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/cisa/cisa-urges-critical-infrastructure-owners-to-prioritize-ot-security-operational-continuity-recovery-planning-in-2026-campaign/</guid>
+      <pubDate>Tue, 03 Nov 2026 13:09:58 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA launched its 2026 Critical Infrastructure Security and Resilience campaign, urging owners to prioritize OT security, operational continuity and recovery planning. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)</title>
+      <link>https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/</guid>
+      <pubDate>Tue, 03 Nov 2026 12:59:51 +0000</pubDate>
+      <category>Advisory</category>
+      <description>Attackers are actively exploiting critical authentication flaw CVE-2026-58115 in Node-RED, a tool built into some industrial control products, to deploy Linux bots and backdoors. (Source: Help Net Security)</description>
+    </item>
     <item>
       <title>NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure</title>
       <link>https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/</link>
