@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 03 Nov 2026 13:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:04:05 +0000</lastBuildDate>
+    <item>
+      <title>ESET uncovers Gorbag cyberespionage campaign targeting Ukraine’s administrations, defense sector, transportation hub</title>
+      <link>https://industrialcyber.co/ransomware/eset-uncovers-gorbag-cyberespionage-campaign-targeting-ukraines-administrations-defense-sector-transportation-hub/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/ransomware/eset-uncovers-gorbag-cyberespionage-campaign-targeting-ukraines-administrations-defense-sector-transportation-hub/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:04:05 +0000</pubDate>
+      <category>Research</category>
+      <description>ESET research describes Gorbag, a previously underreported Russia-aligned cyberespionage actor targeting Ukrainian administrations, defense, and a transportation hub. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>CISA urges critical infrastructure owners to prioritize OT security, operational continuity, recovery planning in 2026 campaign</title>
       <link>https://industrialcyber.co/cisa/cisa-urges-critical-infrastructure-owners-to-prioritize-ot-security-operational-continuity-recovery-planning-in-2026-campaign/</link>

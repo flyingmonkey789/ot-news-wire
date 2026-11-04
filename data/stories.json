@@ -1,5 +1,21 @@
 [
   {
+    "id": "S35",
+    "url": "https://industrialcyber.co/ransomware/eset-uncovers-gorbag-cyberespionage-campaign-targeting-ukraines-administrations-defense-sector-transportation-hub/",
+    "published": "2026-11-04T09:04:05Z",
+    "category": "Research",
+    "source": "Industrial Cyber",
+    "sector": "Government",
+    "title": "ESET uncovers Gorbag cyberespionage campaign targeting Ukraine’s administrations, defense sector, transportation hub",
+    "summary": "ESET research describes Gorbag, a previously underreported Russia-aligned cyberespionage actor targeting Ukrainian administrations, defense, and a transportation hub.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": "eset",
+    "origin": "feed:industrial-cyber",
+    "added_at": "2026-11-04T09:11:21Z"
+  },
+  {
     "id": "S34",
     "url": "https://industrialcyber.co/cisa/cisa-urges-critical-infrastructure-owners-to-prioritize-ot-security-operational-continuity-recovery-planning-in-2026-campaign/",
     "published": "2026-11-03T13:09:58Z",
