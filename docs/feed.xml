@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Nov 2026 09:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:24:26 +0000</lastBuildDate>
+    <item>
+      <title>Electric utilities join industries urging renewal of cybersecurity information-sharing law</title>
+      <link>https://www.utilitydive.com/news/electric-utilities-join-industries-urging-renewal-of-cybersecurity-informat/873703/</link>
+      <guid isPermaLink="true">https://www.utilitydive.com/news/electric-utilities-join-industries-urging-renewal-of-cybersecurity-informat/873703/</guid>
+      <pubDate>Wed, 04 Nov 2026 15:24:26 +0000</pubDate>
+      <category>Policy</category>
+      <description>Electric utilities and other industries are urging Congress to renew the expiring CISA 2015 law that provides liability protections for cyber threat information sharing. (Source: Utility Dive)</description>
+    </item>
     <item>
       <title>Australia’s CISC sharpens critical infrastructure risk guidance, urges stronger cyber and supply chain controls</title>
       <link>https://industrialcyber.co/critical-infrastructure/australias-cisc-sharpens-critical-infrastructure-risk-guidance-urges-stronger-cyber-and-supply-chain-controls/</link>
