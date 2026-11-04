@@ -232,3 +232,4 @@
 {"ts": "2026-11-03T21:00:23Z", "fetched": 1366, "new": 8, "prefiltered_out": 6, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3719, "output_tokens": 155, "feed_size": 33}
 {"ts": "2026-11-03T21:58:28Z", "fetched": 1340, "new": 11, "prefiltered_out": 11, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 33}
 {"ts": "2026-11-03T22:58:12Z", "fetched": 1368, "new": 11, "prefiltered_out": 10, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3642, "output_tokens": 95, "feed_size": 33}
+{"ts": "2026-11-04T00:01:26Z", "fetched": 1373, "new": 14, "prefiltered_out": 13, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3645, "output_tokens": 92, "feed_size": 33}
