@@ -243,3 +243,4 @@
 {"ts": "2026-11-04T10:20:20Z", "fetched": 1337, "new": 16, "prefiltered_out": 14, "reviewed": 2, "published": 1, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3893, "output_tokens": 210, "feed_size": 35}
 {"ts": "2026-11-04T12:02:34Z", "fetched": 1353, "new": 16, "prefiltered_out": 14, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3967, "output_tokens": 146, "feed_size": 35}
 {"ts": "2026-11-04T13:23:41Z", "fetched": 1356, "new": 20, "prefiltered_out": 14, "reviewed": 5, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 4065, "output_tokens": 391, "feed_size": 35}
+{"ts": "2026-11-04T15:04:28Z", "fetched": 1262, "new": 30, "prefiltered_out": 24, "reviewed": 6, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 4316, "output_tokens": 392, "feed_size": 35}
