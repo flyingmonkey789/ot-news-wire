@@ -1,5 +1,21 @@
 [
   {
+    "id": "S36",
+    "url": "https://industrialcyber.co/critical-infrastructure/australias-cisc-sharpens-critical-infrastructure-risk-guidance-urges-stronger-cyber-and-supply-chain-controls/",
+    "published": "2026-11-04T09:12:12Z",
+    "category": "Policy",
+    "source": "Industrial Cyber",
+    "sector": "Cross-sector",
+    "title": "Australia’s CISC sharpens critical infrastructure risk guidance, urges stronger cyber and supply chain controls",
+    "summary": "Australia's Critical Infrastructure Security Centre has published updated Critical Infrastructure Risk Management Program guidance calling for stronger cyber and supply chain controls by operators.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:industrial-cyber",
+    "added_at": "2026-11-04T10:20:20Z"
+  },
+  {
     "id": "S35",
     "url": "https://industrialcyber.co/ransomware/eset-uncovers-gorbag-cyberespionage-campaign-targeting-ukraines-administrations-defense-sector-transportation-hub/",
     "published": "2026-11-04T09:04:05Z",
