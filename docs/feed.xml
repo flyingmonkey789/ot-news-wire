@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 18:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Harden cooling systems now, feds warn critical infrastructure operators amid attacks</title>
+      <link>https://therecord.media/cyberattacks-refrigeration-cisa-fbi</link>
+      <guid isPermaLink="true">https://therecord.media/cyberattacks-refrigeration-cisa-fbi</guid>
+      <pubDate>Thu, 05 Nov 2026 19:15:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>U.S. government urges critical infrastructure operators to harden cooling systems after attacks disrupted European supermarkets, raising risk for OT-connected refrigeration and HVAC. (Source: The Record)</description>
+    </item>
     <item>
       <title>Industrial Defender Adds Network Security Monitoring and Risk Signal™ to Strengthen OT Cybersecurity Posture Across Europe, Africa and the Middle East</title>
       <link>https://www.prnewswire.com/news-releases/industrial-defender-adds-network-security-monitoring-and-risk-signal-to-strengthen-ot-cybersecurity-posture-across-europe-africa-and-the-middle-east-302931184.html</link>
