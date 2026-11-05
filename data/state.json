@@ -5749,9 +5749,39 @@
     "t:24e8e6f615e93f60": "2026-11-05T12:08:28Z",
     "u:7ea7a28e8c7e2c87": "2026-11-05T12:08:28Z",
     "t:485f18700a201d25": "2026-11-05T12:08:28Z",
-    "u:4304de3d619f9b41": "2026-11-05T12:08:28Z"
+    "u:4304de3d619f9b41": "2026-11-05T12:08:28Z",
+    "u:fdf82900c3471133": "2026-11-05T13:28:19Z",
+    "t:89e83eb02ac66890": "2026-11-05T13:28:19Z",
+    "t:eff5822216368ffe": "2026-11-05T13:28:19Z",
+    "u:72874d43ccade218": "2026-11-05T13:28:19Z",
+    "u:89bd281d18bee0ef": "2026-11-05T13:28:19Z",
+    "t:b79adf7c2e5806dc": "2026-11-05T13:28:19Z",
+    "u:2bd0fc4ab8a7ea12": "2026-11-05T13:28:19Z",
+    "t:e54452a06fef9374": "2026-11-05T13:28:19Z",
+    "t:60f892a822bc73ce": "2026-11-05T13:28:19Z",
+    "u:c58a7ea1b75b4acb": "2026-11-05T13:28:19Z",
+    "t:d0af60495fba9fe8": "2026-11-05T13:28:19Z",
+    "u:66e5cffe075d11b3": "2026-11-05T13:28:19Z",
+    "u:b9ed5372f616b70b": "2026-11-05T13:28:19Z",
+    "t:2c8fee51077daf61": "2026-11-05T13:28:19Z",
+    "t:86d14153bcc73a0d": "2026-11-05T13:28:19Z",
+    "u:74784d5178741c5f": "2026-11-05T13:28:19Z",
+    "t:bd1d386dedf29eaa": "2026-11-05T13:28:19Z",
+    "u:8ad79f4685d1af61": "2026-11-05T13:28:19Z",
+    "t:22d27b5add46bbbc": "2026-11-05T13:28:19Z",
+    "u:b7a8141d7d297728": "2026-11-05T13:28:19Z",
+    "t:fe3835f3a4d980ff": "2026-11-05T13:28:19Z",
+    "u:458ce83ead6102cc": "2026-11-05T13:28:19Z",
+    "t:c9994436ab0c1575": "2026-11-05T13:28:19Z",
+    "u:eaae2383624cbbbe": "2026-11-05T13:28:19Z",
+    "t:47b35abf4e5018fb": "2026-11-05T13:28:19Z",
+    "u:97fa1f0e0c7f7044": "2026-11-05T13:28:19Z",
+    "t:739a9a34f17c4065": "2026-11-05T13:28:19Z",
+    "u:7fbc063486e2248e": "2026-11-05T13:28:19Z"
   },
-  "gnews_cache": {},
+  "gnews_cache": {
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMm5OdnVyY2lJVHlhbTJGWXBTMFEyZlJaSXMyTTUxYk9BcWl3OUgyZEV1SlVGUVZyaVFObE05RWNvVG5mUV9Pc0FZOTFKbnNkOUluMWJhV0UtT1RQem9ROTVaMTJjSG16RkVVajV5eWY0OGZGaEFNZGw2RC1kblVyYVhpUU9fY05k?oc=5": "https://engineerlive.com/rockwell-automation-introduce-new-secureot-capabilities/"
+  },
   "feeds": {
     "feed:cisa-ics": {
       "last_success": "2026-11-04T17:09:53Z",
@@ -5778,11 +5808,11 @@
       "failing_since": "2026-11-04T18:02:41Z"
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -5796,165 +5826,165 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 473
     },
     "feed:waterfall": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 10
     },
     "query:operational-technology": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 14
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 13
     },
     "query:ics-scada": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 4
     },
     "query:plc": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 6
     },
     "query:water": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 2
     },
     "query:energy": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 3
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 4
     },
     "query:oil-gas": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 9
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 10
     },
     "query:manufacturing": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 2
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 1
     },
     "query:transport": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 21
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 24
     },
     "query:threat-actors": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 5
     },
     "query:ot-malware": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 0
     },
     "query:ci-policy": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 26
     },
     "query:frameworks": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 12
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 50
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 8
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 7
     },
     "query:ot-research": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 2
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 3
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-05T12:08:28Z",
+      "last_success": "2026-11-05T13:28:19Z",
       "last_count": 5
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 39
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 38
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-05T12:08:28Z",
-      "last_count": 1
+      "last_success": "2026-11-05T13:28:19Z",
+      "last_count": 2
     }
   },
-  "next_id": 38
+  "next_id": 39
 }

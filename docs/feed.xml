@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Nov 2026 15:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Rockwell Automation introduce new SecureOT capabilities</title>
+      <link>https://engineerlive.com/rockwell-automation-introduce-new-secureot-capabilities/</link>
+      <guid isPermaLink="true">https://engineerlive.com/rockwell-automation-introduce-new-secureot-capabilities/</guid>
+      <pubDate>Thu, 05 Nov 2026 11:42:00 +0000</pubDate>
+      <category>Technology</category>
+      <description>Rockwell Automation has added new SecureOT capabilities to its industrial security offering, extending options for OT defenders. (Source: Engineer Live)</description>
+    </item>
     <item>
       <title>Electric utilities join industries urging renewal of cybersecurity information-sharing law</title>
       <link>https://www.utilitydive.com/news/electric-utilities-join-industries-urging-renewal-of-cybersecurity-informat/873703/</link>
