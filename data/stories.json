@@ -1,5 +1,21 @@
 [
   {
+    "id": "S39",
+    "url": "https://www.prnewswire.com/news-releases/industrial-defender-adds-network-security-monitoring-and-risk-signal-to-strengthen-ot-cybersecurity-posture-across-europe-africa-and-the-middle-east-302931184.html",
+    "published": "2026-11-05T18:26:00Z",
+    "category": "Technology",
+    "source": "PR Newswire",
+    "sector": "Cross-sector",
+    "title": "Industrial Defender Adds Network Security Monitoring and Risk Signal™ to Strengthen OT Cybersecurity Posture Across Europe, Africa and the Middle East",
+    "summary": "Industrial Defender adds network security monitoring and a Risk Signal capability to its OT security platform for Europe, Africa and the Middle East, giving asset owners new visibility options in those regions.",
+    "score": 6,
+    "source_type": "vendor",
+    "is_primary": true,
+    "vendor_key": "industrial defender",
+    "origin": "query:ot-security",
+    "added_at": "2026-11-05T19:12:28Z"
+  },
+  {
     "id": "S38",
     "url": "https://engineerlive.com/rockwell-automation-introduce-new-secureot-capabilities/",
     "published": "2026-11-05T11:42:00Z",
