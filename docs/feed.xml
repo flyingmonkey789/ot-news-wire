@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 19:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:46:44 +0000</lastBuildDate>
+    <item>
+      <title>ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe</title>
+      <link>https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html</link>
+      <guid isPermaLink="true">https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html</guid>
+      <pubDate>Fri, 06 Nov 2026 09:46:44 +0000</pubDate>
+      <category>Incidents</category>
+      <description>ENISA warns of a coordinated series of cyberattacks on commercial refrigeration systems across several EU Member States, with new waves reported in early November affecting supermarkets and food supply chains. (Source: Security Affairs)</description>
+    </item>
     <item>
       <title>CISA, FBI, HHS, USDA, and DOT Urge Critical Infrastructure To Strengthen Industrial Refrigeration and Cold Chain Monitoring Systems Cybersecurity</title>
       <link>https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold</link>

@@ -1,5 +1,21 @@
 [
   {
+    "id": "S41",
+    "url": "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
+    "published": "2026-11-06T09:46:44Z",
+    "category": "Incidents",
+    "source": "Security Affairs",
+    "sector": "Cross-sector",
+    "title": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe",
+    "summary": "ENISA warns of a coordinated series of cyberattacks on commercial refrigeration systems across several EU Member States, with new waves reported in early November affecting supermarkets and food supply chains.",
+    "score": 8,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:security-affairs",
+    "added_at": "2026-11-06T10:16:08Z"
+  },
+  {
     "id": "S40",
     "url": "https://www.cisa.gov/news-events/news/cisa-fbi-hhs-usda-and-dot-urge-critical-infrastructure-strengthen-industrial-refrigeration-and-cold",
     "published": "2026-11-05T19:15:00Z",
