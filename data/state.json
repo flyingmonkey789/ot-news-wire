@@ -6401,32 +6401,44 @@
     "u:9e059e9730468e95": "2026-11-06T19:08:48Z",
     "t:8179a06816b3c00d": "2026-11-06T19:08:48Z",
     "t:5300d17a1d695bd4": "2026-11-06T19:08:48Z",
-    "u:7eacbb838eedbc0f": "2026-11-06T19:08:48Z"
+    "u:7eacbb838eedbc0f": "2026-11-06T19:08:48Z",
+    "u:907a316b4670812e": "2026-11-06T19:59:54Z",
+    "t:f23389d4a36b2b75": "2026-11-06T19:59:54Z",
+    "u:ea6b9d64cfe5f3ca": "2026-11-06T19:59:54Z",
+    "t:6db870de388b2101": "2026-11-06T19:59:54Z",
+    "u:dbc1c58d30b413fb": "2026-11-06T19:59:54Z",
+    "t:d3296b2a0682c5cf": "2026-11-06T19:59:54Z",
+    "u:ced98aac490dc648": "2026-11-06T19:59:54Z",
+    "t:9f71b192f7f5a1d5": "2026-11-06T19:59:54Z",
+    "t:c42a6506fdf9029b": "2026-11-06T19:59:54Z",
+    "u:8a7e766c88595774": "2026-11-06T19:59:54Z",
+    "t:9de8e3ceeb44ee6b": "2026-11-06T19:59:54Z",
+    "u:a6f115dc4fbb6405": "2026-11-06T19:59:54Z"
   },
   "gnews_cache": {},
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -6440,164 +6452,164 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 474
     },
     "feed:waterfall": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 7
     },
     "query:operational-technology": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 7
     },
     "query:ics-scada": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 4
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 5
     },
     "query:plc": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 7
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 8
     },
     "query:water": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 0
     },
     "query:energy": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 2
     },
     "query:oil-gas": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 10
     },
     "query:manufacturing": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 2
     },
     "query:transport": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 25
     },
     "query:threat-actors": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 5
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 4
     },
     "query:ot-malware": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 3
     },
     "query:ci-policy": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 27
     },
     "query:frameworks": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 8
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 50
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 51
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 1
     },
     "query:ot-research": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 4
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 26
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 22
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-06T19:08:48Z",
+      "last_success": "2026-11-06T19:59:54Z",
       "last_count": 39
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-06T19:08:48Z",
-      "last_count": 1
+      "last_success": "2026-11-06T19:59:54Z",
+      "last_count": 0
     }
   },
   "next_id": 42
