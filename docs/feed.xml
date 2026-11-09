@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 09 Nov 2026 08:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>UK Government Warning: Critical Infrastructure Organizations Must Be Fully Ready for AI-Powered Malware by 2028</title>
+      <link>https://www.cpomagazine.com/cyber-security/uk-government-warning-critical-infrastructure-organizations-must-be-fully-ready-for-ai-powered-malware-by-2028/</link>
+      <guid isPermaLink="true">https://www.cpomagazine.com/cyber-security/uk-government-warning-critical-infrastructure-organizations-must-be-fully-ready-for-ai-powered-malware-by-2028/</guid>
+      <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>UK government warns critical infrastructure operators must be prepared for AI-powered malware by 2028, signaling expectations for defensive readiness across essential services. (Source: CPO Magazine)</description>
+    </item>
     <item>
       <title>CISA, NSA, Australian cyber agencies urge early vendor readiness for PQC transition across critical systems</title>
       <link>https://industrialcyber.co/cisa/cisa-nsa-australian-cyber-agencies-urge-early-vendor-readiness-for-pqc-transition-across-critical-systems/</link>
