@@ -1,5 +1,21 @@
 [
   {
+    "id": "S42",
+    "url": "https://industrialcyber.co/cisa/cisa-nsa-australian-cyber-agencies-urge-early-vendor-readiness-for-pqc-transition-across-critical-systems/",
+    "published": "2026-11-09T08:39:02Z",
+    "category": "Policy",
+    "source": "Industrial Cyber",
+    "sector": "Cross-sector",
+    "title": "CISA, NSA, Australian cyber agencies urge early vendor readiness for PQC transition across critical systems",
+    "summary": "CISA, NSA and Australian agencies urge vendors to prepare now for post-quantum cryptography migration in critical systems, including industrial products.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "feed:industrial-cyber",
+    "added_at": "2026-11-09T09:26:13Z"
+  },
+  {
     "id": "S41",
     "url": "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
     "published": "2026-11-06T09:46:44Z",

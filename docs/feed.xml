@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Nov 2026 09:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:39:02 +0000</lastBuildDate>
+    <item>
+      <title>CISA, NSA, Australian cyber agencies urge early vendor readiness for PQC transition across critical systems</title>
+      <link>https://industrialcyber.co/cisa/cisa-nsa-australian-cyber-agencies-urge-early-vendor-readiness-for-pqc-transition-across-critical-systems/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/cisa/cisa-nsa-australian-cyber-agencies-urge-early-vendor-readiness-for-pqc-transition-across-critical-systems/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:39:02 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA, NSA and Australian agencies urge vendors to prepare now for post-quantum cryptography migration in critical systems, including industrial products. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe</title>
       <link>https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html</link>
