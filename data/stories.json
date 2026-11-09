@@ -16,6 +16,22 @@
     "added_at": "2026-11-09T09:26:13Z"
   },
   {
+    "id": "S43",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8061866/index.amp",
+    "published": "2026-11-09T00:15:00Z",
+    "category": "Incidents",
+    "source": "Українська правда",
+    "sector": "Electric",
+    "title": "Zaporizhzhia Nuclear Power Plant restores external power supply after blackout",
+    "summary": "Ukraine's Zaporizhzhia Nuclear Power Plant restored its external power supply after a blackout, a recurring disruption that affects reactor safety systems.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:energy",
+    "added_at": "2026-11-09T11:11:17Z"
+  },
+  {
     "id": "S41",
     "url": "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
     "published": "2026-11-06T09:46:44Z",

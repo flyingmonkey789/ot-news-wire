@@ -6773,32 +6773,92 @@
     "t:30333d66e80cdefb": "2026-11-09T09:26:13Z",
     "u:5cc0936c5dc3d9c3": "2026-11-09T09:26:13Z",
     "u:4bf2063b12451f55": "2026-11-09T09:26:13Z",
-    "t:090623e5d6beb99d": "2026-11-09T09:26:13Z"
+    "t:090623e5d6beb99d": "2026-11-09T09:26:13Z",
+    "u:45f4fc94f787e905": "2026-11-09T11:11:17Z",
+    "t:15aaa5604ecdc174": "2026-11-09T11:11:17Z",
+    "t:39fc68445feec891": "2026-11-09T11:11:17Z",
+    "u:8b34425e01114e8d": "2026-11-09T11:11:17Z",
+    "u:277209ba61efe292": "2026-11-09T11:11:17Z",
+    "t:bd15146808ac71ba": "2026-11-09T11:11:17Z",
+    "t:5f6077b691dc6070": "2026-11-09T11:11:17Z",
+    "u:6dbef6fa3cdb1f50": "2026-11-09T11:11:17Z",
+    "u:de5097eb5ffdc47e": "2026-11-09T11:11:17Z",
+    "t:9a8254fe675f0c26": "2026-11-09T11:11:17Z",
+    "u:9954e7dc8d5957cd": "2026-11-09T11:11:17Z",
+    "t:e4cf87b4c51c2c26": "2026-11-09T11:11:17Z",
+    "u:0c5e9dc14c2d94c8": "2026-11-09T11:11:17Z",
+    "t:6b02cafbe28c7896": "2026-11-09T11:11:17Z",
+    "t:25f3ad2238a1e7f8": "2026-11-09T11:11:17Z",
+    "u:62af4291e17cf20f": "2026-11-09T11:11:17Z",
+    "u:e8082cc54dfbdb4b": "2026-11-09T11:11:17Z",
+    "t:79d79998b4dc0bdc": "2026-11-09T11:11:17Z",
+    "u:d21d339d6b129217": "2026-11-09T11:11:17Z",
+    "t:d5255ad534e2e407": "2026-11-09T11:11:17Z",
+    "t:dc710e9f5606da52": "2026-11-09T11:11:17Z",
+    "u:063ab0ebbaee5f14": "2026-11-09T11:11:17Z",
+    "t:d73c8472d7d7ac19": "2026-11-09T11:11:17Z",
+    "u:7d873a27f72e8700": "2026-11-09T11:11:17Z",
+    "t:5f2c3ae9f88e8c03": "2026-11-09T11:11:17Z",
+    "u:d3a1cf5ee458ed54": "2026-11-09T11:11:17Z",
+    "t:233ea2956e5e8806": "2026-11-09T11:11:17Z",
+    "u:0fed63af6785aea4": "2026-11-09T11:11:17Z",
+    "u:a0041ac702571d46": "2026-11-09T11:11:17Z",
+    "t:7a2cebe3ed7eafab": "2026-11-09T11:11:17Z",
+    "u:8cc2d885178d64fd": "2026-11-09T11:11:17Z",
+    "t:6ee2e6f15901f4dd": "2026-11-09T11:11:17Z",
+    "t:bdbf33cdd2d81dc2": "2026-11-09T11:11:17Z",
+    "u:623f86126dfaeff5": "2026-11-09T11:11:17Z",
+    "u:616257f57f20e6a1": "2026-11-09T11:11:17Z",
+    "t:b0527846e3eba3b4": "2026-11-09T11:11:17Z",
+    "u:f08512f7927f75eb": "2026-11-09T11:11:17Z",
+    "t:93e3883f61cd154d": "2026-11-09T11:11:17Z",
+    "t:f28e4ee2ea4c8712": "2026-11-09T11:11:17Z",
+    "u:cd2d198d75d5478e": "2026-11-09T11:11:17Z",
+    "t:e937c2064fdcb249": "2026-11-09T11:11:17Z",
+    "u:7212e4fddf524db6": "2026-11-09T11:11:17Z",
+    "t:3e318feb86a6c313": "2026-11-09T11:11:17Z",
+    "u:6d74df88f16acf50": "2026-11-09T11:11:17Z",
+    "t:0d797cd9cffa0f13": "2026-11-09T11:11:17Z",
+    "u:7ee1edc51afba1c9": "2026-11-09T11:11:17Z",
+    "u:0d33f3f3a2fd4641": "2026-11-09T11:11:17Z",
+    "t:a74d66d0831c1db9": "2026-11-09T11:11:17Z",
+    "u:1c1555102de6aefa": "2026-11-09T11:11:17Z",
+    "t:32914054a93c71c9": "2026-11-09T11:11:17Z",
+    "u:07ee631c70c7992e": "2026-11-09T11:11:17Z",
+    "t:d84ba3f5b3ab491f": "2026-11-09T11:11:17Z",
+    "u:fb5469beda3815a7": "2026-11-09T11:11:17Z",
+    "t:8c7e20a279015d47": "2026-11-09T11:11:17Z",
+    "u:c9759423ebdcee6a": "2026-11-09T11:11:17Z",
+    "t:00f56d0fcfbb39b3": "2026-11-09T11:11:17Z",
+    "u:97460dae0e7ac835": "2026-11-09T11:11:17Z",
+    "t:c982b083cf529ccc": "2026-11-09T11:11:17Z"
   },
-  "gnews_cache": {},
+  "gnews_cache": {
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sMUNTV0NKQVdyOU9nYm1YVGIwNlUxLXB0OHlIWXA3d1F4RTN4TTJQYmoxRUpTSWUzWlB1N1RtcU55bzNUX2I2VmNMNExlT2I3LTBLMTFMMHNWWTVJejhZcURHQTYyU2xVaFpmbzZCZkrSAXBBVV95cUxNbDFDU1dDSkFXcjlPZ2JtWFRiMDZVMS1wdDh5SFlwN3dReEUzeE0yUGJqMUVKU0llM1pQdTdUbXFOeW8zVF9iNlZjTDRMZU9iNy0wSzExTDBzVlk1SXo4WXFER0E2MlNsVWhaZm82QmZK?oc=5": "https://www.pravda.com.ua/eng/news/2026/11/09/8061866/index.amp"
+  },
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -6812,205 +6872,165 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 474
     },
     "feed:waterfall": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-09T09:26:13Z",
+      "last_success": "2026-11-09T11:11:17Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 3,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22OT+security%22+OR+%22OT+cybersecurity%22+OR+%22ICS+security%22+OR+%22industrial+cybersecurity%22+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 4
     },
     "query:operational-technology": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 8,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22operational+technology%22+%28cyberattack+OR+attack+OR+ransomware+OR+breach+OR+vulnerability+OR+malware+OR+hackers%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 8
     },
     "query:ics-scada": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 2,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28SCADA+OR+%22industrial+control+system%22+OR+%22industrial+control+systems%22%29+%28attack+OR+hack+OR+hackers+OR+vulnerability+OR+malware+OR+exploited%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 4
     },
     "query:plc": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 0,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28PLC+OR+PLCs%29+%28Siemens+OR+Rockwell+OR+%22Schneider+Electric%22+OR+Unitronics+OR+Mitsubishi+OR+CODESYS%29+%28vulnerability+OR+attack+OR+malware+OR+hackers%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 0,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22cyber-physical%22+%28security+OR+attack+OR+vulnerability%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 2
     },
     "query:water": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 0,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22water+utility%22+OR+%22water+treatment%22+OR+wastewater+OR+%22water+system%22%29+%28cyberattack+OR+hack+OR+hackers+OR+ransomware%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 2
     },
     "query:energy": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 2,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22power+grid%22+OR+%22electric+utility%22+OR+substation+OR+%22power+plant%22+OR+%22energy+company%22%29+%28cyberattack+OR+hackers+OR+ransomware+OR+malware%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 2
     },
     "query:oil-gas": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 4,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28pipeline+OR+refinery+OR+%22oil+and+gas%22+OR+LNG%29+%28cyberattack+OR+hackers+OR+ransomware%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 1
     },
     "query:manufacturing": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 0,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28manufacturer+OR+factory+OR+plant%29+%28cyberattack+OR+ransomware%29+%28production+OR+operations+OR+halted+OR+shutdown%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 1
     },
     "query:transport": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 4,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28railway+OR+rail+OR+port+OR+maritime+OR+shipping+OR+airport%29+cyberattack+%28operations+OR+systems+OR+disrupted%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 6
     },
     "query:threat-actors": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 2,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Volt+Typhoon%22+OR+Sandworm+OR+CyberAv3ngers+OR+Xenotime+OR+Chernovite+OR+Voltzite+OR+%22Salt+Typhoon%22+OR+FrostyGoop+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 5
     },
     "query:ot-malware": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 1,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28ICS+OR+OT+OR+SCADA%29+malware+%28new+OR+discovered+OR+targeting%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 1
     },
     "query:ci-policy": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 8,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22critical+infrastructure%22+cybersecurity+%28regulation+OR+rule+OR+directive+OR+law+OR+bill+OR+mandate+OR+guidance%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 10
     },
     "query:frameworks": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 4,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22NERC+CIP%22+OR+%22IEC+62443%22+OR+NIS2+OR+%22Cyber+Resilience+Act%22+OR+%22TSA+security+directive%22+OR+CIRCIA+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 5
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 50,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Dragos+OR+Claroty+OR+%22Nozomi+Networks%22+OR+TXOne+OR+Forescout+OR+Armis+OR+%22Industrial+Defender%22+OR+%22Waterfall+Security%22+OR+Shift5+OR+Frenos%29+%28acquires+OR+acquisition+OR+funding+OR+raises+",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 50
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 2,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22OT+security%22+OR+%22industrial+cybersecurity%22+OR+%22operational+technology+security%22%29+%28acquisition+OR+funding+OR+%22Series%22+OR+launch%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 2
     },
     "query:ot-research": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 2,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Team82+OR+%22Vedere+Labs%22+OR+%22Nozomi+Networks+Labs%22+OR+%22Dragos%22+OR+%22Kaspersky+ICS+CERT%22%29+%28research+OR+report+OR+vulnerabilities+OR+discovered%29+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 2
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 1,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adragos.com+OR+site%3Aclaroty.com+OR+site%3Anozominetworks.com+OR+site%3Atxone.com+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 1
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 39,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%22OT+security%22+OR+%22ICS+security%22+OR+%22industrial+cybersecurity%22+OR+%22operational+technology%22+OR+%22cyber-physical%22+OR+%22OT+network%22%29+%28launches+OR+unveils+OR+introduces+OR+%22now+av",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 39
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-09T07:42:48Z",
-      "last_count": 1,
-      "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Siemens+OR+Rockwell+OR+%22Schneider+Electric%22+OR+Mitsubishi+OR+Honeywell+OR+ABB+OR+Emerson+OR+Yokogawa%29+%28cybersecurity+OR+%22OT+security%22%29+%28partnership+OR+launches+OR+integrates+OR+acquires%",
-      "failing_since": "2026-11-09T09:26:13Z"
+      "last_success": "2026-11-09T11:11:17Z",
+      "last_count": 1
     }
   },
-  "next_id": 43
+  "next_id": 44
 }
