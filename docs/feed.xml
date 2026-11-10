@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 09 Nov 2026 18:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:37:24 +0000</lastBuildDate>
+    <item>
+      <title>CISA’s Installed Base Program to help OEMs identify and secure internet-exposed OT assets across critical infrastructure</title>
+      <link>https://industrialcyber.co/cisa/cisas-installed-base-program-to-help-oems-identify-and-secure-internet-exposed-ot-assets-across-critical-infrastructure/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/cisa/cisas-installed-base-program-to-help-oems-identify-and-secure-internet-exposed-ot-assets-across-critical-infrastructure/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:37:24 +0000</pubDate>
+      <category>Technology</category>
+      <description>CISA launched an Installed Base Program to help OT equipment manufacturers identify and secure internet-exposed OT assets across critical infrastructure. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Nozomi Vantage for Government secures FedRAMP Moderate certification for federal OT and IoT monitoring</title>
+      <link>https://industrialcyber.co/news/nozomi-vantage-for-government-secures-fedramp-moderate-certification-for-federal-ot-and-iot-monitoring/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/nozomi-vantage-for-government-secures-fedramp-moderate-certification-for-federal-ot-and-iot-monitoring/</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:16 +0000</pubDate>
+      <category>Technology</category>
+      <description>Nozomi Networks' Vantage for Government obtained FedRAMP Moderate certification, enabling federal agencies to use its OT and IoT monitoring platform. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>France blames Iran for fridge cyberattacks, says some caused fires</title>
       <link>https://therecord.media/france-blames-iran-for-fridge-cyberattacks</link>
