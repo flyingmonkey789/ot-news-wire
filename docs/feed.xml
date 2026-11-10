@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 06:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CISA Expands Incident Reporting Form While CIRCIA Mandate Waits</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</link>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA has expanded its incident reporting form while the CIRCIA mandatory reporting rule remains pending, leaving operators without a final federal reporting obligation. (Source: Infosecurity Magazine)</description>
+    </item>
     <item>
       <title>CISA’s Installed Base Program to help OEMs identify and secure internet-exposed OT assets across critical infrastructure</title>
       <link>https://industrialcyber.co/cisa/cisas-installed-base-program-to-help-oems-identify-and-secure-internet-exposed-ot-assets-across-critical-infrastructure/</link>
