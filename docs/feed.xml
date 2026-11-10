@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:33:43 +0000</lastBuildDate>
+    <item>
+      <title>FBI warns of increased ‘operational technology’ hacking threat</title>
+      <link>https://www.kiro7.com/news/fbi-warns-increased-operational-technology-hacking-threat/HQFYFXWNKNDPVB2HJISTA4AI3M/</link>
+      <guid isPermaLink="true">https://www.kiro7.com/news/fbi-warns-increased-operational-technology-hacking-threat/HQFYFXWNKNDPVB2HJISTA4AI3M/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:33:43 +0000</pubDate>
+      <category>Advisory</category>
+      <description>The FBI warns that operational technology systems face an increased hacking threat, urging critical infrastructure operators to strengthen OT defenses. (Source: KIRO 7 News Seattle)</description>
+    </item>
     <item>
       <title>CISA Expands Incident Reporting Form While CIRCIA Mandate Waits</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</link>

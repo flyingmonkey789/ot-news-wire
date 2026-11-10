@@ -1,5 +1,21 @@
 [
   {
+    "id": "S52",
+    "url": "https://www.kiro7.com/news/fbi-warns-increased-operational-technology-hacking-threat/HQFYFXWNKNDPVB2HJISTA4AI3M/",
+    "published": "2026-11-10T17:33:43Z",
+    "category": "Advisory",
+    "source": "KIRO 7 News Seattle",
+    "sector": "Cross-sector",
+    "title": "FBI warns of increased ‘operational technology’ hacking threat",
+    "summary": "The FBI warns that operational technology systems face an increased hacking threat, urging critical infrastructure operators to strengthen OT defenses.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:operational-technology",
+    "added_at": "2026-11-10T17:57:42Z"
+  },
+  {
     "id": "S51",
     "url": "https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/",
     "published": "2026-11-10T17:00:00Z",
