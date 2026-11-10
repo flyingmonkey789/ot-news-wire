@@ -32,6 +32,22 @@
     "added_at": "2026-11-10T07:27:37Z"
   },
   {
+    "id": "S50",
+    "url": "https://borneobulletin.com.bn/thailand-tightens-cyber-defences-for-banks-critical-infrastructure/",
+    "published": "2026-11-09T21:02:34Z",
+    "category": "Policy",
+    "source": "Borneo Bulletin",
+    "sector": "Cross-sector",
+    "title": "Thailand tightens cyber defences for banks, critical infrastructure",
+    "summary": "Thailand is tightening cyber defence requirements for banks and critical infrastructure operators, a national-level policy move affecting CI security posture.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:ci-policy",
+    "added_at": "2026-11-10T09:05:51Z"
+  },
+  {
     "id": "S46",
     "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
     "published": "2026-11-09T18:45:00Z",
