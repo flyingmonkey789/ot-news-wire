@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 13:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:22:00 +0000</lastBuildDate>
+    <item>
+      <title>SimSpace launches EWI Radar to test OT cyber defences</title>
+      <link>https://securitybrief.co.nz/story/simspace-launches-ewi-radar-to-test-ot-cyber-defences</link>
+      <guid isPermaLink="true">https://securitybrief.co.nz/story/simspace-launches-ewi-radar-to-test-ot-cyber-defences</guid>
+      <pubDate>Wed, 11 Nov 2026 16:22:00 +0000</pubDate>
+      <category>Technology</category>
+      <description>SimSpace has launched EWI Radar, a product for testing operational technology cyber defenses, giving OT defenders a new way to validate detection and response in industrial environments. (Source: SecurityBrief New Zealand)</description>
+    </item>
     <item>
       <title>NCSC Launches CyAS Scheme to Test Critical Infrastructure Cyber Defenses</title>
       <link>https://homeland411.com/ncsc-launches-cyas-scheme-critical-infrastructure-cyber-defenses/</link>

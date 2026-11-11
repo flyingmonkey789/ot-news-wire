@@ -1,5 +1,21 @@
 [
   {
+    "id": "S55",
+    "url": "https://securitybrief.co.nz/story/simspace-launches-ewi-radar-to-test-ot-cyber-defences",
+    "published": "2026-11-11T16:22:00Z",
+    "category": "Technology",
+    "source": "SecurityBrief New Zealand",
+    "sector": "Cross-sector",
+    "title": "SimSpace launches EWI Radar to test OT cyber defences",
+    "summary": "SimSpace has launched EWI Radar, a product for testing operational technology cyber defenses, giving OT defenders a new way to validate detection and response in industrial environments.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": "simspace",
+    "origin": "query:operational-technology",
+    "added_at": "2026-11-11T20:14:59Z"
+  },
+  {
     "id": "S54",
     "url": "https://homeland411.com/ncsc-launches-cyas-scheme-critical-infrastructure-cyber-defenses/",
     "published": "2026-11-11T13:54:03Z",
