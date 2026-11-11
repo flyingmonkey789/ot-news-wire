@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 11:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:54:03 +0000</lastBuildDate>
+    <item>
+      <title>NCSC Launches CyAS Scheme to Test Critical Infrastructure Cyber Defenses</title>
+      <link>https://homeland411.com/ncsc-launches-cyas-scheme-critical-infrastructure-cyber-defenses/</link>
+      <guid isPermaLink="true">https://homeland411.com/ncsc-launches-cyas-scheme-critical-infrastructure-cyber-defenses/</guid>
+      <pubDate>Wed, 11 Nov 2026 13:54:03 +0000</pubDate>
+      <category>Policy</category>
+      <description>The UK NCSC has launched a CyAS scheme to test the cyber defences of critical infrastructure organisations, giving operators a new assessment route. (Source: homeland411.com)</description>
+    </item>
     <item>
       <title>Cyberattack on Latin America’s largest port exposes risks to critical infrastructure</title>
       <link>https://www.bnamericas.com/en/news/cyberattack-on-latin-americas-largest-port-exposes-risks-to-critical-infrastructure</link>

@@ -1,5 +1,21 @@
 [
   {
+    "id": "S54",
+    "url": "https://homeland411.com/ncsc-launches-cyas-scheme-critical-infrastructure-cyber-defenses/",
+    "published": "2026-11-11T13:54:03Z",
+    "category": "Policy",
+    "source": "homeland411.com",
+    "sector": "Government",
+    "title": "NCSC Launches CyAS Scheme to Test Critical Infrastructure Cyber Defenses",
+    "summary": "The UK NCSC has launched a CyAS scheme to test the cyber defences of critical infrastructure organisations, giving operators a new assessment route.",
+    "score": 7,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "query:ci-policy",
+    "added_at": "2026-11-11T15:05:44Z"
+  },
+  {
     "id": "S53",
     "url": "https://www.bnamericas.com/en/news/cyberattack-on-latin-americas-largest-port-exposes-risks-to-critical-infrastructure",
     "published": "2026-11-11T11:10:06Z",
