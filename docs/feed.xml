@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 17:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:10:06 +0000</lastBuildDate>
+    <item>
+      <title>Cyberattack on Latin America’s largest port exposes risks to critical infrastructure</title>
+      <link>https://www.bnamericas.com/en/news/cyberattack-on-latin-americas-largest-port-exposes-risks-to-critical-infrastructure</link>
+      <guid isPermaLink="true">https://www.bnamericas.com/en/news/cyberattack-on-latin-americas-largest-port-exposes-risks-to-critical-infrastructure</guid>
+      <pubDate>Wed, 11 Nov 2026 11:10:06 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A cyberattack on Latin America's largest port has raised concerns about the exposure of critical infrastructure operations to disruption. Details on operational impact are limited in the headline. (Source: BNamericas)</description>
+    </item>
     <item>
       <title>FBI warns of increased ‘operational technology’ hacking threat</title>
       <link>https://www.kiro7.com/news/fbi-warns-increased-operational-technology-hacking-threat/HQFYFXWNKNDPVB2HJISTA4AI3M/</link>
