@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 10:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:00:29 +0000</lastBuildDate>
+    <item>
+      <title>Attackers breached 10 organizations with an open-source AI pentest framework</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:29 +0000</pubDate>
+      <category>Research</category>
+      <description>Unit 42 reports Chinese-speaking attackers used the open-source AI pentest framework Cairn to breach at least 10 organizations, several in semiconductor and defense supply chains. (Source: Help Net Security)</description>
+    </item>
+    <item>
+      <title>Mitsubishi Electric and Nozomi Networks team up to deliver cybersecurity solutions to OT and IoT environments</title>
+      <link>https://www.controlengeurope.com/article/225053/Mitsubishi-Electric-and-Nozomi-Networks-team-up-to-deliver-cybersecurity-solutions-to-OT-and-IoT-environments.aspx</link>
+      <guid isPermaLink="true">https://www.controlengeurope.com/article/225053/Mitsubishi-Electric-and-Nozomi-Networks-team-up-to-deliver-cybersecurity-solutions-to-OT-and-IoT-environments.aspx</guid>
+      <pubDate>Thu, 12 Nov 2026 14:21:43 +0000</pubDate>
+      <category>Technology</category>
+      <description>Mitsubishi Electric and Nozomi Networks announced a partnership to deliver combined cybersecurity solutions for OT and IoT environments. (Source: Control Engineering Europe)</description>
+    </item>
     <item>
       <title>Cloud Range OT Cyber Readiness Assessment targets IT-OT coordination, incident response gaps in industrial operations</title>
       <link>https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/</link>

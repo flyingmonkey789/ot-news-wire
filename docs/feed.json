@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
+    "published": "2026-11-12T15:00:29Z",
+    "category": "Research",
+    "source": "Help Net Security",
+    "sector": "Cross-sector",
+    "title": "Attackers breached 10 organizations with an open-source AI pentest framework",
+    "summary": "Unit 42 reports Chinese-speaking attackers used the open-source AI pentest framework Cairn to breach at least 10 organizations, several in semiconductor and defense supply chains."
+  },
+  {
+    "url": "https://www.controlengeurope.com/article/225053/Mitsubishi-Electric-and-Nozomi-Networks-team-up-to-deliver-cybersecurity-solutions-to-OT-and-IoT-environments.aspx",
+    "published": "2026-11-12T14:21:43Z",
+    "category": "Technology",
+    "source": "Control Engineering Europe",
+    "sector": "Cross-sector",
+    "title": "Mitsubishi Electric and Nozomi Networks team up to deliver cybersecurity solutions to OT and IoT environments",
+    "summary": "Mitsubishi Electric and Nozomi Networks announced a partnership to deliver combined cybersecurity solutions for OT and IoT environments."
+  },
+  {
     "url": "https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/",
     "published": "2026-11-12T10:02:57Z",
     "category": "Technology",
