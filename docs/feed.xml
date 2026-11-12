@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 11 Nov 2026 16:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:30:13 +0000</lastBuildDate>
+    <item>
+      <title>CISOs say OT will survive a cyberattack, but their engineers aren’t so sure</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/</guid>
+      <pubDate>Thu, 12 Nov 2026 05:30:13 +0000</pubDate>
+      <category>Research</category>
+      <description>SANS 2026 ICS/OT survey of 696 practitioners finds CISOs far more confident than engineers that plants would keep running through an IT compromise, with only 15% confident critical processes would hold. (Source: Help Net Security)</description>
+    </item>
     <item>
       <title>SimSpace launches EWI Radar to test OT cyber defences</title>
       <link>https://securitybrief.co.nz/story/simspace-launches-ewi-radar-to-test-ot-cyber-defences</link>

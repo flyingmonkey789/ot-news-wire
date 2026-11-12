@@ -1,5 +1,21 @@
 [
   {
+    "id": "S56",
+    "url": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
+    "published": "2026-11-12T05:30:13Z",
+    "category": "Research",
+    "source": "Help Net Security",
+    "sector": "Cross-sector",
+    "title": "CISOs say OT will survive a cyberattack, but their engineers aren’t so sure",
+    "summary": "SANS 2026 ICS/OT survey of 696 practitioners finds CISOs far more confident than engineers that plants would keep running through an IT compromise, with only 15% confident critical processes would hold.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:helpnetsecurity",
+    "added_at": "2026-11-12T06:21:17Z"
+  },
+  {
     "id": "S55",
     "url": "https://securitybrief.co.nz/story/simspace-launches-ewi-radar-to-test-ot-cyber-defences",
     "published": "2026-11-11T16:22:00Z",
