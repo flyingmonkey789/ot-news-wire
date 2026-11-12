@@ -6,7 +6,31 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 07:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:02:57 +0000</lastBuildDate>
+    <item>
+      <title>Cloud Range OT Cyber Readiness Assessment targets IT-OT coordination, incident response gaps in industrial operations</title>
+      <link>https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:02:57 +0000</pubDate>
+      <category>Technology</category>
+      <description>Cloud Range released a free 28-question assessment to help industrial organizations find gaps in IT-OT coordination and incident response. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Cyberattack shuts down three Swedish furniture factories</title>
+      <link>https://www.interiordaily.com/article/9892116/cyberattack-shuts-down-three-swedish-furniture-factories/</link>
+      <guid isPermaLink="true">https://www.interiordaily.com/article/9892116/cyberattack-shuts-down-three-swedish-furniture-factories/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:02:37 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A cyberattack forced three Swedish furniture factories to shut down, disrupting production operations. (Source: InteriorDaily)</description>
+    </item>
+    <item>
+      <title>Hackers plant GSocket on Linux servers for persistent access</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</link>
+      <guid isPermaLink="true">https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:38:00 +0000</pubDate>
+      <category>Research</category>
+      <description>Multiple threat actors are abusing the legitimate open-source GSocket tool to keep persistent access to Linux servers after the initial vulnerabilities are patched. (Source: BleepingComputer)</description>
+    </item>
     <item>
       <title>Cisco Cyber Vision 5.6 Moves OT Security from Visibility Toward Segmentation</title>
       <link>https://www.arcweb.com/blog/cisco-cyber-vision-56-moves-ot-security-visibility-toward-segmentation</link>
