@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
+    "published": "2026-11-12T15:30:18Z",
+    "category": "Research",
+    "source": "Cybersecurity Dive",
+    "sector": "Cross-sector",
+    "title": "AI found widespread IoT vulnerabilities more quickly and cheaply than humans could",
+    "summary": "Reported research found AI tools discovered widespread IoT vulnerabilities faster and cheaper than human researchers, highlighting weaknesses in critical infrastructure devices."
+  },
+  {
     "url": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
     "published": "2026-11-12T15:00:29Z",
     "category": "Research",
@@ -16,6 +25,15 @@
     "sector": "Cross-sector",
     "title": "Mitsubishi Electric and Nozomi Networks team up to deliver cybersecurity solutions to OT and IoT environments",
     "summary": "Mitsubishi Electric and Nozomi Networks announced a partnership to deliver combined cybersecurity solutions for OT and IoT environments."
+  },
+  {
+    "url": "https://informationsecuritybuzz.com/industrial-cyber-incidents-surge-sans/",
+    "published": "2026-11-12T11:59:20Z",
+    "category": "Research",
+    "source": "Information Security Buzz",
+    "sector": "Cross-sector",
+    "title": "Industrial cyber incidents surge as SANS survey exposes serious recovery gaps",
+    "summary": "A SANS survey reports rising industrial cyber incidents and significant gaps in recovery readiness among industrial organizations."
   },
   {
     "url": "https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/",

@@ -1,5 +1,21 @@
 [
   {
+    "id": "S63",
+    "url": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
+    "published": "2026-11-12T15:30:18Z",
+    "category": "Research",
+    "source": "Cybersecurity Dive",
+    "sector": "Cross-sector",
+    "title": "AI found widespread IoT vulnerabilities more quickly and cheaply than humans could",
+    "summary": "Reported research found AI tools discovered widespread IoT vulnerabilities faster and cheaper than human researchers, highlighting weaknesses in critical infrastructure devices.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:cybersecurity-dive",
+    "added_at": "2026-11-12T16:17:57Z"
+  },
+  {
     "id": "S61",
     "url": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
     "published": "2026-11-12T15:00:29Z",
@@ -30,6 +46,22 @@
     "vendor_key": "nozomi networks",
     "origin": "query:automation-vendor-security",
     "added_at": "2026-11-12T15:09:59Z"
+  },
+  {
+    "id": "S64",
+    "url": "https://informationsecuritybuzz.com/industrial-cyber-incidents-surge-sans/",
+    "published": "2026-11-12T11:59:20Z",
+    "category": "Research",
+    "source": "Information Security Buzz",
+    "sector": "Cross-sector",
+    "title": "Industrial cyber incidents surge as SANS survey exposes serious recovery gaps",
+    "summary": "A SANS survey reports rising industrial cyber incidents and significant gaps in recovery readiness among industrial organizations.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:ot-security",
+    "added_at": "2026-11-12T16:17:57Z"
   },
   {
     "id": "S58",

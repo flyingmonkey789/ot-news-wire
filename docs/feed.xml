@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:30:18 +0000</lastBuildDate>
+    <item>
+      <title>AI found widespread IoT vulnerabilities more quickly and cheaply than humans could</title>
+      <link>https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/</link>
+      <guid isPermaLink="true">https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/</guid>
+      <pubDate>Thu, 12 Nov 2026 15:30:18 +0000</pubDate>
+      <category>Research</category>
+      <description>Reported research found AI tools discovered widespread IoT vulnerabilities faster and cheaper than human researchers, highlighting weaknesses in critical infrastructure devices. (Source: Cybersecurity Dive)</description>
+    </item>
     <item>
       <title>Attackers breached 10 organizations with an open-source AI pentest framework</title>
       <link>https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/</link>
@@ -22,6 +30,14 @@
       <pubDate>Thu, 12 Nov 2026 14:21:43 +0000</pubDate>
       <category>Technology</category>
       <description>Mitsubishi Electric and Nozomi Networks announced a partnership to deliver combined cybersecurity solutions for OT and IoT environments. (Source: Control Engineering Europe)</description>
+    </item>
+    <item>
+      <title>Industrial cyber incidents surge as SANS survey exposes serious recovery gaps</title>
+      <link>https://informationsecuritybuzz.com/industrial-cyber-incidents-surge-sans/</link>
+      <guid isPermaLink="true">https://informationsecuritybuzz.com/industrial-cyber-incidents-surge-sans/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:59:20 +0000</pubDate>
+      <category>Research</category>
+      <description>A SANS survey reports rising industrial cyber incidents and significant gaps in recovery readiness among industrial organizations. (Source: Information Security Buzz)</description>
     </item>
     <item>
       <title>Cloud Range OT Cyber Readiness Assessment targets IT-OT coordination, incident response gaps in industrial operations</title>
