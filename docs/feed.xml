@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 05:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:22:24 +0000</lastBuildDate>
+    <item>
+      <title>Cisco Cyber Vision 5.6 Moves OT Security from Visibility Toward Segmentation</title>
+      <link>https://www.arcweb.com/blog/cisco-cyber-vision-56-moves-ot-security-visibility-toward-segmentation</link>
+      <guid isPermaLink="true">https://www.arcweb.com/blog/cisco-cyber-vision-56-moves-ot-security-visibility-toward-segmentation</guid>
+      <pubDate>Thu, 12 Nov 2026 07:22:24 +0000</pubDate>
+      <category>Technology</category>
+      <description>Cisco's Cyber Vision 5.6 release adds segmentation capabilities to its OT asset visibility platform, extending it toward enforcement rather than monitoring alone. (Source: ARC Advisory Group)</description>
+    </item>
     <item>
       <title>CISOs say OT will survive a cyberattack, but their engineers aren’t so sure</title>
       <link>https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/</link>

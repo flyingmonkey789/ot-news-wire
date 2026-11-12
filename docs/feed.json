@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://www.arcweb.com/blog/cisco-cyber-vision-56-moves-ot-security-visibility-toward-segmentation",
+    "published": "2026-11-12T07:22:24Z",
+    "category": "Technology",
+    "source": "ARC Advisory Group",
+    "sector": "Cross-sector",
+    "title": "Cisco Cyber Vision 5.6 Moves OT Security from Visibility Toward Segmentation",
+    "summary": "Cisco's Cyber Vision 5.6 release adds segmentation capabilities to its OT asset visibility platform, extending it toward enforcement rather than monitoring alone."
+  },
+  {
     "url": "https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
     "published": "2026-11-12T05:30:13Z",
     "category": "Research",
