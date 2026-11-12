@@ -27,6 +27,15 @@
     "summary": "Mitsubishi Electric and Nozomi Networks announced a partnership to deliver combined cybersecurity solutions for OT and IoT environments."
   },
   {
+    "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+    "published": "2026-11-12T12:00:00Z",
+    "category": "Advisory",
+    "source": "CISA",
+    "sector": "Cross-sector",
+    "title": "Siemens RUGGEDCOM APE1808",
+    "summary": "Siemens advisory says RUGGEDCOM APE1808 is affected by a critical Node2Shell flaw (CVE-2026-111497, CVSS 9.8) inherited from the Node.js Brotli decoder, with mitigations pending."
+  },
+  {
     "url": "https://informationsecuritybuzz.com/industrial-cyber-incidents-surge-sans/",
     "published": "2026-11-12T11:59:20Z",
     "category": "Research",
