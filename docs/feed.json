@@ -18,6 +18,15 @@
     "summary": "SANS 2026 State of ICS/OT Security survey reports 34% of respondents had a cyber incident, with slower detection and more severe operational impacts, highlighting rising OT risk."
   },
   {
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062653/",
+    "published": "2026-11-13T07:19:00Z",
+    "category": "Incidents",
+    "source": "Українська правда",
+    "sector": "Manufacturing",
+    "title": "German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack",
+    "summary": "German drone maker Quantum Systems, which supplies Ukraine, reportedly suffered a cyberattack, with details of operational impact not yet confirmed."
+  },
+  {
     "url": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
     "published": "2026-11-12T15:30:18Z",
     "category": "Research",
@@ -61,6 +70,15 @@
     "sector": "Cross-sector",
     "title": "Industrial cyber incidents surge as SANS survey exposes serious recovery gaps",
     "summary": "A SANS survey reports rising industrial cyber incidents and significant gaps in recovery readiness among industrial organizations."
+  },
+  {
+    "url": "https://logos-pres.md/en/news/cyber-attacks-on-critical-infrastructure-will-be-punished-more-severely/",
+    "published": "2026-11-12T11:35:12Z",
+    "category": "Policy",
+    "source": "logos-pres.md",
+    "sector": "Government",
+    "title": "Moldova Plans Harsher Penalties for Cyberattacks on Critical Infrastructure",
+    "summary": "Moldova plans harsher penalties for cyberattacks on critical infrastructure, a legislative move that could affect operators' compliance obligations."
   },
   {
     "url": "https://industrialcyber.co/ai/cloud-range-ot-cyber-readiness-assessment-targets-it-ot-coordination-incident-response-gaps-in-industrial-operations/",

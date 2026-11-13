@@ -32,6 +32,22 @@
     "added_at": "2026-11-13T07:41:27Z"
   },
   {
+    "id": "S68",
+    "url": "https://www.pravda.com.ua/eng/news/2026/11/13/8062653/",
+    "published": "2026-11-13T07:19:00Z",
+    "category": "Incidents",
+    "source": "Українська правда",
+    "sector": "Manufacturing",
+    "title": "German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack",
+    "summary": "German drone maker Quantum Systems, which supplies Ukraine, reportedly suffered a cyberattack, with details of operational impact not yet confirmed.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "query:manufacturing",
+    "added_at": "2026-11-13T09:13:22Z"
+  },
+  {
     "id": "S63",
     "url": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
     "published": "2026-11-12T15:30:18Z",
@@ -110,6 +126,22 @@
     "vendor_key": null,
     "origin": "query:ot-security",
     "added_at": "2026-11-12T16:17:57Z"
+  },
+  {
+    "id": "S69",
+    "url": "https://logos-pres.md/en/news/cyber-attacks-on-critical-infrastructure-will-be-punished-more-severely/",
+    "published": "2026-11-12T11:35:12Z",
+    "category": "Policy",
+    "source": "logos-pres.md",
+    "sector": "Government",
+    "title": "Moldova Plans Harsher Penalties for Cyberattacks on Critical Infrastructure",
+    "summary": "Moldova plans harsher penalties for cyberattacks on critical infrastructure, a legislative move that could affect operators' compliance obligations.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "query:transport",
+    "added_at": "2026-11-13T09:13:22Z"
   },
   {
     "id": "S58",

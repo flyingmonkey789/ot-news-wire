@@ -24,6 +24,14 @@
       <description>SANS 2026 State of ICS/OT Security survey reports 34% of respondents had a cyber incident, with slower detection and more severe operational impacts, highlighting rising OT risk. (Source: Industrial Cyber)</description>
     </item>
     <item>
+      <title>German drone manufacturer Quantum Systems supplying Ukraine suffers cyberattack</title>
+      <link>https://www.pravda.com.ua/eng/news/2026/11/13/8062653/</link>
+      <guid isPermaLink="true">https://www.pravda.com.ua/eng/news/2026/11/13/8062653/</guid>
+      <pubDate>Fri, 13 Nov 2026 07:19:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>German drone maker Quantum Systems, which supplies Ukraine, reportedly suffered a cyberattack, with details of operational impact not yet confirmed. (Source: Українська правда)</description>
+    </item>
+    <item>
       <title>AI found widespread IoT vulnerabilities more quickly and cheaply than humans could</title>
       <link>https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/</link>
       <guid isPermaLink="true">https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/</guid>
@@ -62,6 +70,14 @@
       <pubDate>Thu, 12 Nov 2026 11:59:20 +0000</pubDate>
       <category>Research</category>
       <description>A SANS survey reports rising industrial cyber incidents and significant gaps in recovery readiness among industrial organizations. (Source: Information Security Buzz)</description>
+    </item>
+    <item>
+      <title>Moldova Plans Harsher Penalties for Cyberattacks on Critical Infrastructure</title>
+      <link>https://logos-pres.md/en/news/cyber-attacks-on-critical-infrastructure-will-be-punished-more-severely/</link>
+      <guid isPermaLink="true">https://logos-pres.md/en/news/cyber-attacks-on-critical-infrastructure-will-be-punished-more-severely/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:35:12 +0000</pubDate>
+      <category>Policy</category>
+      <description>Moldova plans harsher penalties for cyberattacks on critical infrastructure, a legislative move that could affect operators' compliance obligations. (Source: logos-pres.md)</description>
     </item>
     <item>
       <title>Cloud Range OT Cyber Readiness Assessment targets IT-OT coordination, incident response gaps in industrial operations</title>
