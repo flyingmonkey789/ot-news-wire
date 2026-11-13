@@ -1,5 +1,37 @@
 [
   {
+    "id": "S67",
+    "url": "https://albaniandailynews.com/news/albania-proposes-cybersecurity-fines-of-up-to-10-million-lek-for-critical-infrastructure-operators",
+    "published": "2026-11-13T07:27:24Z",
+    "category": "Policy",
+    "source": "Albanian Daily News",
+    "sector": "Government",
+    "title": "Albania Proposes Cybersecurity Fines of Up to 10 Million Lek for Critical Infrastructure Operators",
+    "summary": "Albania has proposed fines of up to 10 million lek for critical infrastructure operators that fail cybersecurity obligations, adding enforcement pressure on operators in the country.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "query:ci-policy",
+    "added_at": "2026-11-13T07:41:27Z"
+  },
+  {
+    "id": "S66",
+    "url": "https://industrialcyber.co/threats-attacks/sans-2026-survey-finds-sharp-rise-in-ics-ot-cyber-incidents-slower-detection-more-severe-operational-impacts/",
+    "published": "2026-11-13T07:25:03Z",
+    "category": "Research",
+    "source": "Industrial Cyber",
+    "sector": "Cross-sector",
+    "title": "SANS 2026 survey finds sharp rise in ICS/OT cyber incidents, slower detection, more severe operational impacts",
+    "summary": "SANS 2026 State of ICS/OT Security survey reports 34% of respondents had a cyber incident, with slower detection and more severe operational impacts, highlighting rising OT risk.",
+    "score": 7,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:industrial-cyber",
+    "added_at": "2026-11-13T07:41:27Z"
+  },
+  {
     "id": "S63",
     "url": "https://www.cybersecuritydive.com/news/ai-vulnerabilities-critical-infrastructure-embedded-software/874499/",
     "published": "2026-11-12T15:30:18Z",
