@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 07:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:36:32 +0000</lastBuildDate>
+    <item>
+      <title>AI tears through legacy TCP/IP stacks, exposing vulnerabilities across critical infrastructure, OT and IoT devices</title>
+      <link>https://industrialcyber.co/reports/ai-tears-through-legacy-tcp-ip-stacks-exposing-vulnerabilities-across-critical-infrastructure-ot-and-iot-devices/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/ai-tears-through-legacy-tcp-ip-stacks-exposing-vulnerabilities-across-critical-infrastructure-ot-and-iot-devices/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:36:32 +0000</pubDate>
+      <category>Research</category>
+      <description>Forescout's Vedere Labs reports AI-assisted analysis sped up examination of legacy TCP/IP stacks, exposing flaws affecting critical infrastructure, OT and IoT devices. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Albania Proposes Cybersecurity Fines of Up to 10 Million Lek for Critical Infrastructure Operators</title>
       <link>https://albaniandailynews.com/news/albania-proposes-cybersecurity-fines-of-up-to-10-million-lek-for-critical-infrastructure-operators</link>
