@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 13 Nov 2026 12:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:53:34 +0000</lastBuildDate>
+    <item>
+      <title>BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
+      <link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</guid>
+      <pubDate>Mon, 16 Nov 2026 06:53:34 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Kaspersky ICS CERT documented a months-long BO Team compromise of a Russian software developer's build and code-signing infrastructure, using Log4Shell in VMware vCenter. (Source: The Hacker News)</description>
+    </item>
     <item>
       <title>AI tears through legacy TCP/IP stacks, exposing vulnerabilities across critical infrastructure, OT and IoT devices</title>
       <link>https://industrialcyber.co/reports/ai-tears-through-legacy-tcp-ip-stacks-exposing-vulnerabilities-across-critical-infrastructure-ot-and-iot-devices/</link>

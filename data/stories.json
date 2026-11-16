@@ -1,5 +1,21 @@
 [
   {
+    "id": "S71",
+    "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "published": "2026-11-16T06:53:34Z",
+    "category": "Incidents",
+    "source": "The Hacker News",
+    "sector": "Manufacturing",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "summary": "Kaspersky ICS CERT documented a months-long BO Team compromise of a Russian software developer's build and code-signing infrastructure, using Log4Shell in VMware vCenter.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:the-hacker-news",
+    "added_at": "2026-11-16T08:01:46Z"
+  },
+  {
     "id": "S70",
     "url": "https://industrialcyber.co/reports/ai-tears-through-legacy-tcp-ip-stacks-exposing-vulnerabilities-across-critical-infrastructure-ot-and-iot-devices/",
     "published": "2026-11-13T12:36:32Z",
