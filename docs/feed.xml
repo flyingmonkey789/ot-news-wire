@@ -6,7 +6,39 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 06:53:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:30:00 +0000</lastBuildDate>
+    <item>
+      <title>France's NIS 2 law: what is locked in before the 17 November vote</title>
+      <link>https://www.actuia.com/en/news/frances-nis-2-law-what-is-locked-in-before-the-17-november-vote/</link>
+      <guid isPermaLink="true">https://www.actuia.com/en/news/frances-nis-2-law-what-is-locked-in-before-the-17-november-vote/</guid>
+      <pubDate>Mon, 16 Nov 2026 13:30:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>France's parliament votes on NIS 2 transposition law on 17 November, setting binding cybersecurity obligations for essential and important entities. (Source: ActuIA)</description>
+    </item>
+    <item>
+      <title>Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</title>
+      <link>https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</link>
+      <guid isPermaLink="true">https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</guid>
+      <pubDate>Mon, 16 Nov 2026 11:05:42 +0000</pubDate>
+      <category>Advisory</category>
+      <description>VulnCheck disclosed 14 flaws in Copeland XWEB EVO refrigeration controllers, with two already targeted by threat actors. (Source: SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Forescout Research Shows How AI Accelerates OT Bug Discovery</title>
+      <link>https://technologymagazine.com/news/forescout-research-shows-how-ai-accelerates-ot-bug-discovery</link>
+      <guid isPermaLink="true">https://technologymagazine.com/news/forescout-research-shows-how-ai-accelerates-ot-bug-discovery</guid>
+      <pubDate>Mon, 16 Nov 2026 10:32:40 +0000</pubDate>
+      <category>Research</category>
+      <description>Forescout research examines how AI tools are accelerating discovery of vulnerabilities in OT products. (Source: Technology Magazine)</description>
+    </item>
+    <item>
+      <title>German Military Grounds Quantum Systems Drones Following Reported Cyberattack</title>
+      <link>https://securityaffairs.com/203085/cyber-crime/german-military-grounds-quantum-systems-drones-following-reported-cyberattack.html</link>
+      <guid isPermaLink="true">https://securityaffairs.com/203085/cyber-crime/german-military-grounds-quantum-systems-drones-following-reported-cyberattack.html</guid>
+      <pubDate>Mon, 16 Nov 2026 09:06:11 +0000</pubDate>
+      <category>Incidents</category>
+      <description>German defense drone maker Quantum Systems confirmed a late-October cyberattack that disrupted operations, with reports pointing to a malicious software update; the German military grounded its drones. (Source: Security Affairs)</description>
+    </item>
     <item>
       <title>BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
       <link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
