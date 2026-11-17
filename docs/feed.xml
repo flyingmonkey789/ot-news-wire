@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 23:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Nozomi Networks Lands Co-Development Project with Lockheed Martin to Strengthen Cybersecurity for Government and Defense Environments</title>
+      <link>https://www.prnewswire.com/news-releases/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defense-environments-302939296.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defense-environments-302939296.html</guid>
+      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+      <category>Technology</category>
+      <description>Nozomi Networks and Lockheed Martin launch a co-development project to strengthen cybersecurity for government and defense operational environments. (Source: PR Newswire)</description>
+    </item>
+    <item>
+      <title>FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom</title>
+      <link>https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/industrial-cyber-attacks/fbi-warns-hackers-weaponizing-artex-ai-framework-to-automate-attacks-on-energy-manufacturing-telecom/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:46:36 +0000</pubDate>
+      <category>Advisory</category>
+      <description>The FBI FLASH advisory warns that attackers are using the open-source ARTEX AI framework to automate attacks on energy, manufacturing and telecom organizations. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Dragos reports 20 Australian industrial ransomware incidents in Q3 2026</title>
       <link>https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/</link>
@@ -32,12 +48,12 @@
       <description>France's parliament votes on NIS 2 transposition law on 17 November, setting binding cybersecurity obligations for essential and important entities. (Source: ActuIA)</description>
     </item>
     <item>
-      <title>Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</title>
-      <link>https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</link>
-      <guid isPermaLink="true">https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</guid>
+      <title>VulnCheck finds 14 vulnerabilities in Copeland XWEB EVO refrigeration systems, two exploited in the wild</title>
+      <link>https://industrialcyber.co/control-device-security/vulncheck-finds-14-vulnerabilities-in-copeland-xweb-evo-refrigeration-systems-two-exploited-in-the-wild/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/control-device-security/vulncheck-finds-14-vulnerabilities-in-copeland-xweb-evo-refrigeration-systems-two-exploited-in-the-wild/</guid>
       <pubDate>Mon, 16 Nov 2026 11:05:42 +0000</pubDate>
       <category>Advisory</category>
-      <description>VulnCheck disclosed 14 flaws in Copeland XWEB EVO refrigeration controllers, with two already targeted by threat actors. (Source: SecurityWeek)</description>
+      <description>VulnCheck disclosed 14 flaws in Copeland XWEB EVO refrigeration controllers, with two already targeted by threat actors. (Source: Industrial Cyber)</description>
     </item>
     <item>
       <title>Forescout Research Shows How AI Accelerates OT Bug Discovery</title>
