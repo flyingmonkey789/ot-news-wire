@@ -1,5 +1,37 @@
 [
   {
+    "id": "S76",
+    "url": "https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/",
+    "published": "2026-11-16T23:46:24Z",
+    "category": "Research",
+    "source": "Australian Cyber Security Magazine",
+    "sector": "Cross-sector",
+    "title": "Dragos reports 20 Australian industrial ransomware incidents in Q3 2026",
+    "summary": "Dragos reports 20 ransomware incidents affecting Australian industrial organizations in Q3 2026, highlighting persistent ransomware pressure on OT-dependent operators.",
+    "score": 7,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": "dragos",
+    "origin": "query:operational-technology",
+    "added_at": "2026-11-17T02:29:48Z"
+  },
+  {
+    "id": "S77",
+    "url": "https://www.cdomagazine.tech/us-federal-news-bureau/white-house-ai-task-force-urges-liability-protections-for-cyber-incident-reporting-at-critical-infrastructure-firms",
+    "published": "2026-11-16T19:24:00Z",
+    "category": "Policy",
+    "source": "CDO Magazine",
+    "sector": "Cross-sector",
+    "title": "White House AI Task Force Urges Liability Protections for Cyber Incident Reporting at Critical Infrastructure Firms",
+    "summary": "A White House AI task force recommends liability protections for critical infrastructure firms that report cyber incidents, a policy question affecting OT operators' disclosure decisions.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:ci-policy",
+    "added_at": "2026-11-17T02:29:48Z"
+  },
+  {
     "id": "S73",
     "url": "https://www.actuia.com/en/news/frances-nis-2-law-what-is-locked-in-before-the-17-november-vote/",
     "published": "2026-11-16T13:30:00Z",

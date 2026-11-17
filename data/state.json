@@ -9515,35 +9515,147 @@
     "u:f0ee86c43c7a5047": "2026-11-16T18:37:01Z",
     "t:b10f4fcf82ae2739": "2026-11-16T18:37:01Z",
     "u:81705f9b4027b147": "2026-11-16T18:37:01Z",
-    "t:b7b8d932ef1f449f": "2026-11-16T18:37:01Z"
+    "t:b7b8d932ef1f449f": "2026-11-16T18:37:01Z",
+    "u:ff56d4ccbbbc204b": "2026-11-17T02:29:48Z",
+    "t:7d551445b76ef664": "2026-11-17T02:29:48Z",
+    "t:4f811c776220650a": "2026-11-17T02:29:48Z",
+    "u:24b3e7c012730150": "2026-11-17T02:29:48Z",
+    "u:225dafd7d4001d81": "2026-11-17T02:29:48Z",
+    "t:e08585141b74fa25": "2026-11-17T02:29:48Z",
+    "t:d881e9bc00bcc28f": "2026-11-17T02:29:48Z",
+    "u:7062e6c8b4f116f0": "2026-11-17T02:29:48Z",
+    "t:875de1e94ee635d0": "2026-11-17T02:29:48Z",
+    "u:9409189d8358b1c8": "2026-11-17T02:29:48Z",
+    "t:b8dede04f34a4d13": "2026-11-17T02:29:48Z",
+    "u:a9e3754443636956": "2026-11-17T02:29:48Z",
+    "t:6f1b4c044c1a188b": "2026-11-17T02:29:48Z",
+    "u:460686b6b1c6fef0": "2026-11-17T02:29:48Z",
+    "t:aa3d7fd2c74b506c": "2026-11-17T02:29:48Z",
+    "u:6a892337ba3245c8": "2026-11-17T02:29:48Z",
+    "u:a252afbf670329c0": "2026-11-17T02:29:48Z",
+    "t:a9f2b3e2e8d2f1d6": "2026-11-17T02:29:48Z",
+    "t:5d88da777574f81e": "2026-11-17T02:29:48Z",
+    "u:ec697f6c4dbb3898": "2026-11-17T02:29:48Z",
+    "t:28212d887cddb6c1": "2026-11-17T02:29:48Z",
+    "u:b298f40c4d48a652": "2026-11-17T02:29:48Z",
+    "u:afa71c4d797b19bb": "2026-11-17T02:29:48Z",
+    "t:6a1d8de4015215ec": "2026-11-17T02:29:48Z",
+    "t:8c56cb285de72d11": "2026-11-17T02:29:48Z",
+    "u:690f31cddd94f89b": "2026-11-17T02:29:48Z",
+    "t:82fb7d7286bfde53": "2026-11-17T02:29:48Z",
+    "u:db23f44b6af0b041": "2026-11-17T02:29:48Z",
+    "u:3fe5040d82dab1da": "2026-11-17T02:29:48Z",
+    "t:0f3c21a7654dbd2d": "2026-11-17T02:29:48Z",
+    "u:1c0a010584c55e7b": "2026-11-17T02:29:48Z",
+    "t:bce9488e0e3c4a91": "2026-11-17T02:29:48Z",
+    "t:145dee030592fbb5": "2026-11-17T02:29:48Z",
+    "u:008c412d2a2d1a9f": "2026-11-17T02:29:48Z",
+    "t:d934ed0a408ee3c7": "2026-11-17T02:29:48Z",
+    "u:f10e9e3ee885f54c": "2026-11-17T02:29:48Z",
+    "t:8b2056ba677aa83b": "2026-11-17T02:29:48Z",
+    "u:b13fe555a6b9bda8": "2026-11-17T02:29:48Z",
+    "t:7becd87f6db1af45": "2026-11-17T02:29:48Z",
+    "u:4110c825bb92397b": "2026-11-17T02:29:48Z",
+    "t:52852368026831fe": "2026-11-17T02:29:48Z",
+    "u:eacb29d874a9d9ce": "2026-11-17T02:29:48Z",
+    "t:aa58666e15107d5d": "2026-11-17T02:29:48Z",
+    "u:fb471cf7cf33d3c5": "2026-11-17T02:29:48Z",
+    "t:7c79a8d9351bede5": "2026-11-17T02:29:48Z",
+    "u:2e82b3aafefff391": "2026-11-17T02:29:48Z",
+    "t:dd80ba7fb8dfc938": "2026-11-17T02:29:48Z",
+    "u:a25df2c667d22f5f": "2026-11-17T02:29:48Z",
+    "u:b0ce898923d25eb0": "2026-11-17T02:29:48Z",
+    "t:6afc15d79f50fd99": "2026-11-17T02:29:48Z",
+    "t:2606da2557cff869": "2026-11-17T02:29:48Z",
+    "u:054f1e063ca8d1ca": "2026-11-17T02:29:48Z",
+    "t:cd47c0c3292ae828": "2026-11-17T02:29:48Z",
+    "u:0308fee4ab734ec2": "2026-11-17T02:29:48Z",
+    "u:e86211bfff37b316": "2026-11-17T02:29:48Z",
+    "t:ce808d06c2c64e64": "2026-11-17T02:29:48Z",
+    "u:91d0fed936807d95": "2026-11-17T02:29:48Z",
+    "t:ac53d677a6f2ac85": "2026-11-17T02:29:48Z",
+    "t:c0f16f2a899e0ef7": "2026-11-17T02:29:48Z",
+    "u:0903119197ce1b32": "2026-11-17T02:29:48Z",
+    "t:10cdf074e6ab9893": "2026-11-17T02:29:48Z",
+    "u:921bc870db9dfea6": "2026-11-17T02:29:48Z",
+    "u:47331c9e1dae216d": "2026-11-17T02:29:48Z",
+    "t:759f40ba4b2fe308": "2026-11-17T02:29:48Z",
+    "t:6d960feb6e432129": "2026-11-17T02:29:48Z",
+    "u:937199dfda1b5de6": "2026-11-17T02:29:48Z",
+    "t:9e49ed4bfd580e6c": "2026-11-17T02:29:48Z",
+    "u:6c981266d5ef80b0": "2026-11-17T02:29:48Z",
+    "u:191d7f175018a4e8": "2026-11-17T02:29:48Z",
+    "t:cb168fb679782dd3": "2026-11-17T02:29:48Z",
+    "t:93f67b55382d47c2": "2026-11-17T02:29:48Z",
+    "u:de3aeb15fb15b0d1": "2026-11-17T02:29:48Z",
+    "t:178794fcf64ec193": "2026-11-17T02:29:48Z",
+    "u:4657d3c5b5343850": "2026-11-17T02:29:48Z",
+    "u:6ea57834fc7867df": "2026-11-17T02:29:48Z",
+    "t:0875d70333610247": "2026-11-17T02:29:48Z",
+    "u:dd1f63ef48fbd6c8": "2026-11-17T02:29:48Z",
+    "t:8260ea3873a0b6a9": "2026-11-17T02:29:48Z",
+    "t:b4a0ba83c320f38d": "2026-11-17T02:29:48Z",
+    "u:c0cf324032314b0b": "2026-11-17T02:29:48Z",
+    "t:485aa9db03b697a4": "2026-11-17T02:29:48Z",
+    "u:b6ad7c9bf2a8eaa6": "2026-11-17T02:29:48Z",
+    "t:95f0dbfb2eba4387": "2026-11-17T02:29:48Z",
+    "u:72bb77e142bd2050": "2026-11-17T02:29:48Z",
+    "t:3f8e602178d62569": "2026-11-17T02:29:48Z",
+    "u:72675f5a1bd11551": "2026-11-17T02:29:48Z",
+    "u:8ba45eeef1292963": "2026-11-17T02:29:48Z",
+    "t:1096d124732bf882": "2026-11-17T02:29:48Z",
+    "u:ba254e256978d1f3": "2026-11-17T02:29:48Z",
+    "t:9822f4ca7f6b2cc0": "2026-11-17T02:29:48Z",
+    "u:8296a3d66f8b4a33": "2026-11-17T02:29:48Z",
+    "t:36baca3afbbd4cc2": "2026-11-17T02:29:48Z",
+    "t:357f9158329c4e1f": "2026-11-17T02:29:48Z",
+    "u:1c8db7a22ab8dd2e": "2026-11-17T02:29:48Z",
+    "u:64ebc16f9e42f2f0": "2026-11-17T02:29:48Z",
+    "t:8bde1f1c2eefcb77": "2026-11-17T02:29:48Z",
+    "u:94b346ad06807078": "2026-11-17T02:29:48Z",
+    "t:a9416226b32291b1": "2026-11-17T02:29:48Z",
+    "t:6861b89406ce2ef9": "2026-11-17T02:29:48Z",
+    "u:37ac5d0c49ab895e": "2026-11-17T02:29:48Z",
+    "u:59c46a7f5f375111": "2026-11-17T02:29:48Z",
+    "t:a60e01299e1c02a1": "2026-11-17T02:29:48Z",
+    "u:e4eeca90a4e3af23": "2026-11-17T02:29:48Z",
+    "t:99d9dae894782237": "2026-11-17T02:29:48Z",
+    "t:985cdf63dec81eed": "2026-11-17T02:29:48Z",
+    "u:69c936a4125a7225": "2026-11-17T02:29:48Z",
+    "u:94981cac5324eb7e": "2026-11-17T02:29:48Z",
+    "t:75d5607a64e9d026": "2026-11-17T02:29:48Z",
+    "u:a449d2cf07e81ac8": "2026-11-17T02:29:48Z",
+    "t:32a6489efad887f5": "2026-11-17T02:29:48Z"
   },
   "gnews_cache": {
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3hLU2NtVWYtYXQxX0E0LWJlYjFoQzdiUHBIbUF1Z0tjbnBFTVVsaE80dmlsbDNXUVJTYTJjNFhPMWdVX0V0VEprY1djd0ZRcDVaS1FtbUJFTlFXUzA2d2JzbXlXNHpJWG4tN0V3MGJEWWw5UW1iVHBMYVJ2N1lROXRDcHY5dlZZZ1ZnQXJ3RWdBT1JVRXlDZWpfaw?oc=5": "https://www.actuia.com/en/news/frances-nis-2-law-what-is-locked-in-before-the-17-november-vote/",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm1iZjdROGRaRXJpTVBWTF9TTjJEc3ZnMlNwbVRqRzRjU0NWMVpzREsyUmxDbjJpblIxUS03V0F6ZjBBY1NHY2tTTUJJVXJsRTQ4aENaOWFMaDVGWEotZkN6cW9UTllmTVBoelJ1SGZoSnRWUE13N2FqNks4VWZLQXRQVTlYRW9RYUtuUS1sRFA2OV9JVmNRM3RZZ3g?oc=5": "https://technologymagazine.com/news/forescout-research-shows-how-ai-accelerates-ot-bug-discovery"
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm1iZjdROGRaRXJpTVBWTF9TTjJEc3ZnMlNwbVRqRzRjU0NWMVpzREsyUmxDbjJpblIxUS03V0F6ZjBBY1NHY2tTTUJJVXJsRTQ4aENaOWFMaDVGWEotZkN6cW9UTllmTVBoelJ1SGZoSnRWUE13N2FqNks4VWZLQXRQVTlYRW9RYUtuUS1sRFA2OV9JVmNRM3RZZ3g?oc=5": "https://technologymagazine.com/news/forescout-research-shows-how-ai-accelerates-ot-bug-discovery",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEU3UTEzaDJ1WTdCYTdObXNzY2NnYjhTV0YxSEs1ejlSTzdXZ3Ffd1lJZzNzXzJ6LVR1QzVzcFZtUUlpei12djNGWlA2VUlFbUhxOHRGRGJTb0o2T2NGT1JGYnk5Q1lkcUEyNjBkbmRxTG5CQ0oxLXJmWGZCaXV2eVIwTURKdXZRWWdkT0xWZ0hLZGFMRXVBLUUzWHoxbjhqLU5JRGZoYXJvZlRVY1NJSk5OUXJuWnl3Uk4w?oc=5": "https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQN20yOXRLc2haenNTdGhSWHA1eFFmMmN5SnRTYjUtN19DSlZtQW5VcE1wbk9TREJBbzlWZFowNDlvOHlERnhHSjJmek5WTFloYnM3NjFDTzNqOFlnWlBmX1JCVTZ1M2swd3NtU0w1WjJOQXpuZmlkM1gwcFBVa1dlYU9vMHhaTDhHS2FUYWJuc1haNkpuQjZHNEpBb19LMTBFWlp6TUozNUVwLTB4R0k1V2FyRklJb2habWtSRjRTNDdybTVRSGdVZGlvWlF1YllKZm1OM3o1c08zekpTc3hXM1pTTDFSYm9yY1dzMVk0Tm80RW0xak16MUVDaw?oc=5": "https://www.cdomagazine.tech/us-federal-news-bureau/white-house-ai-task-force-urges-liability-protections-for-cyber-incident-reporting-at-critical-infrastructure-firms"
   },
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -9557,165 +9669,167 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 475
     },
     "feed:waterfall": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 10
     },
     "query:ot-security": {
       "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 2
+      "last_count": 2,
+      "last_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22OT+security%22+OR+%22OT+cybersecurity%22+OR+%22ICS+security%22+OR+%22industrial+cybersecurity%22+when%3A1d&hl=en-US&gl=US&ceid=US:en",
+      "failing_since": "2026-11-17T02:29:48Z"
     },
     "query:operational-technology": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 9
     },
     "query:ics-scada": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 2
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 1
     },
     "query:plc": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 7
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 9
     },
     "query:water": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 8
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 5
     },
     "query:energy": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 4
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 2
     },
     "query:oil-gas": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 2
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 5
     },
     "query:manufacturing": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 2
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 7
     },
     "query:transport": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 23
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 30
     },
     "query:threat-actors": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 4
     },
     "query:ot-malware": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 1
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 2
     },
     "query:ci-policy": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 18
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 25
     },
     "query:frameworks": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 6
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 8
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 51
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 0
     },
     "query:ot-research": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 2
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 5
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-16T18:37:01Z",
-      "last_count": 0
+      "last_success": "2026-11-17T02:29:48Z",
+      "last_count": 1
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 34
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-16T18:37:01Z",
+      "last_success": "2026-11-17T02:29:48Z",
       "last_count": 1
     }
   },
-  "next_id": 76
+  "next_id": 78
 }

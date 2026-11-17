@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 16 Nov 2026 13:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:46:24 +0000</lastBuildDate>
+    <item>
+      <title>Dragos reports 20 Australian industrial ransomware incidents in Q3 2026</title>
+      <link>https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/</link>
+      <guid isPermaLink="true">https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:46:24 +0000</pubDate>
+      <category>Research</category>
+      <description>Dragos reports 20 ransomware incidents affecting Australian industrial organizations in Q3 2026, highlighting persistent ransomware pressure on OT-dependent operators. (Source: Australian Cyber Security Magazine)</description>
+    </item>
+    <item>
+      <title>White House AI Task Force Urges Liability Protections for Cyber Incident Reporting at Critical Infrastructure Firms</title>
+      <link>https://www.cdomagazine.tech/us-federal-news-bureau/white-house-ai-task-force-urges-liability-protections-for-cyber-incident-reporting-at-critical-infrastructure-firms</link>
+      <guid isPermaLink="true">https://www.cdomagazine.tech/us-federal-news-bureau/white-house-ai-task-force-urges-liability-protections-for-cyber-incident-reporting-at-critical-infrastructure-firms</guid>
+      <pubDate>Mon, 16 Nov 2026 19:24:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>A White House AI task force recommends liability protections for critical infrastructure firms that report cyber incidents, a policy question affecting OT operators' disclosure decisions. (Source: CDO Magazine)</description>
+    </item>
     <item>
       <title>France's NIS 2 law: what is locked in before the 17 November vote</title>
       <link>https://www.actuia.com/en/news/frances-nis-2-law-what-is-locked-in-before-the-17-november-vote/</link>
