@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:52:04 +0000</lastBuildDate>
+    <item>
+      <title>Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected</title>
+      <link>https://www.channelnewsasia.com/business/norways-equinor-detects-ongoing-cyberattack-oil-and-gas-output-unaffected-6560121</link>
+      <guid isPermaLink="true">https://www.channelnewsasia.com/business/norways-equinor-detects-ongoing-cyberattack-oil-and-gas-output-unaffected-6560121</guid>
+      <pubDate>Tue, 17 Nov 2026 20:52:04 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Equinor says it is responding to an ongoing cyberattack on some IT systems, with oil and gas production unaffected. (Source: CNA)</description>
+    </item>
+    <item>
+      <title>Mitsubishi Electric and Nozomi join forces on cybersecurity</title>
+      <link>https://www.machinery-market.co.uk/news/43879/Mitsubishi-Electric-and-Nozomi-join-forces-on-cybersecurity</link>
+      <guid isPermaLink="true">https://www.machinery-market.co.uk/news/43879/Mitsubishi-Electric-and-Nozomi-join-forces-on-cybersecurity</guid>
+      <pubDate>Tue, 17 Nov 2026 14:04:10 +0000</pubDate>
+      <category>Technology</category>
+      <description>Mitsubishi Electric and Nozomi Networks announced a cybersecurity partnership for industrial systems. (Source: Machinery Market)</description>
+    </item>
     <item>
       <title>Nozomi Networks Lands Co-Development Project with Lockheed Martin to Strengthen Cybersecurity for Government and Defense Environments</title>
       <link>https://www.prnewswire.com/news-releases/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defense-environments-302939296.html</link>
@@ -24,12 +40,12 @@
       <description>The FBI FLASH advisory warns that attackers are using the open-source ARTEX AI framework to automate attacks on energy, manufacturing and telecom organizations. (Source: Industrial Cyber)</description>
     </item>
     <item>
-      <title>Dragos reports 20 Australian industrial ransomware incidents in Q3 2026</title>
-      <link>https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/</link>
-      <guid isPermaLink="true">https://australiancybersecuritymagazine.com.au/dragos-reports-20-australian-industrial-ransomware-incidents-in-q3-2026/</guid>
+      <title>Dragos finds industrial ransomware attacks rose 11% in Q3 2026, with manufacturing accounting for 69% of victims</title>
+      <link>https://industrialcyber.co/reports/dragos-finds-industrial-ransomware-attacks-rose-11-in-q3-2026-with-manufacturing-accounting-for-69-of-victims/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/dragos-finds-industrial-ransomware-attacks-rose-11-in-q3-2026-with-manufacturing-accounting-for-69-of-victims/</guid>
       <pubDate>Mon, 16 Nov 2026 23:46:24 +0000</pubDate>
       <category>Research</category>
-      <description>Dragos reports 20 ransomware incidents affecting Australian industrial organizations in Q3 2026, highlighting persistent ransomware pressure on OT-dependent operators. (Source: Australian Cyber Security Magazine)</description>
+      <description>Dragos reports 20 ransomware incidents affecting Australian industrial organizations in Q3 2026, highlighting persistent ransomware pressure on OT-dependent operators. (Source: Industrial Cyber)</description>
     </item>
     <item>
       <title>White House AI Task Force Urges Liability Protections for Cyber Incident Reporting at Critical Infrastructure Firms</title>
