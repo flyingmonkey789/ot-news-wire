@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 06:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:22:20 +0000</lastBuildDate>
+    <item>
+      <title>Firmware Archaeology Toolset: AI-assisted Methodology From Encrypted Firmware to a 0-click RCE</title>
+      <link>https://www.nozominetworks.com/blog/firmware-archaeology-toolset-ai-assisted-methodology-from-encrypted-firmware-to-a-0-click-rce</link>
+      <guid isPermaLink="true">https://www.nozominetworks.com/blog/firmware-archaeology-toolset-ai-assisted-methodology-from-encrypted-firmware-to-a-0-click-rce</guid>
+      <pubDate>Wed, 18 Nov 2026 11:22:20 +0000</pubDate>
+      <category>Research</category>
+      <description>Nozomi Networks published research on an AI-assisted method that moves from encrypted firmware to a zero-click remote code execution flaw, relevant to embedded industrial device security. (Source: Nozomi Networks)</description>
+    </item>
     <item>
       <title>Barry-Wehmiller, Kasm Technologies partner to secure remote access across manufacturing OT environments</title>
       <link>https://industrialcyber.co/news/barry-wehmiller-kasm-technologies-partner-to-secure-remote-access-across-manufacturing-ot-environments/</link>

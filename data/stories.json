@@ -1,5 +1,21 @@
 [
   {
+    "id": "S86",
+    "url": "https://www.nozominetworks.com/blog/firmware-archaeology-toolset-ai-assisted-methodology-from-encrypted-firmware-to-a-0-click-rce",
+    "published": "2026-11-18T11:22:20Z",
+    "category": "Research",
+    "source": "Nozomi Networks",
+    "sector": "Cross-sector",
+    "title": "Firmware Archaeology Toolset: AI-assisted Methodology From Encrypted Firmware to a 0-click RCE",
+    "summary": "Nozomi Networks published research on an AI-assisted method that moves from encrypted firmware to a zero-click remote code execution flaw, relevant to embedded industrial device security.",
+    "score": 7,
+    "source_type": "research",
+    "is_primary": true,
+    "vendor_key": "nozomi networks",
+    "origin": "query:ot-vendor-sites",
+    "added_at": "2026-11-18T20:36:47Z"
+  },
+  {
     "id": "S84",
     "url": "https://industrialcyber.co/news/barry-wehmiller-kasm-technologies-partner-to-secure-remote-access-across-manufacturing-ot-environments/",
     "published": "2026-11-18T06:57:01Z",
