@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://industrialcyber.co/news/barry-wehmiller-kasm-technologies-partner-to-secure-remote-access-across-manufacturing-ot-environments/",
+    "published": "2026-11-18T06:57:01Z",
+    "category": "Technology",
+    "source": "Industrial Cyber",
+    "sector": "Manufacturing",
+    "title": "Barry-Wehmiller, Kasm Technologies partner to secure remote access across manufacturing OT environments",
+    "summary": "Barry-Wehmiller Design Group and Kasm Technologies partnered to integrate Kasm for OT secure remote access into the DG360 manufacturing platform."
+  },
+  {
+    "url": "https://finance.biggo.com/news/edfc6082-a032-421a-812d-1919e89e04ee",
+    "published": "2026-11-18T06:05:00Z",
+    "category": "Technology",
+    "source": "BigGo Finance",
+    "sector": "Cross-sector",
+    "title": "NRI Secure launches service to assess OT environment attack resilience without halting equipment",
+    "summary": "NRI Secure launched a service that assesses attack resilience of OT environments without halting equipment, addressing a gap in live OT testing."
+  },
+  {
     "url": "https://www.thelec.net/news/articleView.html?idxno=15672",
     "published": "2026-11-17T23:12:29Z",
     "category": "Research",
@@ -25,6 +43,15 @@
     "sector": "Cross-sector",
     "title": "Mitsubishi Electric and Nozomi join forces on cybersecurity",
     "summary": "Mitsubishi Electric and Nozomi Networks announced a cybersecurity partnership for industrial systems."
+  },
+  {
+    "url": "https://cxotoday.com/cybersecurity/irgc-unit-shahid-kaveh-cyberav3ngers-connects-u-s-water-plc-attacks-to-french-supermarket-sabotage-check-point-research/",
+    "published": "2026-11-17T13:10:47Z",
+    "category": "Research",
+    "source": "CXOToday.com",
+    "sector": "Water",
+    "title": "IRGC Unit Shahid Kaveh (CyberAv3ngers) Connects U.S. Water PLC Attacks to French Supermarket Sabotage: Check Point Research",
+    "summary": "Check Point Research links IRGC-affiliated CyberAv3ngers activity against U.S. water PLCs to a French supermarket sabotage, expanding attribution of a state-linked OT campaign."
   },
   {
     "url": "https://www.prnewswire.com/news-releases/nozomi-networks-lands-co-development-project-with-lockheed-martin-to-strengthen-cybersecurity-for-government-and-defense-environments-302939296.html",

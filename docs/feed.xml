@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 17 Nov 2026 23:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:57:01 +0000</lastBuildDate>
+    <item>
+      <title>Barry-Wehmiller, Kasm Technologies partner to secure remote access across manufacturing OT environments</title>
+      <link>https://industrialcyber.co/news/barry-wehmiller-kasm-technologies-partner-to-secure-remote-access-across-manufacturing-ot-environments/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/barry-wehmiller-kasm-technologies-partner-to-secure-remote-access-across-manufacturing-ot-environments/</guid>
+      <pubDate>Wed, 18 Nov 2026 06:57:01 +0000</pubDate>
+      <category>Technology</category>
+      <description>Barry-Wehmiller Design Group and Kasm Technologies partnered to integrate Kasm for OT secure remote access into the DG360 manufacturing platform. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>NRI Secure launches service to assess OT environment attack resilience without halting equipment</title>
+      <link>https://finance.biggo.com/news/edfc6082-a032-421a-812d-1919e89e04ee</link>
+      <guid isPermaLink="true">https://finance.biggo.com/news/edfc6082-a032-421a-812d-1919e89e04ee</guid>
+      <pubDate>Wed, 18 Nov 2026 06:05:00 +0000</pubDate>
+      <category>Technology</category>
+      <description>NRI Secure launched a service that assesses attack resilience of OT environments without halting equipment, addressing a gap in live OT testing. (Source: BigGo Finance)</description>
+    </item>
     <item>
       <title>66 Zero-Day Vulnerabilities Found in TCP/IP Stacks Used in Critical Infrastructure</title>
       <link>https://www.thelec.net/news/articleView.html?idxno=15672</link>
@@ -30,6 +46,14 @@
       <pubDate>Tue, 17 Nov 2026 14:04:10 +0000</pubDate>
       <category>Technology</category>
       <description>Mitsubishi Electric and Nozomi Networks announced a cybersecurity partnership for industrial systems. (Source: Machinery Market)</description>
+    </item>
+    <item>
+      <title>IRGC Unit Shahid Kaveh (CyberAv3ngers) Connects U.S. Water PLC Attacks to French Supermarket Sabotage: Check Point Research</title>
+      <link>https://cxotoday.com/cybersecurity/irgc-unit-shahid-kaveh-cyberav3ngers-connects-u-s-water-plc-attacks-to-french-supermarket-sabotage-check-point-research/</link>
+      <guid isPermaLink="true">https://cxotoday.com/cybersecurity/irgc-unit-shahid-kaveh-cyberav3ngers-connects-u-s-water-plc-attacks-to-french-supermarket-sabotage-check-point-research/</guid>
+      <pubDate>Tue, 17 Nov 2026 13:10:47 +0000</pubDate>
+      <category>Research</category>
+      <description>Check Point Research links IRGC-affiliated CyberAv3ngers activity against U.S. water PLCs to a French supermarket sabotage, expanding attribution of a state-linked OT campaign. (Source: CXOToday.com)</description>
     </item>
     <item>
       <title>Nozomi Networks Lands Co-Development Project with Lockheed Martin to Strengthen Cybersecurity for Government and Defense Environments</title>

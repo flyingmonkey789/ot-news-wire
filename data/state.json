@@ -10127,36 +10127,190 @@
     "t:eea15a76371a4d12": "2026-11-18T02:55:35Z",
     "u:d7acc52f7e857a5b": "2026-11-18T02:55:35Z",
     "u:9ebdbe54dad91909": "2026-11-18T02:55:35Z",
-    "t:08a05d6cb45c3452": "2026-11-18T02:55:35Z"
+    "t:08a05d6cb45c3452": "2026-11-18T02:55:35Z",
+    "u:fc54b49889fe81ac": "2026-11-18T11:49:01Z",
+    "t:cae3b58ae73b638d": "2026-11-18T11:49:01Z",
+    "t:c16a74506e35e560": "2026-11-18T11:49:01Z",
+    "u:0ba2f615d09e9d46": "2026-11-18T11:49:01Z",
+    "u:4f0864e5e3454300": "2026-11-18T11:49:01Z",
+    "t:7382fedcb241c921": "2026-11-18T11:49:01Z",
+    "u:b5fb50ecd51fae2f": "2026-11-18T11:49:01Z",
+    "t:e2035341b3aaa768": "2026-11-18T11:49:01Z",
+    "u:c36817af9a4b18e2": "2026-11-18T11:49:01Z",
+    "t:504b8183d2d2d994": "2026-11-18T11:49:01Z",
+    "t:5865e49ec6a6f328": "2026-11-18T11:49:01Z",
+    "u:d53492c6a0eee6ba": "2026-11-18T11:49:01Z",
+    "u:3bd5e1dce4651122": "2026-11-18T11:49:01Z",
+    "t:d50129854d0d980c": "2026-11-18T11:49:01Z",
+    "u:4da7f3c9672d2bf5": "2026-11-18T11:49:01Z",
+    "t:0c6942fb27ad5a71": "2026-11-18T11:49:01Z",
+    "t:14c7c7dd953d6ad7": "2026-11-18T11:49:01Z",
+    "u:8027dba47916b6c6": "2026-11-18T11:49:01Z",
+    "u:0d6cb8c52ac0fb6e": "2026-11-18T11:49:01Z",
+    "t:59a1742219c5caff": "2026-11-18T11:49:01Z",
+    "u:45f66c2197572fe0": "2026-11-18T11:49:01Z",
+    "t:40adfb03c35b9298": "2026-11-18T11:49:01Z",
+    "t:633b3095e736b4bb": "2026-11-18T11:49:01Z",
+    "u:62c19d078d659057": "2026-11-18T11:49:01Z",
+    "u:200f7ce0c290a024": "2026-11-18T11:49:01Z",
+    "t:78e131171d6f6aee": "2026-11-18T11:49:01Z",
+    "t:e1dbe0e7ee686421": "2026-11-18T11:49:01Z",
+    "u:4d0d9bf8c997d473": "2026-11-18T11:49:01Z",
+    "u:4f002e6fb70a1a1d": "2026-11-18T11:49:01Z",
+    "t:81bc43871a7434f0": "2026-11-18T11:49:01Z",
+    "t:bf803b74d79831e8": "2026-11-18T11:49:01Z",
+    "u:25f152a1b586a7e7": "2026-11-18T11:49:01Z",
+    "u:1db641aaef4490d3": "2026-11-18T11:49:01Z",
+    "t:fe55ff02fc341cfe": "2026-11-18T11:49:01Z",
+    "u:1df53018af16af50": "2026-11-18T11:49:01Z",
+    "t:ba1a98194e37794a": "2026-11-18T11:49:01Z",
+    "u:ee9a23761ba06bf0": "2026-11-18T11:49:01Z",
+    "t:058c8ab5b3a79b7d": "2026-11-18T11:49:01Z",
+    "u:223101d573500516": "2026-11-18T11:49:01Z",
+    "t:b5ae0fb91a127016": "2026-11-18T11:49:01Z",
+    "u:fd349f5a83c393ad": "2026-11-18T11:49:01Z",
+    "t:16d744850284f137": "2026-11-18T11:49:01Z",
+    "u:88a05ccd26cbaca9": "2026-11-18T11:49:01Z",
+    "t:960c9be2fda7d9fa": "2026-11-18T11:49:01Z",
+    "t:f20c65087f488356": "2026-11-18T11:49:01Z",
+    "u:aee4cf00ea780420": "2026-11-18T11:49:01Z",
+    "t:82b6037d5af14fb6": "2026-11-18T11:49:01Z",
+    "u:43a4453aab3ba517": "2026-11-18T11:49:01Z",
+    "u:707d3edea8f0238b": "2026-11-18T11:49:01Z",
+    "t:2ef72633a99c8206": "2026-11-18T11:49:01Z",
+    "t:91d696f94b93581f": "2026-11-18T11:49:01Z",
+    "u:61eed11606e7e884": "2026-11-18T11:49:01Z",
+    "t:28d54198c822fe9e": "2026-11-18T11:49:01Z",
+    "u:fbc2430e3f2b4f4a": "2026-11-18T11:49:01Z",
+    "u:0ceb0c7adc326d9a": "2026-11-18T11:49:01Z",
+    "t:3434acdc35b61ddb": "2026-11-18T11:49:01Z",
+    "u:42521dc3342515b7": "2026-11-18T11:49:01Z",
+    "t:403cef0943c3e260": "2026-11-18T11:49:01Z",
+    "u:eca37aa4acf8c6cf": "2026-11-18T11:49:01Z",
+    "t:270c362e17c060ed": "2026-11-18T11:49:01Z",
+    "t:1195865005374705": "2026-11-18T11:49:01Z",
+    "u:0e88b394abb13280": "2026-11-18T11:49:01Z",
+    "u:41961eb2b7b11a8e": "2026-11-18T11:49:01Z",
+    "t:e51588161746e4f2": "2026-11-18T11:49:01Z",
+    "u:8aa56d79d1afc279": "2026-11-18T11:49:01Z",
+    "t:2d36f20143abd375": "2026-11-18T11:49:01Z",
+    "t:067d7441dd2c0308": "2026-11-18T11:49:01Z",
+    "u:39b3619480bb0c79": "2026-11-18T11:49:01Z",
+    "t:f338268951c4514d": "2026-11-18T11:49:01Z",
+    "u:84a917af1174769b": "2026-11-18T11:49:01Z",
+    "u:b7c5c2f99bfb2cb0": "2026-11-18T11:49:01Z",
+    "t:b767e8bc0883f84c": "2026-11-18T11:49:01Z",
+    "t:d0f5494cf4668275": "2026-11-18T11:49:01Z",
+    "u:ee63dd714e928aed": "2026-11-18T11:49:01Z",
+    "u:b0d9fef658a1d98c": "2026-11-18T11:49:01Z",
+    "t:8a175846ec3632af": "2026-11-18T11:49:01Z",
+    "t:0551c4748da67f3d": "2026-11-18T11:49:01Z",
+    "u:e0b517b6b94d0a58": "2026-11-18T11:49:01Z",
+    "u:235b405b13ef3aad": "2026-11-18T11:49:01Z",
+    "t:0780b4c82512c1d9": "2026-11-18T11:49:01Z",
+    "t:2ed8ca7320961fd8": "2026-11-18T11:49:01Z",
+    "u:3b93c7e468702357": "2026-11-18T11:49:01Z",
+    "u:dd8c0adac64ceeb0": "2026-11-18T11:49:01Z",
+    "t:46448857ba1dd231": "2026-11-18T11:49:01Z",
+    "t:5d7c87bb2b533e69": "2026-11-18T11:49:01Z",
+    "u:ea5b7edfd46f904f": "2026-11-18T11:49:01Z",
+    "t:6f77ee0b5a2b586e": "2026-11-18T11:49:01Z",
+    "u:5ea4c3fcb97016e0": "2026-11-18T11:49:01Z",
+    "t:ce51913ed849068f": "2026-11-18T11:49:01Z",
+    "u:7e8f77b72ffefc93": "2026-11-18T11:49:01Z",
+    "t:0f6cbbffa449fb47": "2026-11-18T11:49:01Z",
+    "u:3316b2890e88161e": "2026-11-18T11:49:01Z",
+    "t:7d17f91fdf18d947": "2026-11-18T11:49:01Z",
+    "u:95e7f075a4b8451b": "2026-11-18T11:49:01Z",
+    "t:f7f6ea6a7f113ae3": "2026-11-18T11:49:01Z",
+    "u:625a82b849a03361": "2026-11-18T11:49:01Z",
+    "t:9e9d32061fe405c0": "2026-11-18T11:49:01Z",
+    "u:de6313d59390fa75": "2026-11-18T11:49:01Z",
+    "u:b881024ec489cb48": "2026-11-18T11:49:01Z",
+    "t:aa4f73f9a1abf265": "2026-11-18T11:49:01Z",
+    "t:9c5fac5609ed25d3": "2026-11-18T11:49:01Z",
+    "u:7336c87660bf0406": "2026-11-18T11:49:01Z",
+    "u:f41e3c7f9f0cea3b": "2026-11-18T11:49:01Z",
+    "t:3df3806f2f144de7": "2026-11-18T11:49:01Z",
+    "t:13a7791465f111e3": "2026-11-18T11:49:01Z",
+    "u:4b168c7b644edd7e": "2026-11-18T11:49:01Z",
+    "u:894cff6205582422": "2026-11-18T11:49:01Z",
+    "t:10da4ab29268df75": "2026-11-18T11:49:01Z",
+    "t:5b72dc340d9077d4": "2026-11-18T11:49:01Z",
+    "u:1a2d8ffd48b2f541": "2026-11-18T11:49:01Z",
+    "t:f602605b87ad8537": "2026-11-18T11:49:01Z",
+    "u:e9e73da609529e05": "2026-11-18T11:49:01Z",
+    "u:8543cca5a2cc1b8c": "2026-11-18T11:49:01Z",
+    "t:61b9be1a5dcbe22c": "2026-11-18T11:49:01Z",
+    "u:0810933bea875b1e": "2026-11-18T11:49:01Z",
+    "t:28e514ac87bdb683": "2026-11-18T11:49:01Z",
+    "u:3ad76c08ec75adaa": "2026-11-18T11:49:01Z",
+    "t:eea1e2244d4aeb7d": "2026-11-18T11:49:01Z",
+    "t:dab92b1d283dd549": "2026-11-18T11:49:01Z",
+    "u:75d636e46d1db0f8": "2026-11-18T11:49:01Z",
+    "t:514a29a89b08e5c0": "2026-11-18T11:49:01Z",
+    "u:485195fb242dfe23": "2026-11-18T11:49:01Z",
+    "t:7553c71246259a86": "2026-11-18T11:49:01Z",
+    "u:ddc84ea774ede37a": "2026-11-18T11:49:01Z",
+    "t:b84e42fa827bcc49": "2026-11-18T11:49:01Z",
+    "u:3499578676d9254a": "2026-11-18T11:49:01Z",
+    "t:d45a950bf05dfc9f": "2026-11-18T11:49:01Z",
+    "u:3ea9d9888961c740": "2026-11-18T11:49:01Z",
+    "t:9c5d4f71a91b792e": "2026-11-18T11:49:01Z",
+    "u:1536d56fc65e1b64": "2026-11-18T11:49:01Z",
+    "t:5cfd7b3bdb07e392": "2026-11-18T11:49:01Z",
+    "u:aadfea041ecade5a": "2026-11-18T11:49:01Z",
+    "u:eadd1e11ec59982f": "2026-11-18T11:49:01Z",
+    "t:91b2bd08a62140c6": "2026-11-18T11:49:01Z",
+    "u:8b8a3c357e6af4d3": "2026-11-18T11:49:01Z",
+    "t:aae39fb1160ee439": "2026-11-18T11:49:01Z",
+    "u:dcf002d6f803791d": "2026-11-18T11:49:01Z",
+    "t:cbedabf267d54d80": "2026-11-18T11:49:01Z",
+    "t:092d49b202893aa8": "2026-11-18T11:49:01Z",
+    "u:8d968ca6eaf9385c": "2026-11-18T11:49:01Z",
+    "t:e63eab50c9006952": "2026-11-18T11:49:01Z",
+    "u:192adf802a6f5a5a": "2026-11-18T11:49:01Z",
+    "u:960fb9214702eb15": "2026-11-18T11:49:01Z",
+    "t:a1ce71a49653bc25": "2026-11-18T11:49:01Z",
+    "t:5b3eb2b099db23a4": "2026-11-18T11:49:01Z",
+    "u:f8365a0fde03beca": "2026-11-18T11:49:01Z",
+    "u:a33ee66d65561e41": "2026-11-18T11:49:01Z",
+    "t:036be79861740d6c": "2026-11-18T11:49:01Z",
+    "t:001fdbc12b87822d": "2026-11-18T11:49:01Z",
+    "u:5f84bf259c19fa3e": "2026-11-18T11:49:01Z",
+    "t:2310976d8e1c7738": "2026-11-18T11:49:01Z",
+    "u:995b51be646268d1": "2026-11-18T11:49:01Z"
   },
   "gnews_cache": {
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenFLM0xDRE01TDhVOWdTc1VUa3VRZjlCTFBSM0xlZmEwTll1UnRyMzJGVUl4ZzhJVEg0ejVvVUZ0NFhJX1UzSHFqWTR5QWw5al9MMGI0MEtXZ0dkNmQyU21tbUlTWFdmekZfOTQ5eUlLdXNBMEpXTklYdnFFRDJRUXpjVmFGTFRvVndSYjB2RFk1TVE0RGNWamx6ZVFoTGplRXYtY2dKUHk?oc=5": "https://www.machinery-market.co.uk/news/43879/Mitsubishi-Electric-and-Nozomi-join-forces-on-cybersecurity",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnljTmZwYkpRcDgxallTNFRQLVMxSGlYbExFb0FEVkU0OExEZXNvSUlGTFRUNlM4ZVg0Y1pVaWdqZVlfbVdfc196aDFsT3NKQWNhSWVRZkU4bWZRRGlpeHZ2QXdnUmwzc0hyU09oTEVPbC0zU295YjEwT2lmNWtLTzlGUXNMME1CUlZGZE41MVRiRDZ2d1FNSzgxZEJMZnJxZThhRkhKaV9LcldPSmhnRzFTY2x3d9IBtgFBVV95cUxOVnljTmZwYkpRcDgxallTNFRQLVMxSGlYbExFb0FEVkU0OExEZXNvSUlGTFRUNlM4ZVg0Y1pVaWdqZVlfbVdfc196aDFsT3NKQWNhSWVRZkU4bWZRRGlpeHZ2QXdnUmwzc0hyU09oTEVPbC0zU295YjEwT2lmNWtLTzlGUXNMME1CUlZGZE41MVRiRDZ2d1FNSzgxZEJMZnJxZThhRkhKaV9LcldPSmhnRzFTY2x3dw?oc=5": "https://oilprice.com/Company-News/Equinor-Hit-by-Cyberattack-but-Oil-and-Gas-Production-Remains-Unaffected.amp.html",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85bWVvQ3hwSWVrdjdIaU94dFpaWjR1MktHWnZ6U1J3R2kzWUlmaFV3N3FPMnhhcjg5S29OSUUtTjdYeU9Mb0RDYnVpbTAxdVNrY0tPRmVyYWxzWFI5b05pQ3duNUpfNjA?oc=5": "https://www.thelec.net/news/articleView.html?idxno=15672"
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85bWVvQ3hwSWVrdjdIaU94dFpaWjR1MktHWnZ6U1J3R2kzWUlmaFV3N3FPMnhhcjg5S29OSUUtTjdYeU9Mb0RDYnVpbTAxdVNrY0tPRmVyYWxzWFI5b05pQ3duNUpfNjA?oc=5": "https://www.thelec.net/news/articleView.html?idxno=15672",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRlpqck9ZX2tFUWY1cmpub0QzWFE0S1pvdmNNWHNlLUdXNUFUREROTDFjSTc3Vm1kS0JVanlGdExzbnZzT0lMaUQ4WHJya0szNGxqY0lLeDNZQzBJU29WaWFKQjhtTVRIQUhFT0dMZTZCRFZ3M0lLTDVCckZGcGtwSFphYURmVGRqVlNwZEltQTZDQVB0RWVSemVQMUhjYXBiUklQZWVfS1Npb3FNX3VyTFZLcXRzRlptVmFqYzlJSFl4Ui01bzhGWW9nQ1ZXN0U5QUF3UWNkYTJuazBMVlBkRm9zZkFsdjlQcDdz?oc=5": "https://cxotoday.com/cybersecurity/irgc-unit-shahid-kaveh-cyberav3ngers-connects-u-s-water-plc-attacks-to-french-supermarket-sabotage-check-point-research/",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUzh0aV9XOEZpMm1hZzRRVnlvaFB5Rjh3SUxUQ2g1MWVPa0l5cUFvZ2pwdkRVUkR5MWJuWXNkU2d3MHd4dDJXdldDVEhzTUxralBFal9Wa1Z5ZV83MUFwZWpURmVTbmt3alZISXRkU1N1LWFqVGc?oc=5": "https://finance.biggo.com/news/edfc6082-a032-421a-812d-1919e89e04ee"
   },
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -10170,165 +10324,165 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 475
     },
     "feed:waterfall": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 7
     },
     "query:operational-technology": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 13
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 11
     },
     "query:ics-scada": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 2
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 4
     },
     "query:plc": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 0
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 1
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 4
     },
     "query:water": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 5
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 4
     },
     "query:energy": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 22
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 20
     },
     "query:oil-gas": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 22
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 25
     },
     "query:manufacturing": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 16
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 18
     },
     "query:transport": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 29
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 27
     },
     "query:threat-actors": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 7
     },
     "query:ot-malware": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 2
     },
     "query:ci-policy": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 16
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 19
     },
     "query:frameworks": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 3
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 7
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 49
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 50
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 2
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 0
     },
     "query:ot-research": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 6
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 4
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-18T02:55:35Z",
+      "last_success": "2026-11-18T11:49:01Z",
       "last_count": 1
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 35
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 36
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-18T02:55:35Z",
-      "last_count": 6
+      "last_success": "2026-11-18T11:49:01Z",
+      "last_count": 5
     }
   },
-  "next_id": 83
+  "next_id": 86
 }
