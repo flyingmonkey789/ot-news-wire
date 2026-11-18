@@ -1,11 +1,20 @@
 [
   {
-    "url": "https://www.channelnewsasia.com/business/norways-equinor-detects-ongoing-cyberattack-oil-and-gas-output-unaffected-6560121",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15672",
+    "published": "2026-11-17T23:12:29Z",
+    "category": "Research",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "sector": "Cross-sector",
+    "title": "66 Zero-Day Vulnerabilities Found in TCP/IP Stacks Used in Critical Infrastructure",
+    "summary": "Researchers reported 66 zero-day vulnerabilities in TCP/IP stacks used in critical infrastructure equipment, raising concern for OT device exposure."
+  },
+  {
+    "url": "https://oilprice.com/Company-News/Equinor-Hit-by-Cyberattack-but-Oil-and-Gas-Production-Remains-Unaffected.amp.html",
     "published": "2026-11-17T20:52:04Z",
     "category": "Incidents",
-    "source": "CNA",
+    "source": "Crude Oil Prices Today | OilPrice.com",
     "sector": "Oil & Gas",
-    "title": "Norway's Equinor detects ongoing cyberattack, oil and gas output unaffected",
+    "title": "Equinor Hit by Cyberattack but Oil and Gas Production Remains Unaffected",
     "summary": "Equinor says it is responding to an ongoing cyberattack on some IT systems, with oil and gas production unaffected."
   },
   {

@@ -1,8 +1,3 @@
-{"ts": "2026-10-27T21:49:38Z", "fetched": 1186, "new": 6, "prefiltered_out": 6, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
-{"ts": "2026-10-27T22:49:41Z", "fetched": 1246, "new": 9, "prefiltered_out": 9, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
-{"ts": "2026-10-27T23:45:09Z", "fetched": 1250, "new": 7, "prefiltered_out": 6, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2458, "output_tokens": 89, "feed_size": 7}
-{"ts": "2026-10-28T01:15:47Z", "fetched": 1196, "new": 5, "prefiltered_out": 4, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2474, "output_tokens": 94, "feed_size": 7}
-{"ts": "2026-10-28T02:08:00Z", "fetched": 1186, "new": 1, "prefiltered_out": 1, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
 {"ts": "2026-10-28T02:58:39Z", "fetched": 1244, "new": 3, "prefiltered_out": 3, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
 {"ts": "2026-10-28T03:58:03Z", "fetched": 1242, "new": 4, "prefiltered_out": 3, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 2469, "output_tokens": 93, "feed_size": 7}
 {"ts": "2026-10-28T04:58:00Z", "fetched": 1192, "new": 3, "prefiltered_out": 3, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 7}
@@ -393,3 +388,4 @@
 {"ts": "2026-11-17T02:29:48Z", "fetched": 1243, "new": 55, "prefiltered_out": 51, "reviewed": 4, "published": 2, "regrouped": 0, "failing_feeds": 3, "api_calls": 1, "input_tokens": 3290, "output_tokens": 373, "feed_size": 76}
 {"ts": "2026-11-17T11:57:08Z", "fetched": 1257, "new": 74, "prefiltered_out": 63, "reviewed": 11, "published": 2, "regrouped": 1, "failing_feeds": 2, "api_calls": 1, "input_tokens": 4254, "output_tokens": 891, "feed_size": 78}
 {"ts": "2026-11-17T20:58:56Z", "fetched": 1299, "new": 132, "prefiltered_out": 99, "reviewed": 33, "published": 2, "regrouped": 1, "failing_feeds": 2, "api_calls": 2, "input_tokens": 11330, "output_tokens": 2305, "feed_size": 80}
+{"ts": "2026-11-18T02:55:35Z", "fetched": 1291, "new": 44, "prefiltered_out": 37, "reviewed": 7, "published": 1, "regrouped": 1, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3898, "output_tokens": 583, "feed_size": 81}
