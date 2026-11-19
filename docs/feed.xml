@@ -6,14 +6,38 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Nov 2026 05:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:27:07 +0000</lastBuildDate>
     <item>
-      <title>Game consoles and Teslas are slipping past OT network segmentation</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/slipping-past-ot-network-segmentation/</link>
-      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/11/19/slipping-past-ot-network-segmentation/</guid>
+      <title>Forescout Uses AI to Uncover 99 Vulnerabilities in Embedded Networking Software</title>
+      <link>https://iotbusinessnews.com/2026/11/19/forescout-uses-ai-to-uncover-99-vulnerabilities-in-embedded-networking-software/</link>
+      <guid isPermaLink="true">https://iotbusinessnews.com/2026/11/19/forescout-uses-ai-to-uncover-99-vulnerabilities-in-embedded-networking-software/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:27:07 +0000</pubDate>
+      <category>Research</category>
+      <description>Forescout reports it used AI-assisted vulnerability hunting to find 99 flaws in embedded networking software, a research result relevant to industrial device makers. (Source: IoT Business News)</description>
+    </item>
+    <item>
+      <title>Elecbrakes EB2, VM1, ELBC2000</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02</link>
+      <guid isPermaLink="true">https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Advisory</category>
+      <description>Elecbrakes EB2, VM1 and ELBC2000 trailer brake controllers have three vulnerabilities (CVSS 9.6) allowing takeover of brakes and firmware; CISA advisory published. (Source: CISA)</description>
+    </item>
+    <item>
+      <title>AttackIQ reports that Iranian hackers leverage contractors and shared access to expand attacks on critical infrastructure</title>
+      <link>https://industrialcyber.co/reports/attackiq-reports-that-iranian-hackers-leverage-contractors-and-shared-access-to-expand-attacks-on-critical-infrastructure/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/attackiq-reports-that-iranian-hackers-leverage-contractors-and-shared-access-to-expand-attacks-on-critical-infrastructure/</guid>
+      <pubDate>Thu, 19 Nov 2026 11:58:06 +0000</pubDate>
+      <category>Research</category>
+      <description>AttackIQ mapped 20 Iranian state-sponsored threat groups and their ties to government institutions, highlighting contractor and shared-access routes into critical infrastructure. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Claroty finds 65,000 consumer devices connected to critical infrastructure networks, exposing OT segmentation gaps</title>
+      <link>https://industrialcyber.co/reports/claroty-finds-65000-consumer-devices-connected-to-critical-infrastructure-networks-exposing-ot-segmentation-gaps/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/claroty-finds-65000-consumer-devices-connected-to-critical-infrastructure-networks-exposing-ot-segmentation-gaps/</guid>
       <pubDate>Thu, 19 Nov 2026 05:30:09 +0000</pubDate>
       <category>Research</category>
-      <description>Claroty research finds consumer devices such as game consoles and Teslas sitting on hospital and factory OT networks, often outside segmentation controls. (Source: Help Net Security)</description>
+      <description>Claroty research finds consumer devices such as game consoles and Teslas sitting on hospital and factory OT networks, often outside segmentation controls. (Source: Industrial Cyber)</description>
     </item>
     <item>
       <title>Firmware Archaeology Toolset: AI-assisted Methodology From Encrypted Firmware to a 0-click RCE</title>
