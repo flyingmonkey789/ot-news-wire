@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 18 Nov 2026 11:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:30:09 +0000</lastBuildDate>
+    <item>
+      <title>Game consoles and Teslas are slipping past OT network segmentation</title>
+      <link>https://www.helpnetsecurity.com/2026/11/19/slipping-past-ot-network-segmentation/</link>
+      <guid isPermaLink="true">https://www.helpnetsecurity.com/2026/11/19/slipping-past-ot-network-segmentation/</guid>
+      <pubDate>Thu, 19 Nov 2026 05:30:09 +0000</pubDate>
+      <category>Research</category>
+      <description>Claroty research finds consumer devices such as game consoles and Teslas sitting on hospital and factory OT networks, often outside segmentation controls. (Source: Help Net Security)</description>
+    </item>
     <item>
       <title>Firmware Archaeology Toolset: AI-assisted Methodology From Encrypted Firmware to a 0-click RCE</title>
       <link>https://www.nozominetworks.com/blog/firmware-archaeology-toolset-ai-assisted-methodology-from-encrypted-firmware-to-a-0-click-rce</link>
