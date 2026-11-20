@@ -6,7 +6,31 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 19 Nov 2026 15:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Federal cybersecurity gaps leave US food supply vulnerable to ransomware and operational disruptions, GAO warns</title>
+      <link>https://industrialcyber.co/reports/federal-cybersecurity-gaps-leave-us-food-supply-vulnerable-to-ransomware-and-operational-disruptions-gao-warns/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/federal-cybersecurity-gaps-leave-us-food-supply-vulnerable-to-ransomware-and-operational-disruptions-gao-warns/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:55:29 +0000</pubDate>
+      <category>Research</category>
+      <description>GAO report finds federal cybersecurity efforts for the food and agriculture sector have gaps, leaving food supply exposed to ransomware and operational disruption. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Intel 471 exposes ransomware groups, IABs targeting manufacturing and automotive supply chains</title>
+      <link>https://industrialcyber.co/reports/intel-471-exposes-ransomware-groups-iabs-targeting-manufacturing-and-automotive-supply-chains/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/reports/intel-471-exposes-ransomware-groups-iabs-targeting-manufacturing-and-automotive-supply-chains/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:52:56 +0000</pubDate>
+      <category>Research</category>
+      <description>Intel 471 report says manufacturing and automotive supply chains remain prime targets for ransomware groups and initial access brokers. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>Belden Expands Industrial Networking Portfolio with New OT Security and Resilience Solutions</title>
+      <link>https://www.thefastmode.com/investments-and-expansions/51506-belden-expands-industrial-networking-portfolio-with-new-ot-security-and-resilience-solutions</link>
+      <guid isPermaLink="true">https://www.thefastmode.com/investments-and-expansions/51506-belden-expands-industrial-networking-portfolio-with-new-ot-security-and-resilience-solutions</guid>
+      <pubDate>Fri, 20 Nov 2026 01:19:32 +0000</pubDate>
+      <category>Technology</category>
+      <description>Belden expands its industrial networking portfolio with new OT security and resilience products. (Source: The Fast Mode)</description>
+    </item>
     <item>
       <title>Forescout Uses AI to Uncover 99 Vulnerabilities in Embedded Networking Software</title>
       <link>https://iotbusinessnews.com/2026/11/19/forescout-uses-ai-to-uncover-99-vulnerabilities-in-embedded-networking-software/</link>
