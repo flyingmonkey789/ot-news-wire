@@ -1,5 +1,21 @@
 [
   {
+    "id": "S95",
+    "url": "https://www.hindustantimes.com/world-news/us-news/illinois-investigates-apparent-cyberattack-on-algonquin-dam-on-fox-river-101795231315136.html",
+    "published": "2026-11-21T04:15:11Z",
+    "category": "Incidents",
+    "source": "Hindustan Times",
+    "sector": "Water",
+    "title": "Illinois investigates apparent cyberattack on Algonquin Dam on Fox River | Hindustan Times",
+    "summary": "Illinois authorities are investigating an apparent cyberattack on the Algonquin Dam on the Fox River, a water-control asset that raises concern for OT defenders at dams and waterways.",
+    "score": 8,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:operational-technology",
+    "added_at": "2026-11-21T11:11:27Z"
+  },
+  {
     "id": "S94",
     "url": "https://finance.biggo.com/news/db4145b7-bcef-4f84-af4f-bdb481f1c80d",
     "published": "2026-11-20T22:05:00Z",
