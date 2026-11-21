@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://finance.biggo.com/news/db4145b7-bcef-4f84-af4f-bdb481f1c80d",
+    "published": "2026-11-20T22:05:00Z",
+    "category": "Incidents",
+    "source": "BigGo Finance",
+    "sector": "Electric",
+    "title": "Japan's Osaki Electric Industries hit by ransomware via VPN authentication flaw; smart meter production halted",
+    "summary": "Osaki Electric Industries, a Japanese electrical equipment maker, suffered ransomware via a VPN authentication flaw, halting smart meter production."
+  },
+  {
     "url": "https://industrialcyber.co/reports/federal-cybersecurity-gaps-leave-us-food-supply-vulnerable-to-ransomware-and-operational-disruptions-gao-warns/",
     "published": "2026-11-20T10:55:29Z",
     "category": "Research",

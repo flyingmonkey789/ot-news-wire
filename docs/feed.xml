@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 20 Nov 2026 10:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:05:00 +0000</lastBuildDate>
+    <item>
+      <title>Japan's Osaki Electric Industries hit by ransomware via VPN authentication flaw; smart meter production halted</title>
+      <link>https://finance.biggo.com/news/db4145b7-bcef-4f84-af4f-bdb481f1c80d</link>
+      <guid isPermaLink="true">https://finance.biggo.com/news/db4145b7-bcef-4f84-af4f-bdb481f1c80d</guid>
+      <pubDate>Fri, 20 Nov 2026 22:05:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Osaki Electric Industries, a Japanese electrical equipment maker, suffered ransomware via a VPN authentication flaw, halting smart meter production. (Source: BigGo Finance)</description>
+    </item>
     <item>
       <title>Federal cybersecurity gaps leave US food supply vulnerable to ransomware and operational disruptions, GAO warns</title>
       <link>https://industrialcyber.co/reports/federal-cybersecurity-gaps-leave-us-food-supply-vulnerable-to-ransomware-and-operational-disruptions-gao-warns/</link>
