@@ -1,9 +1,3 @@
-{"ts": "2026-10-31T23:46:46Z", "fetched": 1222, "new": 1, "prefiltered_out": 1, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
-{"ts": "2026-11-01T01:24:53Z", "fetched": 1176, "new": 4, "prefiltered_out": 4, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
-{"ts": "2026-11-01T02:59:48Z", "fetched": 1263, "new": 4, "prefiltered_out": 3, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3400, "output_tokens": 96, "feed_size": 20}
-{"ts": "2026-11-01T04:04:10Z", "fetched": 1170, "new": 1, "prefiltered_out": 1, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
-{"ts": "2026-11-01T05:00:46Z", "fetched": 1209, "new": 0, "prefiltered_out": 0, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
-{"ts": "2026-11-01T05:56:44Z", "fetched": 1206, "new": 1, "prefiltered_out": 1, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
 {"ts": "2026-11-01T07:17:04Z", "fetched": 1209, "new": 3, "prefiltered_out": 3, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
 {"ts": "2026-11-01T08:12:36Z", "fetched": 1255, "new": 3, "prefiltered_out": 3, "reviewed": 0, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 0, "input_tokens": 0, "output_tokens": 0, "feed_size": 20}
 {"ts": "2026-11-01T08:59:15Z", "fetched": 1224, "new": 1, "prefiltered_out": 0, "reviewed": 1, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3395, "output_tokens": 94, "feed_size": 20}
@@ -308,3 +302,4 @@
 {"ts": "2026-11-21T11:11:27Z", "fetched": 1250, "new": 39, "prefiltered_out": 35, "reviewed": 4, "published": 1, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3779, "output_tokens": 378, "feed_size": 94}
 {"ts": "2026-11-21T18:00:06Z", "fetched": 1245, "new": 32, "prefiltered_out": 30, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3503, "output_tokens": 159, "feed_size": 94}
 {"ts": "2026-11-21T23:22:58Z", "fetched": 1263, "new": 23, "prefiltered_out": 21, "reviewed": 2, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3445, "output_tokens": 157, "feed_size": 94}
+{"ts": "2026-11-22T06:55:53Z", "fetched": 1203, "new": 29, "prefiltered_out": 24, "reviewed": 5, "published": 0, "regrouped": 0, "failing_feeds": 2, "api_calls": 1, "input_tokens": 3734, "output_tokens": 331, "feed_size": 94}
