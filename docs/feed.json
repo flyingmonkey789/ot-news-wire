@@ -1,5 +1,14 @@
 [
   {
+    "url": "https://mlq.ai/news/dragos-finds-attackers-inside-three-ai-inference-providers-and-resellers-reading-customer-prompts/",
+    "published": "2026-11-22T13:50:03Z",
+    "category": "Research",
+    "source": "MLQ.ai",
+    "sector": "Cross-sector",
+    "title": "Dragos finds attackers inside three AI inference providers and resellers reading customer prompts",
+    "summary": "Dragos reports attackers inside three AI inference providers and resellers reading customer prompts, a new risk for OT teams using hosted AI tools."
+  },
+  {
     "url": "https://www.hindustantimes.com/world-news/us-news/illinois-investigates-apparent-cyberattack-on-algonquin-dam-on-fox-river-101795231315136.html",
     "published": "2026-11-21T04:15:11Z",
     "category": "Incidents",

@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 21 Nov 2026 04:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:50:03 +0000</lastBuildDate>
+    <item>
+      <title>Dragos finds attackers inside three AI inference providers and resellers reading customer prompts</title>
+      <link>https://mlq.ai/news/dragos-finds-attackers-inside-three-ai-inference-providers-and-resellers-reading-customer-prompts/</link>
+      <guid isPermaLink="true">https://mlq.ai/news/dragos-finds-attackers-inside-three-ai-inference-providers-and-resellers-reading-customer-prompts/</guid>
+      <pubDate>Sun, 22 Nov 2026 13:50:03 +0000</pubDate>
+      <category>Research</category>
+      <description>Dragos reports attackers inside three AI inference providers and resellers reading customer prompts, a new risk for OT teams using hosted AI tools. (Source: MLQ.ai)</description>
+    </item>
     <item>
       <title>Illinois investigates apparent cyberattack on Algonquin Dam on Fox River | Hindustan Times</title>
       <link>https://www.hindustantimes.com/world-news/us-news/illinois-investigates-apparent-cyberattack-on-algonquin-dam-on-fox-river-101795231315136.html</link>
