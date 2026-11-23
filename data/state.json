@@ -11819,34 +11819,80 @@
     "u:219f4ad69d86f886": "2026-11-22T21:50:16Z",
     "t:35b964e54fa94ea9": "2026-11-22T21:50:16Z",
     "u:4af6c26d5f3ae275": "2026-11-22T21:50:16Z",
-    "t:20fff54aca6c5ea0": "2026-11-22T21:50:16Z"
+    "t:20fff54aca6c5ea0": "2026-11-22T21:50:16Z",
+    "t:d25682e64d3c081c": "2026-11-23T02:50:14Z",
+    "u:41951548043bf152": "2026-11-23T02:50:14Z",
+    "t:43ab0101f3e17589": "2026-11-23T02:50:14Z",
+    "u:abd072a306d662f2": "2026-11-23T02:50:14Z",
+    "u:61357bda33c777c7": "2026-11-23T02:50:14Z",
+    "t:474ea664036b9a3f": "2026-11-23T02:50:14Z",
+    "t:4398e1ed8788d6b2": "2026-11-23T02:50:14Z",
+    "u:fc57885b5215c895": "2026-11-23T02:50:14Z",
+    "u:56d5bfe49b1ff59a": "2026-11-23T02:50:14Z",
+    "t:19fb32d0390231b8": "2026-11-23T02:50:14Z",
+    "t:951616fd20d098d2": "2026-11-23T02:50:14Z",
+    "u:cea75d9f1dfdb518": "2026-11-23T02:50:14Z",
+    "u:72adca6b44d1d208": "2026-11-23T02:50:14Z",
+    "t:e9dec23431af728d": "2026-11-23T02:50:14Z",
+    "u:6c21414605ae28b6": "2026-11-23T02:50:14Z",
+    "t:dad4c0057fc089da": "2026-11-23T02:50:14Z",
+    "u:0357fb5e607c153c": "2026-11-23T02:50:14Z",
+    "t:dbcf46fbcde60fb5": "2026-11-23T02:50:14Z",
+    "t:b8fe6b2d00e2b59f": "2026-11-23T02:50:14Z",
+    "u:61c29ee5728e2615": "2026-11-23T02:50:14Z",
+    "u:e07da5ff579b4708": "2026-11-23T02:50:14Z",
+    "t:4be56d0335efb57f": "2026-11-23T02:50:14Z",
+    "t:0f93b82c3fc214b9": "2026-11-23T02:50:14Z",
+    "u:8c206a9af5b2a67e": "2026-11-23T02:50:14Z",
+    "u:4d015439451f1bc0": "2026-11-23T02:50:14Z",
+    "t:07c5c6f23f68d208": "2026-11-23T02:50:14Z",
+    "t:4db02d59df7c1384": "2026-11-23T02:50:14Z",
+    "u:240f9b74a3b2c8ea": "2026-11-23T02:50:14Z",
+    "t:202c29ce09680a18": "2026-11-23T02:50:14Z",
+    "u:3cc8b031a0a0aaa5": "2026-11-23T02:50:14Z",
+    "t:496f4282eb4540ea": "2026-11-23T02:50:14Z",
+    "u:e57513ce7b6853d4": "2026-11-23T02:50:14Z",
+    "t:35cc4d7ae45ec8a3": "2026-11-23T02:50:14Z",
+    "u:d1d88131eb93b338": "2026-11-23T02:50:14Z",
+    "u:156654fa9f8fdd3b": "2026-11-23T02:50:14Z",
+    "t:6499e635eb22a01d": "2026-11-23T02:50:14Z",
+    "t:54b67278b4eb69b6": "2026-11-23T02:50:14Z",
+    "u:9ca8033a1f7592c0": "2026-11-23T02:50:14Z",
+    "u:f03809f1ce8ed5ab": "2026-11-23T02:50:14Z",
+    "t:1bf050e27fc882e9": "2026-11-23T02:50:14Z",
+    "u:c41f0e14ec71d09e": "2026-11-23T02:50:14Z",
+    "t:36e3b81ef20b6ae0": "2026-11-23T02:50:14Z",
+    "u:b664ff047194834a": "2026-11-23T02:50:14Z",
+    "t:35605361a6c5e209": "2026-11-23T02:50:14Z",
+    "t:d7a909c733f2a7ea": "2026-11-23T02:50:14Z",
+    "u:8c7b1dbf3e5931c7": "2026-11-23T02:50:14Z"
   },
   "gnews_cache": {
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3pHZ0U2Q0VkcEtBSmszckVIYVR0SElwNDB5VFFCOEJTT0gtQkRPYjBQTUI0c2FVQWRkOVkxd0trOTNtUzQxamJUNnhsb3c2TTZORHF0WHdldkgtOFNMajJOT0VsajM3Y0dkeE0zWmFWZXk0eDhTX3RaSFpmNE5NX3JXWlpITlVJaXBlQmE4SV9lZy1CQm9NUUM1WGJKMTh1ajhBWHo2SUxfMS1odGkyY25BQ1p3TERrZnc?oc=5": "https://mlq.ai/news/dragos-finds-attackers-inside-three-ai-inference-providers-and-resellers-reading-customer-prompts/"
   },
   "feeds": {
     "feed:cisa-ics": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 30
     },
     "feed:cisa-advisories": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:cisa-alerts": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 30
     },
     "feed:cisa-news": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:ncsc-uk": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 20
     },
     "feed:cccs": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 50
     },
     "feed:acsc-alerts": {
@@ -11860,163 +11906,163 @@
       "issue": 2
     },
     "feed:cert-eu": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:ms-isac": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 50
     },
     "feed:forescout": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:kaspersky-ics": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 475
     },
     "feed:waterfall": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:talos": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 15
     },
     "feed:unit42": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 15
     },
     "feed:microsoft-security": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:eset": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 100
     },
     "feed:rapid7": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 20
     },
     "feed:industrial-cyber": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 9
     },
     "feed:securityweek-ics": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:the-record": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 5
     },
     "feed:bleepingcomputer": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 15
     },
     "feed:dark-reading": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 50
     },
     "feed:cybersecurity-dive": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:utility-dive": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:helpnetsecurity": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "feed:the-hacker-news": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 50
     },
     "feed:security-affairs": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 10
     },
     "query:ot-security": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 2
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 4
     },
     "query:operational-technology": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 7
     },
     "query:ics-scada": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 1
     },
     "query:plc": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 1
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 0
     },
     "query:cyber-physical": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 2
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 4
     },
     "query:water": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 3
     },
     "query:energy": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 3
     },
     "query:oil-gas": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 3
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 4
     },
     "query:manufacturing": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 2
-    },
-    "query:transport": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 19
-    },
-    "query:threat-actors": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 1
     },
+    "query:transport": {
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 16
+    },
+    "query:threat-actors": {
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 3
+    },
     "query:ot-malware": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 2
     },
     "query:ci-policy": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 9
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 13
     },
     "query:frameworks": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 3
     },
     "query:ot-vendors-business": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 51
     },
     "query:ot-security-market": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 1
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 2
     },
     "query:ot-research": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 9
     },
     "query:ot-vendor-sites": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 1
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 0
     },
     "query:ot-product-launches": {
-      "last_success": "2026-11-22T21:50:16Z",
-      "last_count": 38
+      "last_success": "2026-11-23T02:50:14Z",
+      "last_count": 37
     },
     "query:automation-vendor-security": {
-      "last_success": "2026-11-22T21:50:16Z",
+      "last_success": "2026-11-23T02:50:14Z",
       "last_count": 1
     }
   },
