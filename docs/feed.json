@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+    "published": "2026-11-24T10:44:44Z",
+    "category": "Advisory",
+    "source": "SecurityWeek",
+    "sector": "Cross-sector",
+    "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+    "summary": "Critical Bluetooth flaws in Elecbrakes trailer brake controllers could let a nearby attacker force braking, creating crash risk."
+  },
+  {
+    "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+    "published": "2026-11-24T10:35:04Z",
+    "category": "Incidents",
+    "source": "SecurityWeek",
+    "sector": "Oil & Gas",
+    "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+    "summary": "Peninsula Energy halted trading after a cyber incident at its Wyoming uranium project temporarily affected operations."
+  },
+  {
+    "url": "https://cybersecuritynews.com/suzlon-energy-cyberattack/",
+    "published": "2026-11-24T09:33:35Z",
+    "category": "Incidents",
+    "source": "CyberSecurityNews",
+    "sector": "Cross-sector",
+    "title": "Suzlon Energy Cyberattack – Company Confirms Critical Infrastructure Operational",
+    "summary": "Suzlon Energy confirmed a cyberattack and said its critical infrastructure remained operational."
+  },
+  {
+    "url": "https://industrialcyber.co/news/emerson-databricks-target-it-ot-data-gap-through-native-integration-of-industrial-data-fabric-with-enterprise-ai-platform/",
+    "published": "2026-11-24T07:09:01Z",
+    "category": "Technology",
+    "source": "Industrial Cyber",
+    "sector": "Manufacturing",
+    "title": "Emerson, Databricks target IT/OT data gap through native integration of industrial data fabric with enterprise AI platform",
+    "summary": "Emerson and Databricks announced a collaboration linking industrial data fabric with an enterprise AI platform to make OT data AI-ready."
+  },
+  {
     "url": "https://www.ynetnews.com/article/ryfh00ug17x",
     "published": "2026-11-24T00:27:15Z",
     "category": "Incidents",

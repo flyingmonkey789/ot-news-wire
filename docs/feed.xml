@@ -6,7 +6,39 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 00:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:44:44 +0000</lastBuildDate>
+    <item>
+      <title>Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking</title>
+      <link>https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/</link>
+      <guid isPermaLink="true">https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/</guid>
+      <pubDate>Tue, 24 Nov 2026 10:44:44 +0000</pubDate>
+      <category>Advisory</category>
+      <description>Critical Bluetooth flaws in Elecbrakes trailer brake controllers could let a nearby attacker force braking, creating crash risk. (Source: SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</title>
+      <link>https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</link>
+      <guid isPermaLink="true">https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</guid>
+      <pubDate>Tue, 24 Nov 2026 10:35:04 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Peninsula Energy halted trading after a cyber incident at its Wyoming uranium project temporarily affected operations. (Source: SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Suzlon Energy Cyberattack – Company Confirms Critical Infrastructure Operational</title>
+      <link>https://cybersecuritynews.com/suzlon-energy-cyberattack/</link>
+      <guid isPermaLink="true">https://cybersecuritynews.com/suzlon-energy-cyberattack/</guid>
+      <pubDate>Tue, 24 Nov 2026 09:33:35 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Suzlon Energy confirmed a cyberattack and said its critical infrastructure remained operational. (Source: CyberSecurityNews)</description>
+    </item>
+    <item>
+      <title>Emerson, Databricks target IT/OT data gap through native integration of industrial data fabric with enterprise AI platform</title>
+      <link>https://industrialcyber.co/news/emerson-databricks-target-it-ot-data-gap-through-native-integration-of-industrial-data-fabric-with-enterprise-ai-platform/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/news/emerson-databricks-target-it-ot-data-gap-through-native-integration-of-industrial-data-fabric-with-enterprise-ai-platform/</guid>
+      <pubDate>Tue, 24 Nov 2026 07:09:01 +0000</pubDate>
+      <category>Technology</category>
+      <description>Emerson and Databricks announced a collaboration linking industrial data fabric with an enterprise AI platform to make OT data AI-ready. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Report: Iran suspected in wave of cyberattacks on dozens of oil and gas tankers as US investigates</title>
       <link>https://www.ynetnews.com/article/ryfh00ug17x</link>
