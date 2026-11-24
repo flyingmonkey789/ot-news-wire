@@ -1,5 +1,59 @@
 [
   {
+    "url": "https://www.ynetnews.com/article/ryfh00ug17x",
+    "published": "2026-11-24T00:27:15Z",
+    "category": "Incidents",
+    "source": "Ynetnews",
+    "sector": "Oil & Gas",
+    "title": "Report: Iran suspected in wave of cyberattacks on dozens of oil and gas tankers as US investigates",
+    "summary": "Reports suggest Iran may be behind a wave of cyberattacks on dozens of oil and gas tankers, with a US investigation underway; details remain unconfirmed."
+  },
+  {
+    "url": "https://mlq.ai/news/army-publishes-a-guide-for-bases-to-plan-with-local-utilities-on-defending-critical-infrastructure/",
+    "published": "2026-11-23T23:26:47Z",
+    "category": "Policy",
+    "source": "MLQ.ai",
+    "sector": "Government",
+    "title": "Army publishes a guide for bases to plan with local utilities on defending critical infrastructure",
+    "summary": "The US Army published a guide helping military bases coordinate with local utilities to defend shared critical infrastructure."
+  },
+  {
+    "url": "https://manufacturingdigital.com/news/manufacturing-ransomware-attacks-climb-to-876-in-q3",
+    "published": "2026-11-23T16:52:07Z",
+    "category": "Research",
+    "source": "Manufacturing Digital",
+    "sector": "Manufacturing",
+    "title": "Dragos: Manufacturing Ransomware Attacks Climb to 876 in Q3",
+    "summary": "Dragos reports manufacturing ransomware attacks rose to 876 in Q3, highlighting sustained targeting of industrial producers."
+  },
+  {
+    "url": "https://www.dragos.com/blog/mtsa-risk-management",
+    "published": "2026-11-23T16:27:50Z",
+    "category": "Research",
+    "source": "Dragos",
+    "sector": "Water",
+    "title": "The Patch You Didn’t Apply: MTSA’s Risk Management Requirement",
+    "summary": "Dragos analyzes the Maritime Transportation Security Act's risk management requirement and the consequences of unapplied patches for covered facilities."
+  },
+  {
+    "url": "https://cybermagazine.com/news/dragos-industrial-ransomware-attacks-rise-11-qilin-leads",
+    "published": "2026-11-23T15:50:57Z",
+    "category": "Research",
+    "source": "Cyber Magazine",
+    "sector": "Cross-sector",
+    "title": "Dragos: Industrial Ransomware Attacks Rise 11% Led by Qilin",
+    "summary": "Dragos reports industrial ransomware attacks rose 11% year over year, with the Qilin group the most active, highlighting growing pressure on industrial operators."
+  },
+  {
+    "url": "https://www.hstoday.us/subject-matter-areas/critical-infrastructure/doe-laboratories-turning-to-ai-to-secure-electric-grid/",
+    "published": "2026-11-23T14:19:27Z",
+    "category": "Policy",
+    "source": "Homeland Security Today",
+    "sector": "Electric",
+    "title": "DOE, Laboratories Turning to AI to Secure Electric Grid",
+    "summary": "The US Department of Energy and national laboratories are applying AI tools to defend the electric grid, a government initiative relevant to utility defenders."
+  },
+  {
     "url": "https://mlq.ai/news/dragos-finds-attackers-inside-three-ai-inference-providers-and-resellers-reading-customer-prompts/",
     "published": "2026-11-22T13:50:03Z",
     "category": "Research",
