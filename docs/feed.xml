@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 10:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:54:07 +0000</lastBuildDate>
+    <item>
+      <title>Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</title>
+      <link>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</guid>
+      <pubDate>Tue, 24 Nov 2026 16:54:07 +0000</pubDate>
+      <category>Research</category>
+      <description>Iran-aligned group Volant Manticore was documented using an IPFS-based backdoor, KuboShell, against telecom, aviation and critical infrastructure targets in Cyprus. (Source: The Hacker News)</description>
+    </item>
+    <item>
+      <title>Osaki Electric ransomware attack disrupts smart meter production, raising supplier continuity concerns across Asia-Pacific</title>
+      <link>https://industrialcyber.co/threats-attacks/osaki-electric-ransomware-attack-disrupts-smart-meter-production-raising-supplier-continuity-concerns-across-asia-pacific/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/threats-attacks/osaki-electric-ransomware-attack-disrupts-smart-meter-production-raising-supplier-continuity-concerns-across-asia-pacific/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:08:37 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A ransomware attack disrupted smart meter production at Osaki Electric in Japan, according to an OT-ISAC report, raising supply continuity concerns across Asia-Pacific. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking</title>
       <link>https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/</link>

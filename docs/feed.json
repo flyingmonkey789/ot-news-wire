@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "published": "2026-11-24T16:54:07Z",
+    "category": "Research",
+    "source": "The Hacker News",
+    "sector": "Government",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "summary": "Iran-aligned group Volant Manticore was documented using an IPFS-based backdoor, KuboShell, against telecom, aviation and critical infrastructure targets in Cyprus."
+  },
+  {
+    "url": "https://industrialcyber.co/threats-attacks/osaki-electric-ransomware-attack-disrupts-smart-meter-production-raising-supplier-continuity-concerns-across-asia-pacific/",
+    "published": "2026-11-24T15:08:37Z",
+    "category": "Incidents",
+    "source": "Industrial Cyber",
+    "sector": "Electric",
+    "title": "Osaki Electric ransomware attack disrupts smart meter production, raising supplier continuity concerns across Asia-Pacific",
+    "summary": "A ransomware attack disrupted smart meter production at Osaki Electric in Japan, according to an OT-ISAC report, raising supply continuity concerns across Asia-Pacific."
+  },
+  {
     "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
     "published": "2026-11-24T10:44:44Z",
     "category": "Advisory",
