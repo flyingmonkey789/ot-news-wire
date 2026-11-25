@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 16:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:33:13 +0000</lastBuildDate>
+    <item>
+      <title>CIRCIA Final Rule Nears Completion: Prepare Now for New Cyber Incident Reporting Requirements</title>
+      <link>https://natlawreview.com/article/circia-final-rule-nears-completion-prepare-now-new-cyber-incident-reporting</link>
+      <guid isPermaLink="true">https://natlawreview.com/article/circia-final-rule-nears-completion-prepare-now-new-cyber-incident-reporting</guid>
+      <pubDate>Tue, 24 Nov 2026 23:33:13 +0000</pubDate>
+      <category>Policy</category>
+      <description>CISA's final rule implementing CIRCIA cyber incident reporting requirements is nearing completion, which will require critical infrastructure operators to report incidents on a set schedule. (Source: The National Law Review)</description>
+    </item>
     <item>
       <title>Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</title>
       <link>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</link>
