@@ -6,7 +6,23 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 24 Nov 2026 23:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 14:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Man indicted over June explosion at a Mesa substation that powers nearby data centers, including Apple's</title>
+      <link>https://mlq.ai/news/man-indicted-over-june-explosion-at-a-mesa-substation-that-powers-nearby-data-centers-including-apples/</link>
+      <guid isPermaLink="true">https://mlq.ai/news/man-indicted-over-june-explosion-at-a-mesa-substation-that-powers-nearby-data-centers-including-apples/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:02:52 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A man has been indicted over a June explosion at a Mesa substation that powers nearby data centers, a physical attack on grid infrastructure. (Source: MLQ.ai)</description>
+    </item>
+    <item>
+      <title>Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing</link>
+      <guid isPermaLink="true">https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Regional roundup reports cyberattacks affecting a Brazilian port, an Argentine pipeline and manufacturers in Latin America, highlighting growing industrial exposure. (Source: Dark Reading)</description>
+    </item>
     <item>
       <title>CIRCIA Final Rule Nears Completion: Prepare Now for New Cyber Incident Reporting Requirements</title>
       <link>https://natlawreview.com/article/circia-final-rule-nears-completion-prepare-now-new-cyber-incident-reporting</link>

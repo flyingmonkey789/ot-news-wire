@@ -1,5 +1,37 @@
 [
   {
+    "id": "S110",
+    "url": "https://mlq.ai/news/man-indicted-over-june-explosion-at-a-mesa-substation-that-powers-nearby-data-centers-including-apples/",
+    "published": "2026-11-25T14:02:52Z",
+    "category": "Incidents",
+    "source": "MLQ.ai",
+    "sector": "Electric",
+    "title": "Man indicted over June explosion at a Mesa substation that powers nearby data centers, including Apple's",
+    "summary": "A man has been indicted over a June explosion at a Mesa substation that powers nearby data centers, a physical attack on grid infrastructure.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:energy",
+    "added_at": "2026-11-25T15:40:00Z"
+  },
+  {
+    "id": "S111",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+    "published": "2026-11-25T14:00:00Z",
+    "category": "Incidents",
+    "source": "Dark Reading",
+    "sector": "Cross-sector",
+    "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+    "summary": "Regional roundup reports cyberattacks affecting a Brazilian port, an Argentine pipeline and manufacturers in Latin America, highlighting growing industrial exposure.",
+    "score": 6,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "feed:dark-reading",
+    "added_at": "2026-11-25T15:40:00Z"
+  },
+  {
     "id": "S109",
     "url": "https://natlawreview.com/article/circia-final-rule-nears-completion-prepare-now-new-cyber-incident-reporting",
     "published": "2026-11-24T23:33:13Z",
