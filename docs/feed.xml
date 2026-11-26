@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 14:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:06:55 +0000</lastBuildDate>
+    <item>
+      <title>Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations</title>
+      <link>https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html</link>
+      <guid isPermaLink="true">https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html</guid>
+      <pubDate>Wed, 25 Nov 2026 21:06:55 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Switzerland's NCSC reports its first cyberattacks carried out with AI agents against Swiss organisations, including critical infrastructure, and urges patching internet-facing systems within 24 hours. (Source: Security Affairs)</description>
+    </item>
     <item>
       <title>Man indicted over June explosion at a Mesa substation that powers nearby data centers, including Apple's</title>
       <link>https://mlq.ai/news/man-indicted-over-june-explosion-at-a-mesa-substation-that-powers-nearby-data-centers-including-apples/</link>

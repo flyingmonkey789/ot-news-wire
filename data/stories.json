@@ -1,5 +1,21 @@
 [
   {
+    "id": "S112",
+    "url": "https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html",
+    "published": "2026-11-25T21:06:55Z",
+    "category": "Incidents",
+    "source": "Security Affairs",
+    "sector": "Cross-sector",
+    "title": "Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations",
+    "summary": "Switzerland's NCSC reports its first cyberattacks carried out with AI agents against Swiss organisations, including critical infrastructure, and urges patching internet-facing systems within 24 hours.",
+    "score": 8,
+    "source_type": "media",
+    "is_primary": true,
+    "vendor_key": null,
+    "origin": "feed:security-affairs",
+    "added_at": "2026-11-26T00:25:20Z"
+  },
+  {
     "id": "S110",
     "url": "https://mlq.ai/news/man-indicted-over-june-explosion-at-a-mesa-substation-that-powers-nearby-data-centers-including-apples/",
     "published": "2026-11-25T14:02:52Z",
