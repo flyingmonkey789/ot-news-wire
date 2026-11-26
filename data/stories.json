@@ -1,5 +1,21 @@
 [
   {
+    "id": "S117",
+    "url": "https://gulfbusiness.com/en/2026/saudi-arabia/saudi-arabias-jazan-refinery-attacked-by-houthis-coalition-destroys-missile-launch-platform/",
+    "published": "2026-11-26T15:22:01Z",
+    "category": "Incidents",
+    "source": "Gulf Business",
+    "sector": "Oil & Gas",
+    "title": "Saudi Arabia’s Jazan refinery attacked by Houthis, coalition destroys missile launch platform",
+    "summary": "Houthi missile attack reportedly struck Saudi Arabia's Jazan refinery, with coalition forces destroying a missile launch platform in response; a direct attack on energy infrastructure.",
+    "score": 8,
+    "source_type": "media",
+    "is_primary": false,
+    "vendor_key": null,
+    "origin": "query:oil-gas",
+    "added_at": "2026-11-26T19:39:24Z"
+  },
+  {
     "id": "S115",
     "url": "https://themachinemaker.com/news/yokogawa-launches-oprex-universal-autonomous-control-system-r1-01-for-process-automation/",
     "published": "2026-11-26T08:34:58Z",
