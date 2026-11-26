@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://themachinemaker.com/news/yokogawa-launches-oprex-universal-autonomous-control-system-r1-01-for-process-automation/",
+    "published": "2026-11-26T08:34:58Z",
+    "category": "Technology",
+    "source": "Machine Maker",
+    "sector": "Manufacturing",
+    "title": "Yokogawa Launches OpreX Universal Autonomous Control System R1.01 for Process Automation",
+    "summary": "Yokogawa released OpreX Universal Autonomous Control System R1.01 for process automation plants, an automation product update rather than a security capability."
+  },
+  {
+    "url": "https://mlq.ai/news/minimax-systems-opened-secret-links-in-ai-prompts-dragos-researcher-says/",
+    "published": "2026-11-26T08:34:17Z",
+    "category": "Research",
+    "source": "MLQ.ai",
+    "sector": "Cross-sector",
+    "title": "MiniMax systems opened secret links in AI prompts, Dragos researcher says",
+    "summary": "A Dragos researcher reports that MiniMax systems exposed secret links embedded in AI prompts, a finding relevant to securing AI-enabled industrial workflows."
+  },
+  {
+    "url": "https://indiatechnologynews.in/trump-administration-launches-nationwide-cybersecurity-overhaul-to-protect-us-critical-infrastructure/",
+    "published": "2026-11-26T08:29:42Z",
+    "category": "Policy",
+    "source": "India Technology News",
+    "sector": "Government",
+    "title": "Trump Administration Launches Nationwide Cybersecurity Overhaul to Protect US Critical Infrastructure",
+    "summary": "The US administration launched a nationwide cybersecurity overhaul aimed at protecting critical infrastructure, with operator-facing implications still to be defined."
+  },
+  {
+    "url": "https://mlq.ai/news/kyoei-steel-says-a-cyberattack-hit-its-vinton-steel-mill-in-texas/",
+    "published": "2026-11-26T08:15:00Z",
+    "category": "Incidents",
+    "source": "MLQ.ai",
+    "sector": "Manufacturing",
+    "title": "Kyoei Steel says a cyberattack hit its Vinton Steel mill in Texas",
+    "summary": "Kyoei Steel reports a cyberattack disrupted its Vinton Steel mill in Texas, with the company confirming the incident affected the facility."
+  },
+  {
     "url": "https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html",
     "published": "2026-11-25T21:06:55Z",
     "category": "Incidents",

@@ -6,7 +6,39 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Nov 2026 21:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:34:58 +0000</lastBuildDate>
+    <item>
+      <title>Yokogawa Launches OpreX Universal Autonomous Control System R1.01 for Process Automation</title>
+      <link>https://themachinemaker.com/news/yokogawa-launches-oprex-universal-autonomous-control-system-r1-01-for-process-automation/</link>
+      <guid isPermaLink="true">https://themachinemaker.com/news/yokogawa-launches-oprex-universal-autonomous-control-system-r1-01-for-process-automation/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:34:58 +0000</pubDate>
+      <category>Technology</category>
+      <description>Yokogawa released OpreX Universal Autonomous Control System R1.01 for process automation plants, an automation product update rather than a security capability. (Source: Machine Maker)</description>
+    </item>
+    <item>
+      <title>MiniMax systems opened secret links in AI prompts, Dragos researcher says</title>
+      <link>https://mlq.ai/news/minimax-systems-opened-secret-links-in-ai-prompts-dragos-researcher-says/</link>
+      <guid isPermaLink="true">https://mlq.ai/news/minimax-systems-opened-secret-links-in-ai-prompts-dragos-researcher-says/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:34:17 +0000</pubDate>
+      <category>Research</category>
+      <description>A Dragos researcher reports that MiniMax systems exposed secret links embedded in AI prompts, a finding relevant to securing AI-enabled industrial workflows. (Source: MLQ.ai)</description>
+    </item>
+    <item>
+      <title>Trump Administration Launches Nationwide Cybersecurity Overhaul to Protect US Critical Infrastructure</title>
+      <link>https://indiatechnologynews.in/trump-administration-launches-nationwide-cybersecurity-overhaul-to-protect-us-critical-infrastructure/</link>
+      <guid isPermaLink="true">https://indiatechnologynews.in/trump-administration-launches-nationwide-cybersecurity-overhaul-to-protect-us-critical-infrastructure/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:29:42 +0000</pubDate>
+      <category>Policy</category>
+      <description>The US administration launched a nationwide cybersecurity overhaul aimed at protecting critical infrastructure, with operator-facing implications still to be defined. (Source: India Technology News)</description>
+    </item>
+    <item>
+      <title>Kyoei Steel says a cyberattack hit its Vinton Steel mill in Texas</title>
+      <link>https://mlq.ai/news/kyoei-steel-says-a-cyberattack-hit-its-vinton-steel-mill-in-texas/</link>
+      <guid isPermaLink="true">https://mlq.ai/news/kyoei-steel-says-a-cyberattack-hit-its-vinton-steel-mill-in-texas/</guid>
+      <pubDate>Thu, 26 Nov 2026 08:15:00 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Kyoei Steel reports a cyberattack disrupted its Vinton Steel mill in Texas, with the company confirming the incident affected the facility. (Source: MLQ.ai)</description>
+    </item>
     <item>
       <title>Switzerland Confirms First AI-Agent Cyberattacks on Local Organisations</title>
       <link>https://securityaffairs.com/204004/hacking/switzerland-confirms-first-ai-agent-cyberattacks-on-local-organisations.html</link>
