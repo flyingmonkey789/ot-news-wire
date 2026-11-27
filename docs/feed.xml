@@ -6,7 +6,15 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 27 Nov 2026 10:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:48:06 +0000</lastBuildDate>
+    <item>
+      <title>Senegal: Law 2026-20 on critical infrastructure published</title>
+      <link>https://www.socialnetlink.org/2026/11/27/senegal-law-2026-20-critical-information-infrastructure-digital-security/</link>
+      <guid isPermaLink="true">https://www.socialnetlink.org/2026/11/27/senegal-law-2026-20-critical-information-infrastructure-digital-security/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:48:06 +0000</pubDate>
+      <category>Policy</category>
+      <description>Senegal published Law 2026-20 on critical infrastructure, establishing a national legal framework for protecting critical infrastructure operators. (Source: socialnetlink.org)</description>
+    </item>
     <item>
       <title>Cyberattack disrupts Port of Santos IT systems for nearly two weeks</title>
       <link>https://safety4sea.com/cyberattack-disrupts-port-of-santos-it-systems-for-nearly-two-weeks/</link>
