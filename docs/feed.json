@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://safety4sea.com/cyberattack-disrupts-port-of-santos-it-systems-for-nearly-two-weeks/",
+    "published": "2026-11-27T10:56:07Z",
+    "category": "Incidents",
+    "source": "safety4sea",
+    "sector": "Transportation",
+    "title": "Cyberattack disrupts Port of Santos IT systems for nearly two weeks",
+    "summary": "A cyberattack disrupted IT systems at the Port of Santos in Brazil for nearly two weeks, showing operational spillover risk at a major port."
+  },
+  {
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15992",
+    "published": "2026-11-27T09:03:33Z",
+    "category": "Technology",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "sector": "Manufacturing",
+    "title": "Nozomi Networks, POSCO DX Partner on OT Security",
+    "summary": "Nozomi Networks and POSCO DX announced a partnership to deliver OT security, a tie-up between an OT security vendor and an industrial services provider."
+  },
+  {
+    "url": "https://industrialcyber.co/threats-attacks/booba-ransomware-spreads-from-us-water-treatment-plant-to-local-government-network-exposing-it-ot-network-security-gap/",
+    "published": "2026-11-27T07:39:03Z",
+    "category": "Incidents",
+    "source": "Industrial Cyber",
+    "sector": "Water",
+    "title": "Booba ransomware spreads from US water treatment plant to local government network, exposing IT/OT network security gap",
+    "summary": "Booba ransomware hit an East Coast water treatment plant in November and spread to a local government network, exposing IT/OT segmentation gaps."
+  },
+  {
+    "url": "https://industrialcyber.co/regulation-standards-and-compliance/bsi-publishes-first-standards-supporting-eu-cyber-resilience-act-gives-manufacturers-product-security-risk-framework/",
+    "published": "2026-11-27T07:37:52Z",
+    "category": "Policy",
+    "source": "Industrial Cyber",
+    "sector": "Cross-sector",
+    "title": "BSI publishes first standards supporting EU Cyber Resilience Act, gives manufacturers product security risk framework",
+    "summary": "BSI published the first standards supporting the EU Cyber Resilience Act, giving manufacturers a product security risk framework."
+  },
+  {
     "url": "https://gulfbusiness.com/en/2026/saudi-arabia/saudi-arabias-jazan-refinery-attacked-by-houthis-coalition-destroys-missile-launch-platform/",
     "published": "2026-11-26T15:22:01Z",
     "category": "Incidents",

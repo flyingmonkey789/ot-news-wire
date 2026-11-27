@@ -6,7 +6,39 @@
     <description>The OT security news aggregator</description>
     <language>en-us</language>
     <atom:link href="https://otnewswire.com/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Nov 2026 15:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:56:07 +0000</lastBuildDate>
+    <item>
+      <title>Cyberattack disrupts Port of Santos IT systems for nearly two weeks</title>
+      <link>https://safety4sea.com/cyberattack-disrupts-port-of-santos-it-systems-for-nearly-two-weeks/</link>
+      <guid isPermaLink="true">https://safety4sea.com/cyberattack-disrupts-port-of-santos-it-systems-for-nearly-two-weeks/</guid>
+      <pubDate>Fri, 27 Nov 2026 10:56:07 +0000</pubDate>
+      <category>Incidents</category>
+      <description>A cyberattack disrupted IT systems at the Port of Santos in Brazil for nearly two weeks, showing operational spillover risk at a major port. (Source: safety4sea)</description>
+    </item>
+    <item>
+      <title>Nozomi Networks, POSCO DX Partner on OT Security</title>
+      <link>https://www.thelec.net/news/articleView.html?idxno=15992</link>
+      <guid isPermaLink="true">https://www.thelec.net/news/articleView.html?idxno=15992</guid>
+      <pubDate>Fri, 27 Nov 2026 09:03:33 +0000</pubDate>
+      <category>Technology</category>
+      <description>Nozomi Networks and POSCO DX announced a partnership to deliver OT security, a tie-up between an OT security vendor and an industrial services provider. (Source: THE ELEC, Korea Electronics Industry Media)</description>
+    </item>
+    <item>
+      <title>Booba ransomware spreads from US water treatment plant to local government network, exposing IT/OT network security gap</title>
+      <link>https://industrialcyber.co/threats-attacks/booba-ransomware-spreads-from-us-water-treatment-plant-to-local-government-network-exposing-it-ot-network-security-gap/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/threats-attacks/booba-ransomware-spreads-from-us-water-treatment-plant-to-local-government-network-exposing-it-ot-network-security-gap/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:39:03 +0000</pubDate>
+      <category>Incidents</category>
+      <description>Booba ransomware hit an East Coast water treatment plant in November and spread to a local government network, exposing IT/OT segmentation gaps. (Source: Industrial Cyber)</description>
+    </item>
+    <item>
+      <title>BSI publishes first standards supporting EU Cyber Resilience Act, gives manufacturers product security risk framework</title>
+      <link>https://industrialcyber.co/regulation-standards-and-compliance/bsi-publishes-first-standards-supporting-eu-cyber-resilience-act-gives-manufacturers-product-security-risk-framework/</link>
+      <guid isPermaLink="true">https://industrialcyber.co/regulation-standards-and-compliance/bsi-publishes-first-standards-supporting-eu-cyber-resilience-act-gives-manufacturers-product-security-risk-framework/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:37:52 +0000</pubDate>
+      <category>Policy</category>
+      <description>BSI published the first standards supporting the EU Cyber Resilience Act, giving manufacturers a product security risk framework. (Source: Industrial Cyber)</description>
+    </item>
     <item>
       <title>Saudi Arabia’s Jazan refinery attacked by Houthis, coalition destroys missile launch platform</title>
       <link>https://gulfbusiness.com/en/2026/saudi-arabia/saudi-arabias-jazan-refinery-attacked-by-houthis-coalition-destroys-missile-launch-platform/</link>
